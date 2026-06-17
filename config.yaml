@@ -1,0 +1,72 @@
+# Configuration for the internship verifier.
+#
+# Each company has a "type" telling the checker which API to use:
+#   - greenhouse: needs `token` (the board slug in boards-api.greenhouse.io/v1/boards/<token>/jobs)
+#   - lever:      needs `token` (the slug in api.lever.co/v0/postings/<token>)
+#   - workday:    needs `base`, `tenant`, `site`
+#
+# Add / remove companies freely. To find a Greenhouse token, open a company's
+# job board and look for boards.greenhouse.io/<token>.
+
+# Where to send the morning digest. Override with the EMAIL_TO secret/env if set.
+recipient: mateimacqueen@gmail.com
+
+# A posting is considered an "internship" if its title contains any of these
+# (case-insensitive). Tune to taste.
+keywords:
+  - intern
+  - interns
+  - internship
+  - internships
+  - co-op
+  - coop
+  - "working student"
+  - "new grad"
+  - "new graduate"
+  - "early career"
+  - "early careers"
+  - "early talent"
+  - "university grad"
+  - "graduate program"
+  - "summer analyst"
+  - "off-cycle"
+  - apprentice
+  - trainee
+
+# Optional: only keep postings whose location contains one of these substrings
+# (case-insensitive). Leave empty to accept every location.
+locations: []
+
+companies:
+  # --- Big tech / product companies ---
+  - name: Stripe
+    type: greenhouse
+    token: stripe
+  - name: Databricks
+    type: greenhouse
+    token: databricks
+  - name: NVIDIA
+    type: workday
+    base: https://nvidia.wd5.myworkdayjobs.com
+    tenant: nvidia
+    site: NVIDIAExternalCareerSite
+
+  # --- Quant / trading firms ---
+  - name: Jane Street
+    type: greenhouse
+    token: janestreet
+  - name: DRW
+    type: greenhouse
+    token: drweng
+  - name: IMC Trading
+    type: greenhouse
+    token: imc
+  - name: Akuna Capital
+    type: greenhouse
+    token: akunacapital
+  - name: Jump Trading
+    type: greenhouse
+    token: jumptrading
+  - name: Virtu Financial
+    type: greenhouse
+    token: virtu
