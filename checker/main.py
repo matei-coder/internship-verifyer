@@ -92,19 +92,30 @@ def main() -> int:
     # so the inbox doesn't get spammed with a giant "new" list later.
     to_report = postings if first_run else new_postings
 
+    # First run sends a compact per-company summary (could be hundreds of
+    # postings); later runs list each new posting in full.
+    def build_email():
+        if first_run:
+            return (
+                f"[Internships] Tracking started — {len(to_report)} open",
+                *notify.render_summary(to_report),
+            )
+        return (
+            f"[Internships] {len(to_report)} new posting(s)",
+            *notify.render(to_report, first_run),
+        )
+
     if args.dry_run:
-        text, _ = notify.render(to_report, first_run) if to_report else ("(nothing)", "")
+        if to_report:
+            _, text, _ = build_email()
+        else:
+            text = "(nothing new)"
         print("\n--- DRY RUN: email body ---\n")
         print(text)
         return 0
 
     if to_report and not args.no_email:
-        subject = (
-            f"[Internships] Tracking started — {len(to_report)} open"
-            if first_run
-            else f"[Internships] {len(to_report)} new posting(s)"
-        )
-        text, html = notify.render(to_report, first_run)
+        subject, text, html = build_email()
         recipient = config.get("recipient", "")
         notify.send(subject, text, html, recipient)
         print(f"Email sent ({len(to_report)} postings).")

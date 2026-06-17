@@ -161,18 +161,63 @@ def fetch_smartrecruiters(company: dict) -> list[dict]:
     return out
 
 
+def fetch_amazon(company: dict) -> list[dict]:
+    """Amazon's careers site exposes a clean public JSON endpoint."""
+    queries = company.get("queries", ["intern"])
+    out = {}
+    for q in queries:
+        offset = 0
+        limit = 100
+        while True:
+            params = {
+                "base_query": q,
+                "result_limit": limit,
+                "offset": offset,
+                "sort": "recent",
+            }
+            resp = requests.get(
+                "https://www.amazon.jobs/en/search.json",
+                params=params,
+                headers=HEADERS,
+                timeout=TIMEOUT,
+            )
+            resp.raise_for_status()
+            data = resp.json()
+            jobs = data.get("jobs", [])
+            for job in jobs:
+                jid = str(job.get("id_icims") or job.get("id"))
+                out[jid] = {
+                    "id": jid,
+                    "title": job.get("title", "").strip(),
+                    "location": (job.get("normalized_location") or job.get("city") or "").strip(),
+                    "url": "https://www.amazon.jobs" + job.get("job_path", ""),
+                    "company": company["name"],
+                }
+            offset += limit
+            if offset >= data.get("hits", 0) or not jobs:
+                break
+    return list(out.values())
+
+
 FETCHERS = {
     "greenhouse": fetch_greenhouse,
     "lever": fetch_lever,
     "workday": fetch_workday,
     "ashby": fetch_ashby,
     "smartrecruiters": fetch_smartrecruiters,
+    "amazon": fetch_amazon,
 }
 
 
 def fetch_company(company: dict) -> list[dict]:
     kind = company.get("type")
     fetcher = FETCHERS.get(kind)
-    if fetcher is None:
-        raise ValueError(f"Unknown company type {kind!r} for {company.get('name')}")
-    return fetcher(company)
+    if fetcher is not None:
+        return fetcher(company)
+    # Browser-scraped sources live in scrapers.py (imported lazily so that
+    # API-only runs don't need Playwright installed).
+    if kind in ("google", "microsoft"):
+        from checker import scrapers
+
+        return scrapers.scrape(company)
+    raise ValueError(f"Unknown company type {kind!r} for {company.get('name')}")

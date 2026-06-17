@@ -1,18 +1,21 @@
 # Configuration for the internship verifier.
 #
-# Each company has a "type" telling the checker which API to use:
-#   - greenhouse: needs `token` (the board slug in boards-api.greenhouse.io/v1/boards/<token>/jobs)
-#   - lever:      needs `token` (the slug in api.lever.co/v0/postings/<token>)
-#   - workday:    needs `base`, `tenant`, `site`
+# Each company has a "type" telling the checker how to fetch its postings:
+#   - greenhouse / lever / ashby / smartrecruiters : public JSON API, needs `token`
+#   - workday        : needs `base`, `tenant`, `site`
+#   - amazon         : Amazon's public search.json, needs `queries` (list)
+#   - google         : browser-scraped (Playwright), optional `query`
+#   - microsoft      : browser-scraped (Playwright), optional `query`
 #
-# Add / remove companies freely. To find a Greenhouse token, open a company's
-# job board and look for boards.greenhouse.io/<token>.
+# Tokens were auto-detected by scripts/detect_ats.py. To add a company, find its
+# job board (boards.greenhouse.io/<token>, jobs.lever.co/<token>, etc.) or re-run
+# the detector.
 
 # Where to send the morning digest. Override with the EMAIL_TO secret/env if set.
 recipient: mateimacqueen@gmail.com
 
-# A posting is considered an "internship" if its title contains any of these
-# (case-insensitive). Tune to taste.
+# A posting counts as an "internship" if its title contains any of these
+# (whole-word, case-insensitive).
 keywords:
   - intern
   - interns
@@ -32,41 +35,232 @@ keywords:
   - "off-cycle"
   - apprentice
   - trainee
+  - placement
+  - "student researcher"
 
 # Optional: only keep postings whose location contains one of these substrings
 # (case-insensitive). Leave empty to accept every location.
 locations: []
 
 companies:
-  # --- Big tech / product companies ---
+  # ===================== Quant / Trading / HFT =====================
+  - name: Jane Street
+    type: greenhouse
+    token: janestreet
+  - name: IMC Trading
+    type: greenhouse
+    token: imc
+  - name: Flow Traders
+    type: greenhouse
+    token: flowtraders
+  - name: Hudson River Trading
+    type: greenhouse
+    token: hrttalentcommunity
+  - name: Jump Trading
+    type: greenhouse
+    token: jumptrading
+  - name: XTX Markets
+    type: greenhouse
+    token: xtxmarketstechnologies
+  - name: Maven Securities
+    type: ashby
+    token: maven
+  - name: Marshall Wace
+    type: greenhouse
+    token: marshallwace
+  - name: Da Vinci Derivatives
+    type: greenhouse
+    token: davinciderivatives
+  - name: Quadrature Capital
+    type: greenhouse
+    token: quadraturecapital
+  - name: Five Rings
+    type: greenhouse
+    token: fiveringsllc
+  - name: Man Group
+    type: greenhouse
+    token: mangroup
+  - name: Point72
+    type: greenhouse
+    token: point72
+  - name: Squarepoint Capital
+    type: greenhouse
+    token: squarepointcapital
+  - name: WorldQuant
+    type: greenhouse
+    token: worldquant
+  - name: Tower Research Capital
+    type: greenhouse
+    token: towerresearchcapital
+  - name: Akuna Capital
+    type: greenhouse
+    token: akunacapital
+  - name: AQR Capital Management
+    type: greenhouse
+    token: aqr
+  - name: Schonfeld
+    type: greenhouse
+    token: schonfeld
+  - name: DRW
+    type: greenhouse
+    token: drweng
+  - name: Virtu Financial
+    type: greenhouse
+    token: virtu
+
+  # ===================== Big Tech / Product =====================
+  - name: Amazon
+    type: amazon
+    queries:
+      - software development engineer intern
+      - data scientist intern
+      - applied scientist intern
+      - machine learning intern
+      - business intern
+  - name: Google
+    type: google
+    query: intern
+  - name: Microsoft
+    type: microsoft
+    query: intern
+  - name: NVIDIA
+    type: workday
+    base: https://nvidia.wd5.myworkdayjobs.com
+    tenant: nvidia
+    site: NVIDIAExternalCareerSite
   - name: Stripe
     type: greenhouse
     token: stripe
   - name: Databricks
     type: greenhouse
     token: databricks
-  - name: NVIDIA
-    type: workday
-    base: https://nvidia.wd5.myworkdayjobs.com
-    tenant: nvidia
-    site: NVIDIAExternalCareerSite
+  - name: Snowflake
+    type: ashby
+    token: snowflake
+  - name: Palantir
+    type: lever
+    token: palantir
+  - name: MongoDB
+    type: greenhouse
+    token: mongodb
+  - name: Uber
+    type: smartrecruiters
+    token: uber
+  - name: Spotify
+    type: lever
+    token: spotify
+  - name: Datadog
+    type: greenhouse
+    token: datadog
+  - name: Cloudflare
+    type: greenhouse
+    token: cloudflare
+  - name: GitLab
+    type: greenhouse
+    token: gitlab
+  - name: Elastic
+    type: greenhouse
+    token: elastic
+  - name: JetBrains
+    type: greenhouse
+    token: jetbrains
+  - name: Neo4j
+    type: greenhouse
+    token: neo4j
 
-  # --- Quant / trading firms ---
-  - name: Jane Street
+  # ===================== AI labs =====================
+  - name: OpenAI
+    type: ashby
+    token: openai
+  - name: Anthropic
     type: greenhouse
-    token: janestreet
-  - name: DRW
+    token: anthropic
+  - name: Google DeepMind
     type: greenhouse
-    token: drweng
-  - name: IMC Trading
+    token: deepmind
+  - name: Mistral AI
+    type: lever
+    token: mistral
+  - name: Cohere
+    type: ashby
+    token: cohere
+  - name: ElevenLabs
+    type: ashby
+    token: elevenlabs
+  - name: Synthesia
+    type: ashby
+    token: synthesia
+  - name: Aleph Alpha
+    type: ashby
+    token: AlephAlpha
+  - name: Helsing
     type: greenhouse
-    token: imc
-  - name: Akuna Capital
+    token: helsing
+  - name: Wayve
     type: greenhouse
-    token: akunacapital
-  - name: Jump Trading
+    token: wayve
+  - name: Graphcore
     type: greenhouse
-    token: jumptrading
-  - name: Virtu Financial
+    token: graphcore
+
+  # ===================== Deep tech / EU scaleups =====================
+  - name: CERN
+    type: smartrecruiters
+    token: cern
+  - name: Celonis
     type: greenhouse
-    token: virtu
+    token: celonis
+  - name: UiPath
+    type: ashby
+    token: uipath
+  - name: Improbable
+    type: ashby
+    token: improbable
+  - name: Adyen
+    type: greenhouse
+    token: adyen
+  - name: Wise
+    type: smartrecruiters
+    token: wise
+  - name: Canva
+    type: smartrecruiters
+    token: canva
+  - name: Deliveroo
+    type: ashby
+    token: deliveroo
+  - name: N26
+    type: greenhouse
+    token: n26
+  - name: Trade Republic
+    type: greenhouse
+    token: traderepublic
+  - name: Contentful
+    type: greenhouse
+    token: contentful
+  - name: Skyscanner
+    type: greenhouse
+    token: skyscanner
+  - name: Monzo
+    type: greenhouse
+    token: monzo
+  - name: Check24
+    type: smartrecruiters
+    token: check24
+  - name: SonarSource
+    type: lever
+    token: sonarsource
+  - name: Wolt
+    type: greenhouse
+    token: wolt
+  - name: BlaBlaCar
+    type: lever
+    token: blablacar
+  - name: Back Market
+    type: ashby
+    token: backmarket
+  - name: SumUp
+    type: greenhouse
+    token: sumup
+  - name: DeepL
+    type: ashby
+    token: DeepL

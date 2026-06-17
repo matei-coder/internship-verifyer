@@ -15,16 +15,30 @@ postings. Runs free on GitHub Actions — your laptop doesn't need to be on.
 
 ## Configure companies
 
-Edit `config.yaml`. Each entry needs a `type`:
+Edit `config.yaml`. ~70 companies are pre-configured (quant firms, big tech, AI
+labs, EU scaleups). Each entry needs a `type`:
 
-| type        | fields needed              | how to find it |
-|-------------|----------------------------|----------------|
-| `greenhouse`| `token`                    | open the company's job board; URL is `boards.greenhouse.io/<token>` |
-| `lever`     | `token`                    | URL is `jobs.lever.co/<token>` |
-| `workday`   | `base`, `tenant`, `site`   | from the careers URL `https://<tenant>.<xx>.myworkdayjobs.com/<site>` |
+| type             | fields needed            | how to find it |
+|------------------|--------------------------|----------------|
+| `greenhouse`     | `token`                  | `boards.greenhouse.io/<token>` |
+| `lever`          | `token`                  | `jobs.lever.co/<token>` |
+| `ashby`          | `token`                  | `jobs.ashbyhq.com/<token>` |
+| `smartrecruiters`| `token`                  | `jobs.smartrecruiters.com/<token>` |
+| `workday`        | `base`, `tenant`, `site` | `https://<tenant>.<xx>.myworkdayjobs.com/<site>` |
+| `amazon`         | `queries` (list)         | Amazon's public search.json |
+| `google`         | `query` (optional)       | browser-scraped (Playwright) |
+| `microsoft`      | `query` (optional)       | browser-scraped (Playwright) |
 
-Seeded and verified working: Stripe, Databricks, NVIDIA, Jane Street, DRW,
-IMC Trading, Akuna Capital, Jump Trading, Virtu.
+To auto-detect the ATS for a new batch of companies, drop a JSON list in
+`internship_list/` and run `python scripts/detect_ats.py`.
+
+### Note on Google / Microsoft / Amazon
+These run their own systems, not a standard ATS:
+- **Amazon** has a clean public JSON API — reliable.
+- **Microsoft** is browser-scraped from `apply.careers.microsoft.com` — reliable.
+- **Google** is browser-scraped but actively rate-limits bots. It is **best
+  effort**: a fresh CI IP hitting it once a day usually works, but it may
+  occasionally return nothing. The run never fails because of it.
 
 ## Email setup (Gmail)
 

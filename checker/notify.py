@@ -61,6 +61,28 @@ def render(postings: list[dict], first_run: bool) -> tuple[str, str]:
     return text, html
 
 
+def render_summary(postings: list[dict]) -> tuple[str, str]:
+    """Compact first-run digest: totals per company, not every posting."""
+    grouped = _group_by_company(postings)
+    n = len(postings)
+    intro = (
+        f"Tracking started. {n} internship postings are currently open across "
+        f"{len(grouped)} companies. From now on you'll only get NEW ones."
+    )
+    lines = [intro, ""]
+    for company in sorted(grouped):
+        lines.append(f"  {company}: {len(grouped[company])}")
+    text = "\n".join(lines)
+
+    html_parts = [f"<h2>{escape(intro)}</h2><ul>"]
+    for company in sorted(grouped):
+        html_parts.append(
+            f"<li><b>{escape(company)}</b>: {len(grouped[company])}</li>"
+        )
+    html_parts.append("</ul>")
+    return text, "\n".join(html_parts)
+
+
 def send(subject: str, text: str, html: str, recipient: str) -> None:
     user = os.environ.get("GMAIL_USER")
     password = os.environ.get("GMAIL_APP_PASSWORD")
