@@ -2,9 +2,11 @@ name: Internship check
 
 on:
   schedule:
-    # 06:00 Europe/Bucharest. GitHub cron is UTC; RO is UTC+3 (summer) / UTC+2 (winter).
-    # 03:00 UTC ~= 06:00 RO in summer. Adjust if you prefer a different hour.
-    - cron: "0 3 * * *"
+    # GitHub cron is UTC; RO is UTC+3 (summer) / UTC+2 (winter).
+    # Two runs as a safety net — if one is delayed/skipped, the other covers it.
+    # state.json dedupes, so you never get the same posting emailed twice.
+    - cron: "0 3 * * *"    # ~06:00 RO (summer)
+    - cron: "30 3 * * *"   # ~06:30 RO (summer) — backup
   workflow_dispatch: {}   # lets you run it manually from the Actions tab
 
 # Needed so the workflow can commit the updated state.json back to the repo.
