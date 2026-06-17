@@ -1,0 +1,702 @@
+[
+    {
+        "id": 1,
+        "companie": "Jane Street",
+        "categorie": "Quantitative Trading / HFT",
+        "link_pagina_cariere": "https://www.janestreet.com/join-jane-street/careers/",
+        "nume_job_recomandat": "Software Engineer Intern / Quantitative Trader Intern / First-Year Programs"
+    },
+    {
+        "id": 2,
+        "companie": "Optiver",
+        "categorie": "Quantitative Trading / HFT",
+        "link_pagina_cariere": "https://optiver.com/careers/",
+        "nume_job_recomandat": "Software Engineer Intern / Quantitative Research Intern"
+    },
+    {
+        "id": 3,
+        "companie": "Citadel & Citadel Securities",
+        "categorie": "Quantitative Trading / HFT",
+        "link_pagina_cariere": "https://www.citadel.com/careers/",
+        "nume_job_recomandat": "Software Engineering Intern / Quantitative Trading Intern"
+    },
+    {
+        "id": 4,
+        "companie": "IMC Trading",
+        "categorie": "Quantitative Trading / HFT",
+        "link_pagina_cariere": "https://www.imc.com/careers/",
+        "nume_job_recomandat": "Graduate / Intern Software Engineer"
+    },
+    {
+        "id": 5,
+        "companie": "Flow Traders",
+        "categorie": "Quantitative Trading / HFT",
+        "link_pagina_cariere": "https://www.flowtraders.com/careers",
+        "nume_job_recomandat": "Graduate / Intern Software Engineer"
+    },
+    {
+        "id": 6,
+        "companie": "Hudson River Trading (HRT)",
+        "categorie": "Quantitative Trading / HFT",
+        "link_pagina_cariere": "https://www.hudsonrivertrading.com/careers/",
+        "nume_job_recomandat": "Algorithm Developer Intern / Software Engineer Intern"
+    },
+    {
+        "id": 7,
+        "companie": "Jump Trading",
+        "categorie": "Quantitative Trading / HFT",
+        "link_pagina_cariere": "https://www.jumptrading.com/careers/",
+        "nume_job_recomandat": "Software Engineer Intern / Quantitative Research Intern"
+    },
+    {
+        "id": 8,
+        "companie": "XTX Markets",
+        "categorie": "Quantitative Trading / HFT",
+        "link_pagina_cariere": "https://www.xtxmarkets.com/careers/",
+        "nume_job_recomandat": "Graduate Software Engineer / Core Infrastructure Intern"
+    },
+    {
+        "id": 9,
+        "companie": "G-Research",
+        "categorie": "Quantitative Trading / HFT",
+        "link_pagina_cariere": "https://www.gresearch.com/careers/",
+        "nume_job_recomandat": "Quantitative Research Intern / Software Engineering Intern"
+    },
+    {
+        "id": 10,
+        "companie": "Maven Securities",
+        "categorie": "Quantitative Trading / HFT",
+        "link_pagina_cariere": "https://www.mavensecurities.com/careers/",
+        "nume_job_recomandat": "Graduate / Intern Software Engineer"
+    },
+    {
+        "id": 11,
+        "companie": "Susquehanna International Group (SIG)",
+        "categorie": "Quantitative Trading / HFT",
+        "link_pagina_cariere": "https://sig.com/careers/",
+        "nume_job_recomandat": "Quantitative Trader Intern / Software Developer Intern"
+    },
+    {
+        "id": 12,
+        "companie": "Two Sigma",
+        "categorie": "Quantitative Trading / HFT",
+        "link_pagina_cariere": "https://www.twosigma.com/careers/",
+        "nume_job_recomandat": "Software Engineering Intern / Quantitative Research Intern"
+    },
+    {
+        "id": 13,
+        "companie": "D.E. Shaw & Co.",
+        "categorie": "Quantitative Trading / HFT",
+        "link_pagina_cariere": "https://www.deshaw.com/careers",
+        "nume_job_recomandat": "Systems Developer Intern / Quantitative Analyst Intern"
+    },
+    {
+        "id": 14,
+        "companie": "Marshall Wace",
+        "categorie": "Quantitative Trading / HFT",
+        "link_pagina_cariere": "https://www.mwam.com/careers/",
+        "nume_job_recomandat": "Technology Intern / Quantitative Developer Intern"
+    },
+    {
+        "id": 15,
+        "companie": "DRW",
+        "categorie": "Quantitative Trading / HFT",
+        "link_pagina_cariere": "https://drw.com/careers",
+        "nume_job_recomandat": "Software Engineering Intern / Quantitative Trading Intern"
+    },
+    {
+        "id": 16,
+        "companie": "Da Vinci Derivatives",
+        "categorie": "Quantitative Trading / HFT",
+        "link_pagina_cariere": "https://davinciderivatives.com/careers/",
+        "nume_job_recomandat": "Junior / Intern Quantitative Trader / Software Developer"
+    },
+    {
+        "id": 17,
+        "companie": "Quadrature",
+        "categorie": "Quantitative Trading / HFT",
+        "link_pagina_cariere": "https://quadrature.ai/careers/",
+        "nume_job_recomandat": "Software Engineer Intern / Quantitative Researcher"
+    },
+    {
+        "id": 18,
+        "companie": "Five Rings",
+        "categorie": "Quantitative Trading / HFT",
+        "link_pagina_cariere": "https://fiverings.com/careers/",
+        "nume_job_recomandat": "Software Development Intern / Quantitative Trader Intern"
+    },
+    {
+        "id": 19,
+        "companie": "Man Group",
+        "categorie": "Quantitative Trading / HFT",
+        "link_pagina_cariere": "https://www.man.com/careers",
+        "nume_job_recomandat": "Quantitative Technology Intern / Quantitative Research Graduate"
+    },
+    {
+        "id": 20,
+        "companie": "Wintermute",
+        "categorie": "Quantitative Trading / HFT",
+        "link_pagina_cariere": "https://www.wintermute.com/careers/",
+        "nume_job_recomandat": "Core Developer Intern / Algorithmic Trader Intern"
+    },
+    {
+        "id": 21,
+        "companie": "Point72",
+        "categorie": "Quantitative Trading / HFT",
+        "link_pagina_cariere": "https://careers.point72.com/",
+        "nume_job_recomandat": "Academy Quantitative Research Summer Intern / Software Engineer Intern"
+    },
+    {
+        "id": 22,
+        "companie": "Millennium Management",
+        "categorie": "Quantitative Trading / HFT",
+        "link_pagina_cariere": "https://www.mlp.com/careers/",
+        "nume_job_recomandat": "Quantitative Technology Intern / Infrastructure Engineer Intern"
+    },
+    {
+        "id": 23,
+        "companie": "Balyasny Asset Management (BAM)",
+        "categorie": "Quantitative Trading / HFT",
+        "link_pagina_cariere": "https://www.bamfunds.com/careers",
+        "nume_job_recomandat": "Software Engineering Intern / Quantitative Research Intern"
+    },
+    {
+        "id": 24,
+        "companie": "Squarepoint Capital",
+        "categorie": "Quantitative Trading / HFT",
+        "link_pagina_cariere": "https://www.squarepoint-capital.com/careers",
+        "nume_job_recomandat": "Quantitative Developer Intern / Technology Graduate"
+    },
+    {
+        "id": 25,
+        "companie": "Brevan Howard",
+        "categorie": "Quantitative Trading / HFT",
+        "link_pagina_cariere": "https://www.brevanhoward.com/careers/",
+        "nume_job_recomandat": "Quantitative Infrastructure Intern / Quantitative Analyst"
+    },
+    {
+        "id": 26,
+        "companie": "Google",
+        "categorie": "Big Tech / FAANG",
+        "link_pagina_cariere": "https://careers.google.com/",
+        "nume_job_recomandat": "Software Engineering Intern / STEP Intern (Student Training in Engineering Program)"
+    },
+    {
+        "id": 27,
+        "companie": "Meta",
+        "categorie": "Big Tech / FAANG",
+        "link_pagina_cariere": "https://www.metacareers.com/",
+        "nume_job_recomandat": "Software Engineering Intern / Meta University for Engineers"
+    },
+    {
+        "id": 28,
+        "companie": "Apple",
+        "categorie": "Big Tech / FAANG",
+        "link_pagina_cariere": "https://www.apple.com/careers/",
+        "nume_job_recomandat": "Hardware Engineering Intern / Software Engineering Intern"
+    },
+    {
+        "id": 29,
+        "companie": "Amazon / AWS",
+        "categorie": "Big Tech / FAANG",
+        "link_pagina_cariere": "https://www.amazon.jobs/",
+        "nume_job_recomandat": "Software Development Engineer Intern"
+    },
+    {
+        "id": 30,
+        "companie": "Microsoft",
+        "categorie": "Big Tech / FAANG",
+        "link_pagina_cariere": "https://careers.microsoft.com/",
+        "nume_job_recomandat": "Software Engineering Intern / Research Intern"
+    },
+    {
+        "id": 31,
+        "companie": "Nvidia",
+        "categorie": "Big Tech / FAANG",
+        "link_pagina_cariere": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+        "nume_job_recomandat": "Deep Learning Software Intern / ASIC Architecture Intern"
+    },
+    {
+        "id": 32,
+        "companie": "Bloomberg",
+        "categorie": "Big Tech / FAANG",
+        "link_pagina_cariere": "https://www.bloomberg.com/careers/",
+        "nume_job_recomandat": "Software Engineering Intern"
+    },
+    {
+        "id": 33,
+        "companie": "Palantir Technologies",
+        "categorie": "Big Tech / FAANG",
+        "link_pagina_cariere": "https://www.palantir.com/careers/",
+        "nume_job_recomandat": "Software Engineering Intern / Deployment Design Intern"
+    },
+    {
+        "id": 34,
+        "companie": "Databricks",
+        "categorie": "Big Tech / FAANG",
+        "link_pagina_cariere": "https://www.databricks.com/company/careers",
+        "nume_job_recomandat": "Software Engineering Intern (Data / Core Infrastructure)"
+    },
+    {
+        "id": 35,
+        "companie": "Snowflake",
+        "categorie": "Big Tech / FAANG",
+        "link_pagina_cariere": "https://www.snowflake.com/en/company/careers/",
+        "nume_job_recomandat": "Software Engineering Intern"
+    },
+    {
+        "id": 36,
+        "companie": "Stripe",
+        "categorie": "Big Tech / FAANG",
+        "link_pagina_cariere": "https://stripe.com/jobs",
+        "nume_job_recomandat": "Software Engineering Intern (Infrastructure / Products)"
+    },
+    {
+        "id": 37,
+        "companie": "Google DeepMind",
+        "categorie": "Big Tech / FAANG",
+        "link_pagina_cariere": "https://deepmind.google/careers/",
+        "nume_job_recomandat": "Research Intern / Research Engineer Intern"
+    },
+    {
+        "id": 38,
+        "companie": "OpenAI",
+        "categorie": "Big Tech / FAANG",
+        "link_pagina_cariere": "https://openai.com/careers/",
+        "nume_job_recomandat": "Software Engineering Intern / Research Intern"
+    },
+    {
+        "id": 39,
+        "companie": "Uber",
+        "categorie": "Big Tech / FAANG",
+        "link_pagina_cariere": "https://www.uber.com/careers/",
+        "nume_job_recomandat": "Software Engineering Intern"
+    },
+    {
+        "id": 40,
+        "companie": "TikTok / ByteDance",
+        "categorie": "Big Tech / FAANG",
+        "link_pagina_cariere": "https://careers.tiktok.com/",
+        "nume_job_recomandat": "Software Architecture Intern / Algorithm Intern"
+    },
+    {
+        "id": 41,
+        "companie": "Netflix",
+        "categorie": "Big Tech / FAANG",
+        "link_pagina_cariere": "https://jobs.netflix.com/",
+        "nume_job_recomandat": "Software Engineering Intern (Distributed Systems)"
+    },
+    {
+        "id": 42,
+        "companie": "Salesforce",
+        "categorie": "Big Tech / FAANG",
+        "link_pagina_cariere": "https://www.salesforce.com/company/careers/",
+        "nume_job_recomandat": "Software Engineering Intern"
+    },
+    {
+        "id": 43,
+        "companie": "Adobe",
+        "categorie": "Big Tech / FAANG",
+        "link_pagina_cariere": "https://www.adobe.com/careers.html",
+        "nume_job_recomandat": "Computer Science Intern / Research Intern"
+    },
+    {
+        "id": 44,
+        "companie": "Atlassian",
+        "categorie": "Big Tech / FAANG",
+        "link_pagina_cariere": "https://www.atlassian.com/company/careers",
+        "nume_job_recomandat": "Software Engineer Intern"
+    },
+    {
+        "id": 45,
+        "companie": "MongoDB",
+        "categorie": "Big Tech / FAANG",
+        "link_pagina_cariere": "https://www.mongodb.com/careers",
+        "nume_job_recomandat": "Software Engineering Intern"
+    },
+    {
+        "id": 46,
+        "companie": "Oracle",
+        "categorie": "Big Tech / FAANG",
+        "link_pagina_cariere": "https://www.oracle.com/corporate/careers/",
+        "nume_job_recomandat": "Software Engineer Intern / Cloud Infrastructure Intern"
+    },
+    {
+        "id": 47,
+        "companie": "Cisco",
+        "categorie": "Big Tech / FAANG",
+        "link_pagina_cariere": "https://jobs.cisco.com/",
+        "nume_job_recomandat": "Software Engineer Intern (Networking / Security)"
+    },
+    {
+        "id": 48,
+        "companie": "IBM",
+        "categorie": "Big Tech / FAANG",
+        "link_pagina_cariere": "https://www.ibm.com/careers",
+        "nume_job_recomandat": "Extreme Blue Technical Intern / Software Developer Intern"
+    },
+    {
+        "id": 49,
+        "companie": "Intel",
+        "categorie": "Big Tech / FAANG",
+        "link_pagina_cariere": "https://jobs.intel.com/",
+        "nume_job_recomandat": "Hardware Engineering Intern / Firmware Developer Intern"
+    },
+    {
+        "id": 50,
+        "companie": "AMD",
+        "categorie": "Big Tech / FAANG",
+        "link_pagina_cariere": "https://careers.amd.com/",
+        "nume_job_recomandat": "Silicon Design Intern / Software Engineering Intern (ROCm)"
+    },
+    {
+        "id": 51,
+        "companie": "ASML",
+        "categorie": "Deep Tech / Hardware / AI Labs",
+        "link_pagina_cariere": "https://www.asml.com/en/careers",
+        "nume_job_recomandat": "Software Embedded Systems Intern / Lithography Research Intern"
+    },
+    {
+        "id": 52,
+        "companie": "ARM",
+        "categorie": "Deep Tech / Hardware / AI Labs",
+        "link_pagina_cariere": "https://careers.arm.com/",
+        "nume_job_recomandat": "CPU Architecture Intern / Hardware Verification Intern"
+    },
+    {
+        "id": 53,
+        "companie": "CERN",
+        "categorie": "Deep Tech / Hardware / AI Labs",
+        "link_pagina_cariere": "https://careers.cern/",
+        "nume_job_recomandat": "Openlab Summer Student / Technical Student Programme"
+    },
+    {
+        "id": 54,
+        "companie": "Mistral AI",
+        "categorie": "Deep Tech / Hardware / AI Labs",
+        "link_pagina_cariere": "https://mistral.ai/news/jobs/",
+        "nume_job_recomandat": "Research Engineer Intern / Infrastructure Intern"
+    },
+    {
+        "id": 55,
+        "companie": "Hugging Face",
+        "categorie": "Deep Tech / Hardware / AI Labs",
+        "link_pagina_cariere": "https://huggingface.co/join-us",
+        "nume_job_recomandat": "Machine Learning Engineer Intern / Open Source Developer Intern"
+    },
+    {
+        "id": 56,
+        "companie": "Wayve",
+        "categorie": "Deep Tech / Hardware / AI Labs",
+        "link_pagina_cariere": "https://wayve.ai/careers/",
+        "nume_job_recomandat": "AV Software Intern / Machine Learning Intern"
+    },
+    {
+        "id": 57,
+        "companie": "Synthesia",
+        "categorie": "Deep Tech / Hardware / AI Labs",
+        "link_pagina_cariere": "https://www.synthesia.io/careers",
+        "nume_job_recomandat": "AI Research Intern / Computer Vision Intern"
+    },
+    {
+        "id": 58,
+        "companie": "Graphcore",
+        "categorie": "Deep Tech / Hardware / AI Labs",
+        "link_pagina_cariere": "https://www.graphcore.ai/careers",
+        "nume_job_recomandat": "Silicon Software Intern / IPU Acceleration Intern"
+    },
+    {
+        "id": 59,
+        "companie": "Aleph Alpha",
+        "categorie": "Deep Tech / Hardware / AI Labs",
+        "link_pagina_cariere": "https://aleph-alpha.com/careers/",
+        "nume_job_recomandat": "ML Infrastructure Intern / LLM Research Intern"
+    },
+    {
+        "id": 60,
+        "companie": "Helsing",
+        "categorie": "Deep Tech / Hardware / AI Labs",
+        "link_pagina_cariere": "https://helsing.ai/careers",
+        "nume_job_recomandat": "AI Software Engineer Intern / Embedded Systems Intern"
+    },
+    {
+        "id": 61,
+        "companie": "Celonis",
+        "categorie": "Deep Tech / Hardware / AI Labs",
+        "link_pagina_cariere": "https://www.celonis.com/careers/",
+        "nume_job_recomandat": "Process Mining Engineering Intern"
+    },
+    {
+        "id": 62,
+        "companie": "NXP Semiconductors",
+        "categorie": "Deep Tech / Hardware / AI Labs",
+        "link_pagina_cariere": "https://www.nxp.com/company/about-nxp/careers:CAREERS",
+        "nume_job_recomandat": "Automotive Microcontrollers Intern / Hardware Design Intern"
+    },
+    {
+        "id": 63,
+        "companie": "Infineon Technologies",
+        "categorie": "Deep Tech / Hardware / AI Labs",
+        "link_pagina_cariere": "https://www.infineon.com/cms/en/careers/",
+        "nume_job_recomandat": "Chip Design Intern / Power Electronics Intern"
+    },
+    {
+        "id": 64,
+        "companie": "STMicroelectronics",
+        "categorie": "Deep Tech / Hardware / AI Labs",
+        "link_pagina_cariere": "https://www.st.com/content/st_com/en/about/careers.html",
+        "nume_job_recomandat": "Firmware Development Intern / Analog Design Intern"
+    },
+    {
+        "id": 65,
+        "companie": "Logitech",
+        "categorie": "Deep Tech / Hardware / AI Labs",
+        "link_pagina_cariere": "https://www.logitech.com/en-us/about/careers.html",
+        "nume_job_recomandat": "Embedded Software Engineer Intern"
+    },
+    {
+        "id": 66,
+        "companie": "UiPath",
+        "categorie": "Deep Tech / Hardware / AI Labs",
+        "link_pagina_cariere": "https://www.uipath.com/company/careers",
+        "nume_job_recomandat": "RPA Software Engineer Intern / Product Engineering Intern"
+    },
+    {
+        "id": 67,
+        "companie": "Snyk",
+        "categorie": "Deep Tech / Hardware / AI Labs",
+        "link_pagina_cariere": "https://snyk.io/careers/",
+        "nume_job_recomandat": "Security Software Engineer Intern"
+    },
+    {
+        "id": 68,
+        "companie": "Darktrace",
+        "categorie": "Deep Tech / Hardware / AI Labs",
+        "link_pagina_cariere": "https://www.darktrace.com/en/careers/",
+        "nume_job_recomandat": "Cyber AI Analyst Intern / Software Developer Intern"
+    },
+    {
+        "id": 69,
+        "companie": "Improbable",
+        "categorie": "Deep Tech / Hardware / AI Labs",
+        "link_pagina_cariere": "https://www.improbable.io/careers",
+        "nume_job_recomandat": "Distributed Systems Intern / Simulation Engineer Intern"
+    },
+    {
+        "id": 70,
+        "companie": "Neo4j",
+        "categorie": "Deep Tech / Hardware / AI Labs",
+        "link_pagina_cariere": "https://neo4j.com/careers/",
+        "nume_job_recomandat": "Graph Database Engineer Intern"
+    },
+    {
+        "id": 71,
+        "companie": "Spotify",
+        "categorie": "Top Unicorns, Scale-ups & FinTech",
+        "link_pagina_cariere": "https://www.lifeatspotify.com/",
+        "nume_job_recomandat": "Backend Engineer Intern / Data Engineer Intern"
+    },
+    {
+        "id": 72,
+        "companie": "Adyen",
+        "categorie": "Top Unicorns, Scale-ups & FinTech",
+        "link_pagina_cariere": "https://careers.adyen.com/",
+        "nume_job_recomandat": "Software Engineer Intern (Payments Core)"
+    },
+    {
+        "id": 73,
+        "companie": "Revolut",
+        "categorie": "Top Unicorns, Scale-ups & FinTech",
+        "link_pagina_cariere": "https://www.revolut.com/careers/",
+        "nume_job_recomandat": "Software Engineer Intern / Data Analyst Intern"
+    },
+    {
+        "id": 74,
+        "companie": "Wise",
+        "categorie": "Top Unicorns, Scale-ups & FinTech",
+        "link_pagina_cariere": "https://www.wise.jobs/",
+        "nume_job_recomandat": "Product Engineering Intern / Security Intern"
+    },
+    {
+        "id": 75,
+        "companie": "Booking.com",
+        "categorie": "Top Unicorns, Scale-ups & FinTech",
+        "link_pagina_cariere": "https://careers.booking.com/",
+        "nume_job_recomandat": "Software Engineer Intern / Infrastructure Intern"
+    },
+    {
+        "id": 76,
+        "companie": "Klarna",
+        "categorie": "Top Unicorns, Scale-ups & FinTech",
+        "link_pagina_cariere": "https://www.klarna.com/careers/",
+        "nume_job_recomandat": "Software Engineer Intern"
+    },
+    {
+        "id": 77,
+        "companie": "Zalando",
+        "categorie": "Top Unicorns, Scale-ups & FinTech",
+        "link_pagina_cariere": "https://jobs.zalando.com/",
+        "nume_job_recomandat": "Software Engineer Intern / Research Intern"
+    },
+    {
+        "id": 78,
+        "companie": "Canva",
+        "categorie": "Top Unicorns, Scale-ups & FinTech",
+        "link_pagina_cariere": "https://www.canva.com/careers/",
+        "nume_job_recomandat": "Frontend Engineer Intern / Backend Engineer Intern"
+    },
+    {
+        "id": 79,
+        "companie": "Deliveroo",
+        "categorie": "Top Unicorns, Scale-ups & FinTech",
+        "link_pagina_cariere": "https://deliveroo.co.uk/careers",
+        "nume_job_recomandat": "Software Engineering Intern"
+    },
+    {
+        "id": 80,
+        "companie": "Bolt",
+        "categorie": "Top Unicorns, Scale-ups & FinTech",
+        "link_pagina_cariere": "https://bolt.eu/careers/",
+        "nume_job_recomandat": "Software Engineer Intern"
+    },
+    {
+        "id": 81,
+        "companie": "N26",
+        "categorie": "Top Unicorns, Scale-ups & FinTech",
+        "link_pagina_cariere": "https://n26.com/en-eu/careers",
+        "nume_job_recomandat": "Backend Developer Intern"
+    },
+    {
+        "id": 82,
+        "companie": "Trade Republic",
+        "categorie": "Top Unicorns, Scale-ups & FinTech",
+        "link_pagina_cariere": "https://traderepublic.com/en-de/careers",
+        "nume_job_recomandat": "Backend Software Intern / Data Engineer Intern"
+    },
+    {
+        "id": 83,
+        "companie": "Miro",
+        "categorie": "Top Unicorns, Scale-ups & FinTech",
+        "link_pagina_cariere": "https://miro.com/careers/",
+        "nume_job_recomandat": "Software Engineer Intern"
+    },
+    {
+        "id": 84,
+        "companie": "Personio",
+        "categorie": "Top Unicorns, Scale-ups & FinTech",
+        "link_pagina_cariere": "https://www.personio.com/careers/",
+        "nume_job_recomandat": "Software Engineering Intern"
+    },
+    {
+        "id": 85,
+        "companie": "Contentful",
+        "categorie": "Top Unicorns, Scale-ups & FinTech",
+        "link_pagina_cariere": "https://www.contentful.com/careers/",
+        "nume_job_recomandat": "Software Engineer Intern"
+    },
+    {
+        "id": 86,
+        "companie": "Skyscanner",
+        "categorie": "Top Unicorns, Scale-ups & FinTech",
+        "link_pagina_cariere": "https://www.skyscanner.net/careers/",
+        "nume_job_recomandat": "Software Engineering Intern"
+    },
+    {
+        "id": 87,
+        "companie": "Monzo",
+        "categorie": "Top Unicorns, Scale-ups & FinTech",
+        "link_pagina_cariere": "https://monzo.com/careers/",
+        "nume_job_recomandat": "Backend Engineer Intern / Mobile Intern"
+    },
+    {
+        "id": 88,
+        "companie": "Starling Bank",
+        "categorie": "Top Unicorns, Scale-ups & FinTech",
+        "link_pagina_cariere": "https://www.starlingbank.com/careers/",
+        "nume_job_recomandat": "Software Engineer Intern"
+    },
+    {
+        "id": 89,
+        "companie": "Check24",
+        "categorie": "Top Unicorns, Scale-ups & FinTech",
+        "link_pagina_cariere": "https://jobs.check24.de/",
+        "nume_job_recomandat": "Software Developer Intern (Java/C#)"
+    },
+    {
+        "id": 90,
+        "companie": "TeamViewer",
+        "categorie": "Top Unicorns, Scale-ups & FinTech",
+        "link_pagina_cariere": "https://www.teamviewer.com/en/careers/",
+        "nume_job_recomandat": "C++ Software Engineering Intern"
+    },
+    {
+        "id": 91,
+        "companie": "SonarSource",
+        "categorie": "Top Unicorns, Scale-ups & FinTech",
+        "link_pagina_cariere": "https://www.sonarsource.com/company/careers/",
+        "nume_job_recomandat": "Developer Intern (Code Security & Analysis)"
+    },
+    {
+        "id": 92,
+        "companie": "GitLab",
+        "categorie": "Top Unicorns, Scale-ups & FinTech",
+        "link_pagina_cariere": "https://about.gitlab.com/jobs/",
+        "nume_job_recomandat": "Frontend/Backend Intern (Remote)"
+    },
+    {
+        "id": 93,
+        "companie": "Elastic",
+        "categorie": "Top Unicorns, Scale-ups & FinTech",
+        "link_pagina_cariere": "https://www.elastic.co/about/careers",
+        "nume_job_recomandat": "Software Engineer Intern (Search Infrastructure)"
+    },
+    {
+        "id": 94,
+        "companie": "JetBrains",
+        "categorie": "Top Unicorns, Scale-ups & FinTech",
+        "link_pagina_cariere": "https://www.jetbrains.com/careers/",
+        "nume_job_recomandat": "Compiler Engineering Intern / IDE Developer Intern"
+    },
+    {
+        "id": 95,
+        "companie": "Wolt",
+        "categorie": "Top Unicorns, Scale-ups & FinTech",
+        "link_pagina_cariere": "https://wolt.com/en/jobs",
+        "nume_job_recomandat": "Backend Software Intern"
+    },
+    {
+        "id": 96,
+        "companie": "BlaBlaCar",
+        "categorie": "Top Unicorns, Scale-ups & FinTech",
+        "link_pagina_cariere": "https://blablacar.com/careers",
+        "nume_job_recomandat": "Software Engineering Intern"
+    },
+    {
+        "id": 97,
+        "companie": "Back Market",
+        "categorie": "Top Unicorns, Scale-ups & FinTech",
+        "link_pagina_cariere": "https://www.backmarket.com/en-us/c/careers",
+        "nume_job_recomandat": "Software Engineer Intern"
+    },
+    {
+        "id": 98,
+        "companie": "SumUp",
+        "categorie": "Top Unicorns, Scale-ups & FinTech",
+        "link_pagina_cariere": "https://www.sumup.com/careers/",
+        "nume_job_recomandat": "Software Engineer Intern"
+    },
+    {
+        "id": 99,
+        "companie": "DeepL",
+        "categorie": "Top Unicorns, Scale-ups & FinTech",
+        "link_pagina_cariere": "https://www.deepl.com/en/careers",
+        "nume_job_recomandat": "Research Engineer Intern / Software Developer"
+    },
+    {
+        "id": 100,
+        "companie": "Checkout.com",
+        "categorie": "Top Unicorns, Scale-ups & FinTech",
+        "link_pagina_cariere": "https://www.checkout.com/careers",
+        "nume_job_recomandat": "Software Engineer Intern"
+    }
+]

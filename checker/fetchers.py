@@ -111,10 +111,62 @@ def fetch_workday(company: dict) -> list[dict]:
     return out
 
 
+def fetch_ashby(company: dict) -> list[dict]:
+    token = company["token"]
+    url = f"https://api.ashbyhq.com/posting-api/job-board/{token}?includeCompensation=false"
+    data = _get(url).json()
+    out = []
+    for job in data.get("jobs", []):
+        out.append(
+            {
+                "id": str(job.get("id")),
+                "title": job.get("title", "").strip(),
+                "location": (job.get("location") or "").strip(),
+                "url": job.get("jobUrl") or job.get("applyUrl", ""),
+                "company": company["name"],
+            }
+        )
+    return out
+
+
+def fetch_smartrecruiters(company: dict) -> list[dict]:
+    token = company["token"]
+    out = []
+    offset = 0
+    limit = 100
+    while True:
+        url = (
+            f"https://api.smartrecruiters.com/v1/companies/{token}/postings"
+            f"?limit={limit}&offset={offset}"
+        )
+        data = _get(url).json()
+        content = data.get("content", [])
+        for job in content:
+            loc = job.get("location") or {}
+            loc_str = ", ".join(
+                x for x in [loc.get("city"), loc.get("country")] if x
+            )
+            out.append(
+                {
+                    "id": str(job.get("id")),
+                    "title": job.get("name", "").strip(),
+                    "location": loc_str,
+                    "url": f"https://jobs.smartrecruiters.com/{token}/{job.get('id')}",
+                    "company": company["name"],
+                }
+            )
+        offset += limit
+        if offset >= data.get("totalFound", 0) or not content:
+            break
+    return out
+
+
 FETCHERS = {
     "greenhouse": fetch_greenhouse,
     "lever": fetch_lever,
     "workday": fetch_workday,
+    "ashby": fetch_ashby,
+    "smartrecruiters": fetch_smartrecruiters,
 }
 
 
