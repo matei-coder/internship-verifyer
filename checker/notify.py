@@ -88,9 +88,11 @@ def send(subject: str, text: str, html: str, recipient: str) -> None:
     password = os.environ.get("GMAIL_APP_PASSWORD")
     # Empty env var (e.g. an unset GitHub secret expands to "") must fall back
     # to the configured recipient, not become an empty To: address.
-    to = os.environ.get("EMAIL_TO") or recipient
+    raw_to = os.environ.get("EMAIL_TO") or recipient
+    # EMAIL_TO may hold several comma-separated addresses; send to all of them.
+    recipients = [addr.strip() for addr in raw_to.split(",") if addr.strip()]
 
-    if not to:
+    if not recipients:
         raise RuntimeError("No recipient: set EMAIL_TO or `recipient` in config.yaml.")
 
     if not user or not password:
@@ -101,11 +103,11 @@ def send(subject: str, text: str, html: str, recipient: str) -> None:
     msg = EmailMessage()
     msg["Subject"] = subject
     msg["From"] = user
-    msg["To"] = to
+    msg["To"] = ", ".join(recipients)
     msg["Date"] = formatdate(localtime=True)
     msg.set_content(text)
     msg.add_alternative(html, subtype="html")
 
     with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
         server.login(user, password)
-        server.send_message(msg)
+        server.send_message(msg, to_addrs=recipients)
