@@ -33,4 +33,9 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add .heartbeat
           git commit -m "Heartbeat: keep scheduled workflows alive [skip ci]" || exit 0
-          git push
+          for attempt in 1 2 3; do
+            git push && exit 0
+            git pull --rebase -X ours origin main || git rebase --abort || true
+            sleep $((RANDOM % 5 + 2))
+          done
+          exit 1
