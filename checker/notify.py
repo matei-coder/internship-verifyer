@@ -64,7 +64,12 @@ def render(postings: list[dict], first_run: bool) -> tuple[str, str]:
 def send(subject: str, text: str, html: str, recipient: str) -> None:
     user = os.environ.get("GMAIL_USER")
     password = os.environ.get("GMAIL_APP_PASSWORD")
-    to = os.environ.get("EMAIL_TO", recipient)
+    # Empty env var (e.g. an unset GitHub secret expands to "") must fall back
+    # to the configured recipient, not become an empty To: address.
+    to = os.environ.get("EMAIL_TO") or recipient
+
+    if not to:
+        raise RuntimeError("No recipient: set EMAIL_TO or `recipient` in config.yaml.")
 
     if not user or not password:
         raise RuntimeError(
