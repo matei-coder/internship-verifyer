@@ -15,8 +15,8 @@ postings. Runs free on GitHub Actions — your laptop doesn't need to be on.
 
 ## Configure companies
 
-Edit `config.yaml`. ~70 companies are pre-configured (quant firms, big tech, AI
-labs, EU scaleups). Each entry needs a `type`:
+Edit `config.yaml`. ~80 companies are pre-configured (quant firms, big tech, AI
+labs, banks, EU scaleups). Each entry needs a `type`:
 
 | type             | fields needed            | how to find it |
 |------------------|--------------------------|----------------|
@@ -26,19 +26,23 @@ labs, EU scaleups). Each entry needs a `type`:
 | `smartrecruiters`| `token`                  | `jobs.smartrecruiters.com/<token>` |
 | `workday`        | `base`, `tenant`, `site` | `https://<tenant>.<xx>.myworkdayjobs.com/<site>` |
 | `amazon`         | `queries` (list)         | Amazon's public search.json |
+| `uber`           | `queries` (list)         | Uber's own jobs API |
 | `google`         | `query` (optional)       | browser-scraped (Playwright) |
 | `microsoft`      | `query` (optional)       | browser-scraped (Playwright) |
+| `apple`          | `query` (optional)       | browser-scraped (Playwright) |
+| `meta`           | `query` (optional)       | browser-scraped (Playwright) |
 
 To auto-detect the ATS for a new batch of companies, drop a JSON list in
-`internship_list/` and run `python scripts/detect_ats.py`.
+`internship_list/` and run `python scripts/detect_ats.py` (now also resolves
+Workday endpoints).
 
-### Note on Google / Microsoft / Amazon
+### Note on the self-hosted careers sites
 These run their own systems, not a standard ATS:
-- **Amazon** has a clean public JSON API — reliable.
+- **Amazon / Uber** have clean public JSON APIs — reliable.
 - **Microsoft** is browser-scraped from `apply.careers.microsoft.com` — reliable.
-- **Google** is browser-scraped but actively rate-limits bots. It is **best
-  effort**: a fresh CI IP hitting it once a day usually works, but it may
-  occasionally return nothing. The run never fails because of it.
+- **Google / Apple / Meta** are browser-scraped SPAs that rate-limit bots. They
+  are **best effort**: a fresh CI IP hitting them once a day usually works, but
+  they may occasionally return nothing. The run never fails because of it.
 
 ## Email setup (Gmail)
 

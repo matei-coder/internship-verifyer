@@ -95,15 +95,14 @@ def main() -> int:
     # First run sends a compact per-company summary (could be hundreds of
     # postings); later runs list each new posting in full.
     def build_email():
-        if first_run:
-            return (
-                f"[Internships] Tracking started — {len(to_report)} open",
-                *notify.render_summary(to_report),
-            )
-        return (
-            f"[Internships] {len(to_report)} new posting(s)",
-            *notify.render(to_report, first_run),
+        # Both the first run and later runs list every posting in full (title +
+        # location + link). The first run can be large, but it's a one-off.
+        subject = (
+            f"[Internships] Tracking started — {len(to_report)} open"
+            if first_run
+            else f"[Internships] {len(to_report)} new posting(s)"
         )
+        return (subject, *notify.render(to_report, first_run))
 
     if args.dry_run:
         if to_report:

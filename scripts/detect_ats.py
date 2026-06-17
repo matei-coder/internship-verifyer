@@ -82,12 +82,50 @@ def try_smartrecruiters(slug: str):
 GUESSERS = [try_greenhouse, try_lever, try_ashby, try_smartrecruiters]
 
 
+def try_workday_from_html(html: str, final_url: str):
+    """Resolve a full Workday endpoint (tenant + datacenter + site) and verify."""
+    blob = html + " " + final_url
+    # Full form: https://<tenant>.<dc>.myworkdayjobs.com/<locale>/<site>
+    m = re.search(
+        r"https?://([a-z0-9-]+)\.(wd\d+)\.myworkdayjobs\.com/(?:[a-z]{2}-[A-Z]{2}/)?([A-Za-z0-9_]+)",
+        blob,
+    )
+    if not m:
+        return None
+    tenant, dc, site = m.group(1), m.group(2), m.group(3)
+    base = f"https://{tenant}.{dc}.myworkdayjobs.com"
+    endpoint = f"{base}/wday/cxs/{tenant}/{site}/jobs"
+    try:
+        r = requests.post(
+            endpoint,
+            json={"appliedFacets": {}, "limit": 1, "offset": 0, "searchText": "intern"},
+            headers=UA,
+            timeout=TIMEOUT,
+        )
+        if r.status_code == 200 and r.json().get("total", 0) >= 0:
+            return {
+                "type": "workday",
+                "base": base,
+                "tenant": tenant,
+                "site": site,
+            }, r.json().get("total", 0)
+    except Exception:
+        return None
+    return None
+
+
 def from_html(careers_url: str):
     """Look for an ATS signature embedded in the careers page HTML."""
     try:
-        html = requests.get(careers_url, headers=UA, timeout=TIMEOUT).text
+        resp = requests.get(careers_url, headers=UA, timeout=TIMEOUT, allow_redirects=True)
+        html = resp.text
+        final_url = str(resp.url)
     except Exception:
         return None
+    # Workday first (it needs full resolution + verification).
+    wd = try_workday_from_html(html, final_url)
+    if wd:
+        return ("workday_cfg", wd)
     patterns = [
         (r"boards\.greenhouse\.io/(?:embed/job_board\?for=)?([a-z0-9_-]+)", "greenhouse"),
         (r"boards-api\.greenhouse\.io/v1/boards/([a-z0-9_-]+)", "greenhouse"),
@@ -96,8 +134,8 @@ def from_html(careers_url: str):
         (r"api\.lever\.co/v0/postings/([a-z0-9_-]+)", "lever"),
         (r"jobs\.ashbyhq\.com/([a-z0-9_-]+)", "ashby"),
         (r"api\.ashbyhq\.com/posting-api/job-board/([a-z0-9_-]+)", "ashby"),
-        (r"([a-z0-9_-]+)\.wd\d+\.myworkdayjobs\.com", "workday"),
         (r"jobs\.smartrecruiters\.com/([a-z0-9_-]+)", "smartrecruiters"),
+        (r"api\.smartrecruiters\.com/v1/companies/([a-z0-9_-]+)/postings", "smartrecruiters"),
     ]
     for rx, kind in patterns:
         m = re.search(rx, html, re.I)
@@ -111,14 +149,16 @@ def detect(name: str, careers_url: str):
     sig = from_html(careers_url) if careers_url else None
     if sig:
         kind, token = sig
+        if kind == "workday_cfg":
+            cfg, n = token  # token is the (cfg, count) tuple's cfg
+            cfg["_via"] = "html"
+            return cfg, n
         verify = {
             "greenhouse": try_greenhouse,
             "lever": try_lever,
             "ashby": try_ashby,
             "smartrecruiters": try_smartrecruiters,
         }.get(kind)
-        if kind == "workday":
-            return {"type": "workday", "_token_hint": token, "_via": "html"}, 0
         if verify:
             cfg, n = verify(token)
             if cfg:
@@ -143,7 +183,8 @@ def main():
             cfg["name"] = name
             cfg["_count"] = n
             found.append(cfg)
-            print(f"OK   {name:40s} {cfg['type']:16s} token={cfg.get('token', cfg.get('_token_hint'))} ({n}) [{cfg['_via']}]", flush=True)
+            ident = cfg.get("token") or f"{cfg.get('tenant')}/{cfg.get('site')}"
+            print(f"OK   {name:40s} {cfg['type']:16s} {ident} ({n}) [{cfg['_via']}]", flush=True)
         else:
             missed.append(name)
             print(f"MISS {name}", flush=True)
@@ -151,8 +192,13 @@ def main():
 
     print("\n\n# ==== YAML entries (verified) ====")
     for c in found:
-        if c["type"] in ("greenhouse", "lever", "ashby", "smartrecruiters") and c.get("token"):
+        if c.get("token"):
             print(f'  - name: {c["name"]}\n    type: {c["type"]}\n    token: {c["token"]}')
+        elif c["type"] == "workday":
+            print(
+                f'  - name: {c["name"]}\n    type: workday\n'
+                f'    base: {c["base"]}\n    tenant: {c["tenant"]}\n    site: {c["site"]}'
+            )
     print(f"\n# Found {len(found)} / {len(companies)}.  Missed {len(missed)}:")
     print("# " + ", ".join(missed))
 

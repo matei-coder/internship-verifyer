@@ -199,6 +199,41 @@ def fetch_amazon(company: dict) -> list[dict]:
     return list(out.values())
 
 
+def fetch_uber(company: dict) -> list[dict]:
+    """Uber runs its own jobs API (POST, no auth needed for search)."""
+    out = {}
+    queries = company.get("queries", ["intern"])
+    for q in queries:
+        page = 0
+        while True:
+            resp = requests.post(
+                "https://www.uber.com/api/loadSearchJobsResults?localeCode=en",
+                json={"params": {"query": q}, "page": page, "limit": 100},
+                headers={**HEADERS, "x-csrf-token": "x", "Content-Type": "application/json"},
+                timeout=TIMEOUT,
+            )
+            resp.raise_for_status()
+            data = resp.json().get("data", {})
+            results = data.get("results", [])
+            for job in results:
+                jid = str(job.get("id"))
+                locs = job.get("allLocations") or []
+                loc = ", ".join(
+                    x for x in [(locs[0].get("city"), locs[0].get("countryName"))[i] for i in (0, 1)] if x
+                ) if locs else ""
+                out[jid] = {
+                    "id": jid,
+                    "title": job.get("title", "").strip(),
+                    "location": loc,
+                    "url": f"https://www.uber.com/global/en/careers/list/{jid}/",
+                    "company": company["name"],
+                }
+            if not results or len(results) < 100:
+                break
+            page += 1
+    return list(out.values())
+
+
 FETCHERS = {
     "greenhouse": fetch_greenhouse,
     "lever": fetch_lever,
@@ -206,6 +241,7 @@ FETCHERS = {
     "ashby": fetch_ashby,
     "smartrecruiters": fetch_smartrecruiters,
     "amazon": fetch_amazon,
+    "uber": fetch_uber,
 }
 
 
@@ -216,7 +252,7 @@ def fetch_company(company: dict) -> list[dict]:
         return fetcher(company)
     # Browser-scraped sources live in scrapers.py (imported lazily so that
     # API-only runs don't need Playwright installed).
-    if kind in ("google", "microsoft"):
+    if kind in ("google", "microsoft", "apple", "meta"):
         from checker import scrapers
 
         return scrapers.scrape(company)

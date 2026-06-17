@@ -128,6 +128,15 @@ companies:
     base: https://nvidia.wd5.myworkdayjobs.com
     tenant: nvidia
     site: NVIDIAExternalCareerSite
+  # Apple and Meta have no usable public API (CSRF-protected SPAs), so they are
+  # rendered with Playwright like Google/Microsoft. Selectors are best-effort
+  # and may need tuning after the first CI run.
+  - name: Apple
+    type: apple
+    query: intern
+  - name: Meta
+    type: meta
+    query: intern
   - name: Stripe
     type: greenhouse
     token: stripe
@@ -144,8 +153,25 @@ companies:
     type: greenhouse
     token: mongodb
   - name: Uber
-    type: smartrecruiters
-    token: uber
+    type: uber
+    queries:
+      - intern
+      - graduate
+  - name: Salesforce
+    type: workday
+    base: https://salesforce.wd12.myworkdayjobs.com
+    tenant: salesforce
+    site: External_Career_Site
+  - name: Adobe
+    type: workday
+    base: https://adobe.wd5.myworkdayjobs.com
+    tenant: adobe
+    site: external_experienced
+  - name: Intel
+    type: workday
+    base: https://intel.wd1.myworkdayjobs.com
+    tenant: intel
+    site: External
   - name: Spotify
     type: lever
     token: spotify
@@ -264,3 +290,35 @@ companies:
   - name: DeepL
     type: ashby
     token: DeepL
+
+  # ===================== Banks / Finance / Pharma (Workday) =====================
+  - name: Citi
+    type: workday
+    base: https://citi.wd5.myworkdayjobs.com
+    tenant: citi
+    site: "2"
+  - name: Deutsche Bank
+    type: workday
+    base: https://db.wd3.myworkdayjobs.com
+    tenant: db
+    site: DBWebsite
+  - name: Roche
+    type: workday
+    base: https://roche.wd3.myworkdayjobs.com
+    tenant: roche
+    site: roche-ext
+  - name: Morgan Stanley
+    type: workday
+    base: https://ms.wd5.myworkdayjobs.com
+    tenant: ms
+    site: External
+  - name: Barclays
+    type: workday
+    base: https://barclays.wd3.myworkdayjobs.com
+    tenant: barclays
+    site: External_Career_Site_Barclays
+
+  # ===================== Industry / Corporates =====================
+  - name: Bosch
+    type: smartrecruiters
+    token: BoschGroup
