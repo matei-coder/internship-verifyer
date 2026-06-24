@@ -139,6 +139,11 @@
     "title": "Business Analyst Intern, AGL CN BI",
     "url": "https://www.amazon.jobs/en/jobs/10451102/business-analyst-intern-agl-cn-bi"
   },
+  "Amazon::10456239": {
+    "first_seen": "2026-06-24",
+    "title": "2027 Applied Science Intern (Machine Learning, Recommender Systems), Amazon International Machine Learning",
+    "url": "https://www.amazon.jobs/en/jobs/10456239/2027-applied-science-intern-machine-learning-recommender-systems-amazon-international-machine-learning"
+  },
   "Amazon::3091886": {
     "first_seen": "2026-06-17",
     "title": "Business Analyst Intern",
@@ -2719,6 +2724,71 @@
     "title": "Bosch Corporation Internship at \"Motorcycle & Powersports Department\" - Project Management & Sales Role",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133519310"
   },
+  "Bosch::744000133531719": {
+    "first_seen": "2026-06-24",
+    "title": "[Internship] Sales Support Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133531719"
+  },
+  "Bosch::744000133532241": {
+    "first_seen": "2026-06-24",
+    "title": "Internship in Facility Management",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133532241"
+  },
+  "Bosch::744000133536110": {
+    "first_seen": "2026-06-24",
+    "title": "[Internship] HRBP Assistant Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133536110"
+  },
+  "Bosch::744000133540339": {
+    "first_seen": "2026-06-24",
+    "title": "[Internship] Accounting Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133540339"
+  },
+  "Bosch::744000133542839": {
+    "first_seen": "2026-06-24",
+    "title": "[Internship] Logistics Operations Intern (Japanese Speaking)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133542839"
+  },
+  "Bosch::744000133547013": {
+    "first_seen": "2026-06-24",
+    "title": "Working Student in Marketing Communications (f/m/div.)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133547013"
+  },
+  "Bosch::744000133576070": {
+    "first_seen": "2026-06-24",
+    "title": "Paid internship - IT Business Process & Financial Management (Valuemation) f/m",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133576070"
+  },
+  "Bosch::744000133584006": {
+    "first_seen": "2026-06-24",
+    "title": "Working Student in Material Compliance & AI-driven Data Processing (f/m/div.)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133584006"
+  },
+  "Bosch::744000133614799": {
+    "first_seen": "2026-06-24",
+    "title": "Logistics Packaging Design Internship",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133614799"
+  },
+  "Bosch::744000133641700": {
+    "first_seen": "2026-06-24",
+    "title": "Commercial Vehicle Sales Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133641700"
+  },
+  "Bosch::744000133650769": {
+    "first_seen": "2026-06-24",
+    "title": "Commercial Vehicle Sales Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133650769"
+  },
+  "Bosch::744000133683459": {
+    "first_seen": "2026-06-24",
+    "title": "Commercial Vehicle Sales Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133683459"
+  },
+  "Bosch::744000133788968": {
+    "first_seen": "2026-06-24",
+    "title": "[SX/EIT] Automation Tester Intern (Selenium)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133788968"
+  },
   "CERN::744000085340717": {
     "first_seen": "2026-06-17",
     "title": "Short Term Internship 2026",
@@ -2844,6 +2914,11 @@
     "title": "Global Campaigns Graduated Internship (12-months)",
     "url": "https://job-boards.greenhouse.io/celonis/jobs/7762524003?gh_jid=7762524003"
   },
+  "Celonis::7767354003": {
+    "first_seen": "2026-06-24",
+    "title": "Working Student Employment Law",
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/7767354003?gh_jid=7767354003"
+  },
   "Celonis::7768049003": {
     "first_seen": "2026-06-19",
     "title": "Sales Enablement Graduated Internship (12 months)",
@@ -2923,6 +2998,11 @@
     "first_seen": "2026-06-23",
     "title": "Summer Internship Product Management",
     "url": "https://jobs.smartrecruiters.com/check24/744000133357069"
+  },
+  "Check24::744000133588908": {
+    "first_seen": "2026-06-24",
+    "title": "Working Student (m/f/d) Data Science / AI - Autoteile",
+    "url": "https://jobs.smartrecruiters.com/check24/744000133588908"
   },
   "Citi::25836348": {
     "first_seen": "2026-06-18",
@@ -3043,6 +3123,11 @@
     "first_seen": "2026-06-17",
     "title": "Legal Intern – Commercial Legal (Fall 2026)",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/7983674?gh_jid=7983674"
+  },
+  "Cloudflare::8020830": {
+    "first_seen": "2026-06-24",
+    "title": "Sales Project Manager Intern (AI Innovation) (Fall 2026)",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8020830?gh_jid=8020830"
   },
   "Cohere::36d1f52f-8270-4652-adf5-5303a0ff341b": {
     "first_seen": "2026-06-17",
@@ -3169,6 +3254,11 @@
     "title": "CA Intern NCT 2026",
     "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/CA-Intern-NCT-2026_R0428453"
   },
+  "Deutsche Bank::R0428785": {
+    "first_seen": "2026-06-24",
+    "title": "CA Interns NCT 2026",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/CA-Interns-NCT-2026_R0428785"
+  },
   "Deutsche Bank::R0429063": {
     "first_seen": "2026-06-18",
     "title": "Intern - Relationship & Transaction Management",
@@ -3198,6 +3288,11 @@
     "first_seen": "2026-06-18",
     "title": "Internship - IT Project Management  (f/m/x)",
     "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship---IT-Project-Management---f-m-x-_R0430708"
+  },
+  "Deutsche Bank::R0432013": {
+    "first_seen": "2026-06-24",
+    "title": "Global Technology Governance Intern",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Sao-Paulo-Edificio-Pedro-Mariz/Global-Technology-Governance-Intern_R0432013"
   },
   "Deutsche Bank::R0432281": {
     "first_seen": "2026-06-18",
@@ -3458,6 +3553,11 @@
     "first_seen": "2026-06-18",
     "title": "Silicon Architecture Graduate Intern",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Silicon-Architecture-Graduate-Intern_JR0283607"
+  },
+  "Intel::JR0283841": {
+    "first_seen": "2026-06-24",
+    "title": "Working Student - HW/SW Customer Engineer (m/f/d)",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Germany-Munich/Working-Student---HW-SW-Customer-Engineer--m-f-d-_JR0283841"
   },
   "Intel::JR0283938": {
     "first_seen": "2026-06-18",
@@ -4059,6 +4159,11 @@
     "title": "Government Affairs: Events and Operations Internship Opportunities",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556887862"
   },
+  "Microsoft::1970393556911730": {
+    "first_seen": "2026-06-24",
+    "title": "Software Engineering INTERN",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556911730"
+  },
   "Mistral AI::426ef8c0-eb26-4004-a690-f33c62b445a7": {
     "first_seen": "2026-06-17",
     "title": "Applied Scientist / Research Engineer (Internship)",
@@ -4249,6 +4354,11 @@
     "title": "Arch Intern, CPU - 2026",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Arch-Intern--CPU---2026_JR2019197"
   },
+  "NVIDIA::JR2019612": {
+    "first_seen": "2026-06-24",
+    "title": "Robotics Software Intern - Sim-to-Real",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Robotics-Software-Intern---Sim-to-Real_JR2019612"
+  },
   "NVIDIA::JR2019909": {
     "first_seen": "2026-06-17",
     "title": "Solution Architecture Intern, AI Infra - 2026",
@@ -4428,6 +4538,11 @@
     "first_seen": "2026-06-17",
     "title": "2027 Point72 Academy Investment Analyst Summer Internship Program - Japan",
     "url": "https://boards.greenhouse.io/point72/jobs/8491138002?gh_jid=8491138002"
+  },
+  "Point72::8603979002": {
+    "first_seen": "2026-06-24",
+    "title": "Corporate Access Intern",
+    "url": "https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002"
   },
   "Quadrature Capital::4255974": {
     "first_seen": "2026-06-17",
@@ -4854,6 +4969,11 @@
     "title": "2026 Fall Intern - Procurement",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Mississauga/XMLNAME-2026-Fall-Intern---Procurement_202606-114282"
   },
+  "Roche::202606-114283": {
+    "first_seen": "2026-06-24",
+    "title": "2026 Fall Intern - Strategic Communications",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Mississauga/XMLNAME-2026-Fall-Intern---Strategic-Communications_202606-114283"
+  },
   "Roche::202606-114367": {
     "first_seen": "2026-06-18",
     "title": "Medical Intern",
@@ -4963,6 +5083,11 @@
     "first_seen": "2026-06-22",
     "title": "Communication Intern",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Shanghai/Communication-Intern_202606-116107"
+  },
+  "Roche::202606-116261": {
+    "first_seen": "2026-06-24",
+    "title": "Internship - ERP Transformation Project",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Shanghai/Internship---ERP-Transformation-Project_202606-116261"
   },
   "Salesforce::JR336319": {
     "first_seen": "2026-06-19",
@@ -5099,6 +5224,11 @@
     "title": "Corporate Treasury Intern",
     "url": "https://sumup.com/careers/positions/8402313002?gh_jid=8402313002"
   },
+  "SumUp::8579057002": {
+    "first_seen": "2026-06-24",
+    "title": "Sales Operations Intern",
+    "url": "https://sumup.com/careers/positions/8579057002?gh_jid=8579057002"
+  },
   "SumUp::8589867002": {
     "first_seen": "2026-06-17",
     "title": "People Experience Apprentice",
@@ -5144,6 +5274,11 @@
     "title": "2026 Account Management Intern - US",
     "url": "https://www.uber.com/global/en/careers/list/157087/"
   },
+  "Uber::157261": {
+    "first_seen": "2026-06-24",
+    "title": "2026 Account Management Intern, Madrid",
+    "url": "https://www.uber.com/global/en/careers/list/157261/"
+  },
   "Uber::157463": {
     "first_seen": "2026-06-18",
     "title": "2026 PhD Research Intern, India",
@@ -5158,6 +5293,11 @@
     "first_seen": "2026-06-18",
     "title": "2026 Account Management Intern, Strasbourg",
     "url": "https://www.uber.com/global/en/careers/list/158946/"
+  },
+  "Uber::159011": {
+    "first_seen": "2026-06-24",
+    "title": "2026 Merchant Success Specialist Intern, Paris",
+    "url": "https://www.uber.com/global/en/careers/list/159011/"
   },
   "Uber::159595": {
     "first_seen": "2026-06-18",
@@ -5179,6 +5319,11 @@
     "title": "Business Development Intern, Warsaw",
     "url": "https://www.uber.com/global/en/careers/list/159602/"
   },
+  "Uber::159603": {
+    "first_seen": "2026-06-24",
+    "title": "2026 Account Management Intern, Johannesburg",
+    "url": "https://www.uber.com/global/en/careers/list/159603/"
+  },
   "Uber::159798": {
     "first_seen": "2026-06-18",
     "title": "2026 Account Management Intern, Berlin",
@@ -5188,6 +5333,11 @@
     "first_seen": "2026-06-18",
     "title": "2026 PhD Applied Scientist Intern (Commerce, Trust, Safety and Support), United States",
     "url": "https://www.uber.com/global/en/careers/list/160014/"
+  },
+  "Uber::160446": {
+    "first_seen": "2026-06-24",
+    "title": "2026 Account Management Intern, Copenhagen",
+    "url": "https://www.uber.com/global/en/careers/list/160446/"
   },
   "UiPath::b262761e-ae68-48ab-b82c-8b41ad647a6f": {
     "first_seen": "2026-06-17",
