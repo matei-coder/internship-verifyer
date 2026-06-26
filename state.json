@@ -144,6 +144,11 @@
     "title": "2027 Applied Science Intern (Machine Learning, Recommender Systems), Amazon International Machine Learning",
     "url": "https://www.amazon.jobs/en/jobs/10456239/2027-applied-science-intern-machine-learning-recommender-systems-amazon-international-machine-learning"
   },
+  "Amazon::10459543": {
+    "first_seen": "2026-06-26",
+    "title": "2027 Applied Science Intern (Computer Vision), Amazon International Machine Learning",
+    "url": "https://www.amazon.jobs/en/jobs/10459543/2027-applied-science-intern-computer-vision-amazon-international-machine-learning"
+  },
   "Amazon::3091886": {
     "first_seen": "2026-06-17",
     "title": "Business Analyst Intern",
@@ -2829,6 +2834,51 @@
     "title": "Working Student in Product Planning Team",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000134175839"
   },
+  "Bosch::744000134217179": {
+    "first_seen": "2026-06-26",
+    "title": "[Bosch HcP - Internship] Quality Inspection Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000134217179"
+  },
+  "Bosch::744000134233920": {
+    "first_seen": "2026-06-26",
+    "title": "Paid Internship - IT ServiceNow Platform Administrator (Platform Core) f/m",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000134233920"
+  },
+  "Bosch::744000134257350": {
+    "first_seen": "2026-06-26",
+    "title": "IT Support Apprentice",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000134257350"
+  },
+  "Bosch::744000134258831": {
+    "first_seen": "2026-06-26",
+    "title": "Mandatory Internship in Purchasing of Logistic Transport Services",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000134258831"
+  },
+  "Bosch::744000134273869": {
+    "first_seen": "2026-06-26",
+    "title": "Production Engineer Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000134273869"
+  },
+  "Bosch::744000134282410": {
+    "first_seen": "2026-06-26",
+    "title": "Customer Experience Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000134282410"
+  },
+  "Bosch::744000134388514": {
+    "first_seen": "2026-06-26",
+    "title": "[ECA] Admin Intern (ECU Management – Non-Technical Background)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000134388514"
+  },
+  "Bosch::744000134396059": {
+    "first_seen": "2026-06-26",
+    "title": "【GS】Internship at HR Shared Service Japan - People Acquisition Campus",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000134396059"
+  },
+  "Bosch::744000134403613": {
+    "first_seen": "2026-06-26",
+    "title": "Internship at the Department of Packaging Design Logistics within Automotive Aftermarket Division",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000134403613"
+  },
   "CERN::744000085340717": {
     "first_seen": "2026-06-17",
     "title": "Short Term Internship 2026",
@@ -2978,6 +3028,11 @@
     "first_seen": "2026-06-23",
     "title": "Talent Acquisition Coordinator Graduated Internship (12 months)",
     "url": "https://job-boards.greenhouse.io/celonis/jobs/7779663003?gh_jid=7779663003"
+  },
+  "Celonis::7784708003": {
+    "first_seen": "2026-06-26",
+    "title": "Intern Sales Development Program (Benelux market)",
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/7784708003?gh_jid=7784708003"
   },
   "Check24::744000105586044": {
     "first_seen": "2026-06-17",
@@ -3333,6 +3388,11 @@
     "first_seen": "2026-06-18",
     "title": "IB - Fixed Income & Currencies ICG Credit Local Intern",
     "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Shanghai-Two-IFC/IB---Fixed-Income---Currencies-ICG-Credit-Local-Intern_R0429959"
+  },
+  "Deutsche Bank::R0430384": {
+    "first_seen": "2026-06-26",
+    "title": "Internship – IT Digital Banking (f/m/x)",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship---IT-Digital-Banking--f-m-x-_R0430384"
   },
   "Deutsche Bank::R0430426": {
     "first_seen": "2026-06-21",
@@ -3714,10 +3774,25 @@
     "title": "Finance Intern",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Finance-Intern_JR0285082-1"
   },
+  "Intel::JR0285125": {
+    "first_seen": "2026-06-26",
+    "title": "Information Technology Undergraduate Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Information-Technology-Undergraduate-Intern_JR0285125"
+  },
+  "Intel::JR0285126": {
+    "first_seen": "2026-06-26",
+    "title": "Information Technology Undergraduate Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Information-Technology-Undergraduate-Intern_JR0285126"
+  },
   "Intel::JR0285140": {
     "first_seen": "2026-06-25",
     "title": "AI Security Engineering Intern",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Security-Engineering-Intern_JR0285140"
+  },
+  "Intel::JR0285186": {
+    "first_seen": "2026-06-26",
+    "title": "Finance Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Finance-Intern_JR0285186"
   },
   "Jane Street::8151903002": {
     "first_seen": "2026-06-17",
@@ -4279,6 +4354,16 @@
     "title": "Senior Manager, Early Talent Recruiting",
     "url": "https://www.mongodb.com/careers/job/?gh_jid=7960932"
   },
+  "MongoDB::8010527": {
+    "first_seen": "2026-06-26",
+    "title": "Associate Recruiter, Early Talent",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=8010527"
+  },
+  "MongoDB::8010529": {
+    "first_seen": "2026-06-26",
+    "title": "Associate Recruiter, Early Talent",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=8010529"
+  },
   "Morgan Stanley::JR029493": {
     "first_seen": "2026-06-18",
     "title": "Intern - Bilingual English/Mandarin",
@@ -4328,6 +4413,11 @@
     "first_seen": "2026-06-17",
     "title": "KYCO Intern",
     "url": "https://n26.com/en-eu/careers/positions/8007304?gh_jid=8007304"
+  },
+  "N26::8025772": {
+    "first_seen": "2026-06-26",
+    "title": "Working Student - OCC Team",
+    "url": "https://n26.com/en-eu/careers/positions/8025772?gh_jid=8025772"
   },
   "NVIDIA::JR2002424": {
     "first_seen": "2026-06-17",
@@ -4478,6 +4568,11 @@
     "first_seen": "2026-06-17",
     "title": "Solution Architecture Intern, AI Infra - 2026",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Solution-Architecture-Intern--AI-Infra---2026_JR2019909"
+  },
+  "NVIDIA::JR2020124": {
+    "first_seen": "2026-06-26",
+    "title": "Applied Research Intern, Robotics - 2026",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Applied-Research-Intern--Robotics---2026_JR2020124"
   },
   "Palantir::1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a": {
     "first_seen": "2026-06-17",
@@ -5019,6 +5114,11 @@
     "title": "Planning Intern",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Shanghai/Planning-Intern_202605-113627"
   },
+  "Roche::202605-113687": {
+    "first_seen": "2026-06-26",
+    "title": "Intern - Business Transformation/Digitalisation & Organizational Change Management in Clinical Studies",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Kaiseraugst/Intern---Business-Transformation-Digitalisation---Organizational-Change-Management-in-Clinical-Studies_202605-113687"
+  },
   "Roche::202605-113745": {
     "first_seen": "2026-06-18",
     "title": "People Operations Trainee",
@@ -5208,6 +5308,21 @@
     "first_seen": "2026-06-24",
     "title": "Internship - ERP Transformation Project",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Shanghai/Internship---ERP-Transformation-Project_202606-116261"
+  },
+  "Roche::202606-116411": {
+    "first_seen": "2026-06-26",
+    "title": "Internship | Finance & Accounting (Supply Chain)",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Petaling-Jaya/Internship---Finance---Accounting--Supply-Chain-_202606-116411"
+  },
+  "Roche::202606-116445": {
+    "first_seen": "2026-06-26",
+    "title": "Accounting - Period End Closing (PEC) Intern (Mandarin speaker)",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Petaling-Jaya/Accounting---Period-End-Closing--PEC--Intern--Mandarin-speaker-_202606-116445"
+  },
+  "Roche::202606-116543": {
+    "first_seen": "2026-06-26",
+    "title": "Digital Insights and Workflow Intern",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Hong-Kong/Digital-Insights-and-Workflow-Intern_202606-116543"
   },
   "Salesforce::JR329315": {
     "first_seen": "2026-06-25",
