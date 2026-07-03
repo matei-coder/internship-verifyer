@@ -89,6 +89,11 @@
     "title": "Technical Business Developer Intern, 2026 Hong Kong",
     "url": "https://www.amazon.jobs/en/jobs/10394507/technical-business-developer-intern-2026-hong-kong"
   },
+  "Amazon::10401402": {
+    "first_seen": "2026-07-03",
+    "title": "Software Dev Engineer Intern Machine Learning, Amazon Robotics",
+    "url": "https://www.amazon.jobs/en/jobs/10401402/software-dev-engineer-intern-machine-learning-amazon-robotics"
+  },
   "Amazon::10402326": {
     "first_seen": "2026-06-17",
     "title": "Business Development Intern, Amazon University Talent Acquisition",
@@ -223,6 +228,11 @@
     "first_seen": "2026-06-17",
     "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
     "url": "https://www.amazon.jobs/en/jobs/3148406/2026-applied-scientist-intern-amazon-university-talent-acquisition"
+  },
+  "Amazon::3148456": {
+    "first_seen": "2026-07-03",
+    "title": "Software Dev Intern - AI / Machine Learning",
+    "url": "https://www.amazon.jobs/en/jobs/3148456/software-dev-intern-ai-machine-learning"
   },
   "Amazon::3149107": {
     "first_seen": "2026-06-17",
@@ -3084,6 +3094,31 @@
     "title": "IT Intern (Automation)",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135419029"
   },
+  "Bosch::744000135435299": {
+    "first_seen": "2026-07-03",
+    "title": "Extracurricular Internship in Management (f/m/div.)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135435299"
+  },
+  "Bosch::744000135460168": {
+    "first_seen": "2026-07-03",
+    "title": "Extracurricular Internship: Hardware Engineer - eBike (f/m/div.)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135460168"
+  },
+  "Bosch::744000135497810": {
+    "first_seen": "2026-07-03",
+    "title": "Business Intelligence Intern - Fall",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135497810"
+  },
+  "Bosch::744000135502399": {
+    "first_seen": "2026-07-03",
+    "title": "Sr. HR Service Intern (July 2026/Year Round)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135502399"
+  },
+  "Bosch::744000135601901": {
+    "first_seen": "2026-07-03",
+    "title": "Accelerate Development Trainee Program - Maintenance Engineering",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135601901"
+  },
   "CERN::744000085340717": {
     "first_seen": "2026-06-17",
     "title": "Short Term Internship 2026",
@@ -3448,6 +3483,11 @@
     "first_seen": "2026-06-17",
     "title": "Sales: Solutions Engineer - Intern (Summer & Fall 2026)",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/7792962?gh_jid=7792962"
+  },
+  "Cloudflare::7796077": {
+    "first_seen": "2026-07-03",
+    "title": "Professional Services Intern – Global Customer Services (Fall 2026)",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077"
   },
   "Cloudflare::7799138": {
     "first_seen": "2026-06-17",
@@ -3829,10 +3869,30 @@
     "title": "BITS Intern Pune",
     "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/BITS-Intern-Pune_R0439583"
   },
+  "Deutsche Bank::R0439589": {
+    "first_seen": "2026-07-03",
+    "title": "Internship – Artificial Intelligence (f/m/x)",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Brussels-Avenue-Marnix-13-15/Internship---Artificial-Intelligence--f-m-x-_R0439589"
+  },
   "Deutsche Bank::R0440341": {
     "first_seen": "2026-06-30",
     "title": "Digital Marketing Internship – Milano (f/m/x)",
     "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Digital-Marketing-Internship---Milano--f-m-x-_R0440341"
+  },
+  "Deutsche Bank::R0440605": {
+    "first_seen": "2026-07-03",
+    "title": "Investment Banking Intern  - Brazil",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Sao-Paulo-Edificio-Pedro-Mariz/Investment-Banking-Intern----Brazil_R0440605"
+  },
+  "Deutsche Bank::R0440606": {
+    "first_seen": "2026-07-03",
+    "title": "Investment Banking Intern  - Brazil",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Sao-Paulo-Edificio-Pedro-Mariz/Investment-Banking-Intern----Brazil_R0440606"
+  },
+  "Deutsche Bank::R0441732": {
+    "first_seen": "2026-07-03",
+    "title": "Brazil Credit Risk Management - Intern",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Sao-Paulo-Edificio-Pedro-Mariz/Brazil-Credit-Risk-Management---Intern_R0441732-1"
   },
   "Flow Traders::7100637": {
     "first_seen": "2026-06-17",
@@ -4134,6 +4194,11 @@
     "title": "Software Development Intern (Automation and AI Enablement)",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Software-Development-Intern--Automation-and-AI-Enablement-_JR0285207"
   },
+  "Intel::JR0285211": {
+    "first_seen": "2026-07-03",
+    "title": "Development Tools Software Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Development-Tools-Software-Intern_JR0285211"
+  },
   "Intel::JR0285242": {
     "first_seen": "2026-07-02",
     "title": "SOC AI Power and Performance Validation Undergrad Intern",
@@ -4148,6 +4213,11 @@
     "first_seen": "2026-07-02",
     "title": "Logic Design Intern",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Logic-Design-Intern_JR0285334"
+  },
+  "Intel::JR0285341": {
+    "first_seen": "2026-07-03",
+    "title": "DTCO Data Engineer Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/DTCO-Data-Engineer-Intern_JR0285341"
   },
   "Jane Street::8151903002": {
     "first_seen": "2026-06-17",
@@ -4218,6 +4288,11 @@
     "first_seen": "2026-06-17",
     "title": "Quant Research Analyst, Intern",
     "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4872158101"
+  },
+  "Meta::1418337243438665": {
+    "first_seen": "2026-07-03",
+    "title": "Research Scientist Intern, NMR Analysis Automation",
+    "url": "https://www.metacareers.com/profile/job_details/1418337243438665"
   },
   "Meta::1422892385992613": {
     "first_seen": "2026-06-18",
@@ -4688,6 +4763,11 @@
     "first_seen": "2026-06-18",
     "title": "Researcher Intern",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556874233"
+  },
+  "Microsoft::1970393556875247": {
+    "first_seen": "2026-07-03",
+    "title": "Software Engineering INTERN",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556875247"
   },
   "Microsoft::1970393556885678": {
     "first_seen": "2026-06-23",
@@ -5309,6 +5389,21 @@
     "title": "Corporate Access Intern",
     "url": "https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002"
   },
+  "Point72::8617339002": {
+    "first_seen": "2026-07-03",
+    "title": "2027 Technology Development Intern – IIT Madras",
+    "url": "https://boards.greenhouse.io/point72/jobs/8617339002?gh_jid=8617339002"
+  },
+  "Point72::8617340002": {
+    "first_seen": "2026-07-03",
+    "title": "2027 Technology Development Intern – IIT Hyderabad",
+    "url": "https://boards.greenhouse.io/point72/jobs/8617340002?gh_jid=8617340002"
+  },
+  "Point72::8617343002": {
+    "first_seen": "2026-07-03",
+    "title": "2027 Technology Development Intern – IIT Kanpur",
+    "url": "https://boards.greenhouse.io/point72/jobs/8617343002?gh_jid=8617343002"
+  },
   "Quadrature Capital::4255974": {
     "first_seen": "2026-06-17",
     "title": "Internships",
@@ -5874,6 +5969,11 @@
     "title": "Workforce Optimization / Strategies Intern (m/f/d)",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Rotkreuz/Workforce-Optimization---Strategies-Intern--m-f-d-_202606-116356"
   },
+  "Roche::202606-116367": {
+    "first_seen": "2026-07-03",
+    "title": "Operations & Audit Intern",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Panama/Operations---Audit-Intern_202606-116367"
+  },
   "Roche::202606-116411": {
     "first_seen": "2026-06-26",
     "title": "Internship | Finance & Accounting (Supply Chain)",
@@ -5918,6 +6018,11 @@
     "first_seen": "2026-07-01",
     "title": "Intern-Pharmacovigilance",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Seoul/Intern-Pharmacovigilance_202606-116840"
+  },
+  "Roche::202606-116842": {
+    "first_seen": "2026-07-03",
+    "title": "Intern for the implementation of the Asset Administration Shell (AAS) concept (12 months in Basel, 50%)",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Intern-for-the-implementation-of-the-Asset-Administration-Shell--AAS--concept--12-months-in-Basel--50--_202606-116842"
   },
   "Roche::202606-116846": {
     "first_seen": "2026-07-01",
@@ -5964,10 +6069,30 @@
     "title": "Digital Marketing Intern",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Subang-Jaya/Digital-Marketing-Intern_202606-116957"
   },
+  "Roche::202606-117007": {
+    "first_seen": "2026-07-03",
+    "title": "6-month Internship in Antibody Development (m/f/d)",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Penzberg/XMLNAME-6-month-Internship-in-Antibody-Development--m-f-d-_202606-117007-1"
+  },
   "Roche::202606-117096": {
     "first_seen": "2026-07-02",
     "title": "MB&EM Lab Intern",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Shanghai/MB-EM-Lab-Intern_202606-117096"
+  },
+  "Roche::202607-117239": {
+    "first_seen": "2026-07-03",
+    "title": "Intern",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Hyderabad/Intern_202607-117239"
+  },
+  "Roche::202607-117241": {
+    "first_seen": "2026-07-03",
+    "title": "Intern",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Hyderabad/Intern_202607-117241"
+  },
+  "Roche::202607-117266": {
+    "first_seen": "2026-07-03",
+    "title": "Project-Support Intern",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Shanghai/Project-Support-Intern_202607-117266"
   },
   "Salesforce::JR329315": {
     "first_seen": "2026-06-25",
@@ -6018,6 +6143,11 @@
     "first_seen": "2026-06-17",
     "title": "2026 LATAM Operations Analyst (Internship)",
     "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8008507"
+  },
+  "Schonfeld::8044346": {
+    "first_seen": "2026-07-03",
+    "title": "Operations Internship",
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8044346"
   },
   "Snowflake::1bad12df-f443-426f-9d09-e96fc780d698": {
     "first_seen": "2026-06-17",
