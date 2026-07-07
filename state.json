@@ -3144,6 +3144,41 @@
     "title": "[Bosch R&D - Internship] Product Development Intern (Automotive focus)",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135909944"
   },
+  "Bosch::744000135945459": {
+    "first_seen": "2026-07-07",
+    "title": "Internship Content Management and Creation",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135945459"
+  },
+  "Bosch::744000135959278": {
+    "first_seen": "2026-07-07",
+    "title": "Digital Quality Management & Global Transformation - Internship",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135959278"
+  },
+  "Bosch::744000135967399": {
+    "first_seen": "2026-07-07",
+    "title": "[Internship] Tax Intern (Tech-driven)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135967399"
+  },
+  "Bosch::744000135991954": {
+    "first_seen": "2026-07-07",
+    "title": "Trade Marketing & Communication Internship",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135991954"
+  },
+  "Bosch::744000136006089": {
+    "first_seen": "2026-07-07",
+    "title": "Internship in the EU Affairs Office",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136006089"
+  },
+  "Bosch::744000136011516": {
+    "first_seen": "2026-07-07",
+    "title": "Pricing trainee",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136011516"
+  },
+  "Bosch::744000136128689": {
+    "first_seen": "2026-07-07",
+    "title": "[SO] Product Legal Analysis Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136128689"
+  },
   "CERN::744000085340717": {
     "first_seen": "2026-06-17",
     "title": "Short Term Internship 2026",
@@ -3328,6 +3363,11 @@
     "first_seen": "2026-07-06",
     "title": "Digital Marketing Intern",
     "url": "https://job-boards.greenhouse.io/celonis/jobs/7794543003?gh_jid=7794543003"
+  },
+  "Celonis::7794551003": {
+    "first_seen": "2026-07-07",
+    "title": "Intern Marketing Production",
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/7794551003?gh_jid=7794551003"
   },
   "Check24::744000105586044": {
     "first_seen": "2026-06-17",
@@ -3578,6 +3618,16 @@
     "first_seen": "2026-07-04",
     "title": "Technical Support Engineer Intern (Fall 2026)",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135"
+  },
+  "Cloudflare::8044395": {
+    "first_seen": "2026-07-07",
+    "title": "AI Builder Intern – Global Customer Engineering, Service Sales (Fall 2026)",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395"
+  },
+  "Cloudflare::8047201": {
+    "first_seen": "2026-07-07",
+    "title": "Data Engineer Intern (Fall 2026)",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8047201?gh_jid=8047201"
   },
   "Cohere::36d1f52f-8270-4652-adf5-5303a0ff341b": {
     "first_seen": "2026-06-17",
@@ -3984,10 +4034,20 @@
     "title": "Hardware Machine Learning PhD Research Internship",
     "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4829785101"
   },
+  "IMC Trading::4860277101": {
+    "first_seen": "2026-07-07",
+    "title": "2027 - Quant Research Intern - IIT Bombay",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4860277101"
+  },
   "IMC Trading::4860306101": {
     "first_seen": "2026-07-06",
     "title": "2027 - FPGA Intern - IIT Bombay",
     "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4860306101"
+  },
+  "IMC Trading::4860319101": {
+    "first_seen": "2026-07-07",
+    "title": "2027 - Software Engineering Intern - IIT Bombay",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4860319101"
   },
   "IMC Trading::4900488101": {
     "first_seen": "2026-06-17",
@@ -4008,6 +4068,56 @@
     "first_seen": "2026-07-02",
     "title": "Machine Learning Research Intern - Summer 2027",
     "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907430101"
+  },
+  "IMC Trading::4912874101": {
+    "first_seen": "2026-07-07",
+    "title": "Machine Learning Research Intern - Summer 2027",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4912874101"
+  },
+  "IMC Trading::4917439101": {
+    "first_seen": "2026-07-07",
+    "title": "2027 - Quant Research Intern - IIT Madras",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917439101"
+  },
+  "IMC Trading::4917441101": {
+    "first_seen": "2026-07-07",
+    "title": "2027 - Quant Research Intern - IIT Delhi",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917441101"
+  },
+  "IMC Trading::4917442101": {
+    "first_seen": "2026-07-07",
+    "title": "2027 - Quant Research Intern - IIT Kharagpur",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917442101"
+  },
+  "IMC Trading::4917535101": {
+    "first_seen": "2026-07-07",
+    "title": "2027 - Software Engineering Intern - IIT Delhi",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917535101"
+  },
+  "IMC Trading::4917542101": {
+    "first_seen": "2026-07-07",
+    "title": "2027 - Software Engineering Intern - IIT Guwahati",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917542101"
+  },
+  "IMC Trading::4917545101": {
+    "first_seen": "2026-07-07",
+    "title": "2027 - Software Engineering Intern - IIT Kharagpur",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917545101"
+  },
+  "IMC Trading::4917547101": {
+    "first_seen": "2026-07-07",
+    "title": "2027 - Software Engineering Intern - IIT Madras",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917547101"
+  },
+  "IMC Trading::4917548101": {
+    "first_seen": "2026-07-07",
+    "title": "2027 - Software Engineering Intern - IIT Roorkee",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917548101"
+  },
+  "IMC Trading::4917549101": {
+    "first_seen": "2026-07-07",
+    "title": "2027 - Software Engineering Intern - BITS Pilani",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917549101"
   },
   "IMC Trading::4918252101": {
     "first_seen": "2026-07-06",
@@ -4279,6 +4389,11 @@
     "title": "Campus Recruiter, Early Careers Partnerships & Initiatives",
     "url": "https://job-boards.greenhouse.io/janestreet/jobs/8448713002"
   },
+  "Jane Street::8613910002": {
+    "first_seen": "2026-07-07",
+    "title": "Cybersecurity Analyst: New Grad",
+    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8613910002"
+  },
   "Jump Trading::7362318": {
     "first_seen": "2026-06-17",
     "title": "Campus Crypto Researcher (Intern)",
@@ -4393,6 +4508,11 @@
     "first_seen": "2026-06-18",
     "title": "Research Scientist Intern, State Estimation for Dexterous Manipulation (PhD)",
     "url": "https://www.metacareers.com/profile/job_details/2774289902955470"
+  },
+  "Meta::2839011673109571": {
+    "first_seen": "2026-07-07",
+    "title": "Research Scientist Intern, 3D Vision & World Simulation (PhD)",
+    "url": "https://www.metacareers.com/profile/job_details/2839011673109571"
   },
   "Meta::2916726525182155": {
     "first_seen": "2026-06-18",
@@ -5008,6 +5128,11 @@
     "first_seen": "2026-06-17",
     "title": "Perf Engineering Intern - 2026",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Perf-Engineering-Intern---2026_JR2014608"
+  },
+  "NVIDIA::JR2015779": {
+    "first_seen": "2026-07-07",
+    "title": "Performance Engineer Intern, Systems Software-  Fall 2026",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779"
   },
   "NVIDIA::JR2016035": {
     "first_seen": "2026-06-17",
@@ -6158,6 +6283,11 @@
     "first_seen": "2026-07-06",
     "title": "Legal Intern",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Istanbul/Legal-Intern_202607-117466"
+  },
+  "Roche::202607-117521": {
+    "first_seen": "2026-07-07",
+    "title": "Data Engineer Intern-CET",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Shanghai/Data-Engineer-Intern-CET_202607-117521-1"
   },
   "Salesforce::JR329315": {
     "first_seen": "2026-06-25",
