@@ -159,6 +159,11 @@
     "title": "2027 Applied Science Intern (Computer Vision), Amazon International Machine Learning",
     "url": "https://www.amazon.jobs/en/jobs/10459543/2027-applied-science-intern-computer-vision-amazon-international-machine-learning"
   },
+  "Amazon::3063220": {
+    "first_seen": "2026-07-09",
+    "title": "Software Development Engineer Intern, Amazon University Talent Acquisition",
+    "url": "https://www.amazon.jobs/en/jobs/3063220/software-development-engineer-intern-amazon-university-talent-acquisition"
+  },
   "Amazon::3091886": {
     "first_seen": "2026-06-17",
     "title": "Business Analyst Intern",
@@ -3244,6 +3249,36 @@
     "title": "Data Management Internship",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136383130"
   },
+  "Bosch::744000136416540": {
+    "first_seen": "2026-07-09",
+    "title": "Internship in Customer sales advisor",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136416540"
+  },
+  "Bosch::744000136452010": {
+    "first_seen": "2026-07-09",
+    "title": "[EET] Digital Marketing Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136452010"
+  },
+  "Bosch::744000136469809": {
+    "first_seen": "2026-07-09",
+    "title": "Engineering Support Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136469809"
+  },
+  "Bosch::744000136565100": {
+    "first_seen": "2026-07-09",
+    "title": "Extracurricular Internship: HR Intern - Work Abroad (f/m/div.)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136565100"
+  },
+  "Bosch::744000136610409": {
+    "first_seen": "2026-07-09",
+    "title": "[Bosch HcP - Internship] IT Admin Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136610409"
+  },
+  "Bosch::744000136722535": {
+    "first_seen": "2026-07-09",
+    "title": "[Bosch HcP - Internship] Problem Solving Admin Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136722535"
+  },
   "CERN::744000085340717": {
     "first_seen": "2026-06-17",
     "title": "Short Term Internship 2026",
@@ -4074,6 +4109,11 @@
     "title": "Trading Intern",
     "url": "https://job-boards.greenhouse.io/flowtraders/jobs/7100637"
   },
+  "Flow Traders::8047166": {
+    "first_seen": "2026-07-09",
+    "title": "Quantitative Trading Intern Summer 2027",
+    "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8047166"
+  },
   "Helsing::4824087101": {
     "first_seen": "2026-06-17",
     "title": "Commercial Finance Intern/Working Student",
@@ -4479,6 +4519,11 @@
     "title": "Electrical Validation Intern",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Electrical-Validation-Intern_JR0285377"
   },
+  "Intel::JR0285471": {
+    "first_seen": "2026-07-09",
+    "title": "AI Software Engineering Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/AI-Software-Engineering-Intern_JR0285471"
+  },
   "Jane Street::8151903002": {
     "first_seen": "2026-06-17",
     "title": "Campus Recruiter, Early Careers Partnerships & Initiatives",
@@ -4504,10 +4549,65 @@
     "title": "Campus Trading Team Software Engineer  (Intern)",
     "url": "https://www.jumptrading.com/hr/job?gh_jid=7565728"
   },
+  "Jump Trading::7848371": {
+    "first_seen": "2026-07-09",
+    "title": "Campus Quantitative Trader (Intern)",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=7848371"
+  },
   "Jump Trading::7974587": {
     "first_seen": "2026-06-17",
     "title": "Early Career Talent Development Programs Specialist",
     "url": "https://www.jumptrading.com/hr/job?gh_jid=7974587"
+  },
+  "Jump Trading::7982648": {
+    "first_seen": "2026-07-09",
+    "title": "Campus Quantitative Researcher, UG/MS (Intern)",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=7982648"
+  },
+  "Jump Trading::8002989": {
+    "first_seen": "2026-07-09",
+    "title": "Campus Software Engineer (Intern)",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989"
+  },
+  "Jump Trading::8002998": {
+    "first_seen": "2026-07-09",
+    "title": "Campus Data Engineer (Intern)",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8002998"
+  },
+  "Jump Trading::8003013": {
+    "first_seen": "2026-07-09",
+    "title": "Campus FPGA Engineer (Intern)",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8003013"
+  },
+  "Jump Trading::8003019": {
+    "first_seen": "2026-07-09",
+    "title": "Campus UI Software Engineer (Intern)",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019"
+  },
+  "Jump Trading::8007788": {
+    "first_seen": "2026-07-09",
+    "title": "Campus Systems Engineer (Intern)",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788"
+  },
+  "Jump Trading::8049938": {
+    "first_seen": "2026-07-09",
+    "title": "Campus Quantitative Researcher, PhD (Intern)",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8049938"
+  },
+  "Jump Trading::8052281": {
+    "first_seen": "2026-07-09",
+    "title": "Campus AI Research Engineer (Intern)",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8052281"
+  },
+  "Jump Trading::8052338": {
+    "first_seen": "2026-07-09",
+    "title": "Campus AI Research Engineer - Deep Learning (Intern)",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8052338"
+  },
+  "Jump Trading::8052351": {
+    "first_seen": "2026-07-09",
+    "title": "Campus AI Research Engineer – Research Automation (Intern)",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8052351"
   },
   "Man Group::4799141101": {
     "first_seen": "2026-06-17",
@@ -5884,6 +5984,11 @@
     "title": "Intern Digital Customer Excellence",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Grenzach/Intern-Digital-Customer-Excellence_202604-110877-3"
   },
+  "Roche::202605-111219": {
+    "first_seen": "2026-07-09",
+    "title": "People Support Solutions Intern",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Budapest/People-Support-Solutions-Intern_202605-111219"
+  },
   "Roche::202605-111351": {
     "first_seen": "2026-06-18",
     "title": "Software Testing Intern",
@@ -6139,6 +6244,11 @@
     "title": "Pro intern in Commercial Operations",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Lima/Pro-intern-in-Commercial-Operations_202606-114466"
   },
+  "Roche::202606-114470": {
+    "first_seen": "2026-07-09",
+    "title": "Digital Marketing/Design Intern",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Central-Singapore/Digital-Marketing-Design-Intern_202606-114470"
+  },
   "Roche::202606-114587": {
     "first_seen": "2026-06-18",
     "title": "In-House Service/Repair Technician Intern",
@@ -6364,6 +6474,11 @@
     "title": "Digital Marketing Intern",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Subang-Jaya/Digital-Marketing-Intern_202606-116957"
   },
+  "Roche::202606-116974": {
+    "first_seen": "2026-07-09",
+    "title": "Internship Inclusion & Belonging International (m/f/d) / 12 months",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-Inclusion---Belonging-International--m-f-d----12-months_202606-116974-1"
+  },
   "Roche::202606-117007": {
     "first_seen": "2026-07-03",
     "title": "6-month Internship in Antibody Development (m/f/d)",
@@ -6378,6 +6493,11 @@
     "first_seen": "2026-07-02",
     "title": "MB&EM Lab Intern",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Shanghai/MB-EM-Lab-Intern_202606-117096"
+  },
+  "Roche::202607-117118": {
+    "first_seen": "2026-07-09",
+    "title": "Internship in Business Enablement in Data, Analytics & Research (Pune)",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Pune/Internship-in-Business-Enablement-in-Data--Analytics---Research--Pune-_202607-117118"
   },
   "Roche::202607-117239": {
     "first_seen": "2026-07-03",
@@ -6398,6 +6518,11 @@
     "first_seen": "2026-07-08",
     "title": "Quality and Regulatory Trainee",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Sant-Cugat-del-Valls/Quality-and-Regulatory-Trainee_202607-117443"
+  },
+  "Roche::202607-117449": {
+    "first_seen": "2026-07-09",
+    "title": "Trilingual University/ Campus Program Intern (Spanish, English & Portuguese)",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/San-Jose-Costa-Rica/Trilingual-University--Campus-Program-Intern--Spanish--English---Portuguese-_202607-117449"
   },
   "Roche::202607-117466": {
     "first_seen": "2026-07-06",
@@ -6433,6 +6558,11 @@
     "first_seen": "2026-07-08",
     "title": "Site IT Experience Intern",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Petaling-Jaya/Site-IT-Experience-Intern_202607-117653"
+  },
+  "Roche::202607-117736": {
+    "first_seen": "2026-07-09",
+    "title": "Internship for MD or PhD Students in a health-related scientific field",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Rotkreuz/Internship-for-MD-or-PhD-Students-in-a-health-related-scientific-field_202607-117736"
   },
   "Salesforce::JR329315": {
     "first_seen": "2026-06-25",
@@ -6509,6 +6639,11 @@
     "title": "Software Engineer Intern - Berlin (2026)",
     "url": "https://jobs.ashbyhq.com/snowflake/41e65c6c-a01e-4f40-af14-ae75d3b95e27"
   },
+  "Snowflake::54c27993-5827-4a03-80c8-cc5f02b960f9": {
+    "first_seen": "2026-07-09",
+    "title": "Partner Marketing Intern - Paris",
+    "url": "https://jobs.ashbyhq.com/snowflake/54c27993-5827-4a03-80c8-cc5f02b960f9"
+  },
   "Snowflake::8866f98e-ec0c-4d04-9b38-7c9299e858e8": {
     "first_seen": "2026-06-27",
     "title": "Marketing Operations Intern (Fall 2026)",
@@ -6548,6 +6683,11 @@
     "first_seen": "2026-06-17",
     "title": "Intern Software Developer - Fall 2026",
     "url": "https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463"
+  },
+  "Squarepoint Capital::8050436": {
+    "first_seen": "2026-07-09",
+    "title": "Operations Intern (Fall)",
+    "url": "https://www.squarepoint-capital.com/open-opportunities?id=8050436&gh_jid=8050436"
   },
   "Stripe::7176977": {
     "first_seen": "2026-06-17",
