@@ -479,6 +479,11 @@
     "title": "Banking Analyst Graduate Program 2027 Houston",
     "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Houston-609-Main-Street/Banking-Analyst-Graduate-Program-2027-Houston_JR-0000123459-1"
   },
+  "Barclays::JR-0000123462": {
+    "first_seen": "2026-08-20",
+    "title": "Banking Associate Graduate Program 2027 San Francisco",
+    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/San-Francisco-Four-Embarcadero-Center/Banking-Associate-Graduate-Program-2027-San-Francisco_JR-0000123462-1"
+  },
   "Barclays::JR-0000123463": {
     "first_seen": "2026-08-19",
     "title": "Banking Analyst Graduate Program 2027 San Francisco",
@@ -4994,6 +4999,46 @@
     "title": "[Internship Program Q4] Automation Tester Intern (Selenium)",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144223980"
   },
+  "Bosch::744000144233170": {
+    "first_seen": "2026-08-20",
+    "title": "[EMN] Internship – Automotive Hardware Penetration Testing",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144233170"
+  },
+  "Bosch::744000144255155": {
+    "first_seen": "2026-08-20",
+    "title": "Working Student in Embedded Software Development - High Level",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144255155"
+  },
+  "Bosch::744000144262495": {
+    "first_seen": "2026-08-20",
+    "title": "Engineering IT Support Intern (CAD/PLM Systems) (f/m)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144262495"
+  },
+  "Bosch::744000144335064": {
+    "first_seen": "2026-08-20",
+    "title": "Internship in Human Resources",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144335064"
+  },
+  "Bosch::744000144370279": {
+    "first_seen": "2026-08-20",
+    "title": "Electrochemistry Modeling Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144370279"
+  },
+  "Bosch::744000144370429": {
+    "first_seen": "2026-08-20",
+    "title": "Engineering Intern - Proton Exchange Membrane Water Electrolysis",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144370429"
+  },
+  "Bosch::744000144437169": {
+    "first_seen": "2026-08-20",
+    "title": "Internship 2026, Human Resources, (Payroll)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144437169"
+  },
+  "Bosch::744000144447244": {
+    "first_seen": "2026-08-20",
+    "title": "[SX/BSV-VN] Embedded Test Engineer Intern (HMI)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144447244"
+  },
   "CERN::744000085340717": {
     "first_seen": "2026-06-17",
     "title": "Short Term Internship 2026",
@@ -5013,6 +5058,11 @@
     "first_seen": "2026-07-23",
     "title": "Early Career Professionals - Technical Field – Spontaneous Applications",
     "url": "https://jobs.smartrecruiters.com/cern/744000139041215"
+  },
+  "CERN::744000144310299": {
+    "first_seen": "2026-08-20",
+    "title": "Short Term Internship 2026",
+    "url": "https://jobs.smartrecruiters.com/cern/744000144310299"
   },
   "Canva::6000000001289889": {
     "first_seen": "2026-08-06",
@@ -8004,6 +8054,16 @@
     "title": "Government Affairs - Policy Coordinator Internship Opportunities",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556961263"
   },
+  "Microsoft::1970393556962891": {
+    "first_seen": "2026-08-20",
+    "title": "AI Software Engineering Intern",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891"
+  },
+  "Microsoft::1970393556971804": {
+    "first_seen": "2026-08-20",
+    "title": "Research Sciences INTERN",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556971804"
+  },
   "Mistral AI::426ef8c0-eb26-4004-a690-f33c62b445a7": {
     "first_seen": "2026-06-17",
     "title": "Applied Scientist / Research Engineer (Internship)",
@@ -8359,10 +8419,130 @@
     "title": "Software Engineering Intern, Test Automation — Autonomous Vehicles",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern--Test-Automation---Autonomous-Vehicles_JR2023302"
   },
+  "NVIDIA::JR2023475": {
+    "first_seen": "2026-08-20",
+    "title": "NVIDIA 2027 Internships: Ph.D. Research Generative AI",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475"
+  },
+  "NVIDIA::JR2023486": {
+    "first_seen": "2026-08-20",
+    "title": "NVIDIA 2027 Internships: Hardware ASIC Design",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486"
+  },
+  "NVIDIA::JR2023487": {
+    "first_seen": "2026-08-20",
+    "title": "NVIDIA 2027 Internships: Hardware Design for Test (DFT)",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1"
+  },
+  "NVIDIA::JR2023489": {
+    "first_seen": "2026-08-20",
+    "title": "NVIDIA 2027 Internships: Computer Architecture",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Computer-Architecture_JR2023489"
+  },
+  "NVIDIA::JR2023491": {
+    "first_seen": "2026-08-20",
+    "title": "NVIDIA 2027 Internships: Deep Learning Computer Architecture",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491"
+  },
+  "NVIDIA::JR2023492": {
+    "first_seen": "2026-08-20",
+    "title": "NVIDIA 2027 Internships: Systems Software Engineering",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492"
+  },
+  "NVIDIA::JR2023495": {
+    "first_seen": "2026-08-20",
+    "title": "NVIDIA 2027 Internships: Software Engineering",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495"
+  },
+  "NVIDIA::JR2023496": {
+    "first_seen": "2026-08-20",
+    "title": "NVIDIA 2027 Internships: Autonomous Vehicles and Robotics",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496"
+  },
+  "NVIDIA::JR2023497": {
+    "first_seen": "2026-08-20",
+    "title": "NVIDIA 2027 Internships: Deep Learning",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1"
+  },
+  "NVIDIA::JR2023499": {
+    "first_seen": "2026-08-20",
+    "title": "NVIDIA Spring 2027 Internships: Developer and Performance Technology",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499"
+  },
+  "NVIDIA::JR2023500": {
+    "first_seen": "2026-08-20",
+    "title": "NVIDIA 2027 Internships: Hardware Verification",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500"
+  },
+  "NVIDIA::JR2023501": {
+    "first_seen": "2026-08-20",
+    "title": "NVIDIA 2027 Internships: Hardware Physical Design / VLSI",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501"
+  },
+  "NVIDIA::JR2023502": {
+    "first_seen": "2026-08-20",
+    "title": "NVIDIA 2027 Internships: Mixed Signal Design",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Mixed-Signal-Design_JR2023502"
+  },
+  "NVIDIA::JR2023504": {
+    "first_seen": "2026-08-20",
+    "title": "NVIDIA 2027 Internships: Digital Circuit Design",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Digital-Circuit-Design_JR2023504"
+  },
+  "NVIDIA::JR2023508": {
+    "first_seen": "2026-08-20",
+    "title": "NVIDIA 2027 Internships: Hardware Engineering",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1"
+  },
   "NVIDIA::JR2023628": {
     "first_seen": "2026-08-19",
     "title": "System Software Engineer – GPU and SOC (2027 RDSS Intern)",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---GPU-and-SOC--2027-RDSS-Intern-_JR2023628"
+  },
+  "NVIDIA::JR2023646": {
+    "first_seen": "2026-08-20",
+    "title": "Artificial Intelligence Research Intern - Deep Learning",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Artificial-Intelligence-Research-Intern---Deep-Learning_JR2023646"
+  },
+  "NVIDIA::JR2023833": {
+    "first_seen": "2026-08-20",
+    "title": "NVIDIA 2027 Internships: Ph.D. Research Computer Vision and Deep Learning",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Vision-and-Deep-Learning_JR2023833"
+  },
+  "NVIDIA::JR2023835": {
+    "first_seen": "2026-08-20",
+    "title": "NVIDIA 2027 Internships: Ph.D. Research Graphics and Simulation",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Graphics-and-Simulation_JR2023835"
+  },
+  "NVIDIA::JR2023837": {
+    "first_seen": "2026-08-20",
+    "title": "NVIDIA 2027 Internships: Ph.D. Research Large Language Models",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Large-Language-Models_JR2023837"
+  },
+  "NVIDIA::JR2023838": {
+    "first_seen": "2026-08-20",
+    "title": "NVIDIA 2027 Internships: Ph.D. Research Autonomous Vehicles",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Autonomous-Vehicles_JR2023838"
+  },
+  "NVIDIA::JR2023847": {
+    "first_seen": "2026-08-20",
+    "title": "NVIDIA 2027 Internships: Ph.D. Research Robotics",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Robotics_JR2023847"
+  },
+  "NVIDIA::JR2023854": {
+    "first_seen": "2026-08-20",
+    "title": "NVIDIA 2027 Internships: Ph.D. Research Computer Architecture and Systems",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Architecture-and-Systems_JR2023854"
+  },
+  "NVIDIA::JR2023855": {
+    "first_seen": "2026-08-20",
+    "title": "NVIDIA 2027 Internships: Ph.D. Research Hardware",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Hardware_JR2023855"
+  },
+  "NVIDIA::JR2023856": {
+    "first_seen": "2026-08-20",
+    "title": "NVIDIA 2027 Summer Internships: Ph.D. Engineering",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856"
   },
   "Palantir::09846827-b931-4a9f-bd64-c3bb8860187b": {
     "first_seen": "2026-06-30",
@@ -9018,6 +9198,11 @@
     "first_seen": "2026-06-18",
     "title": "Indirect Procurement Intern",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Lima/Indirect-Procurement-Intern_202604-109972"
+  },
+  "Roche::202604-110019": {
+    "first_seen": "2026-08-20",
+    "title": "Design & Capital Projects Engineer Trainee - Attach & Train program",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Central-Singapore/Design---Capital-Projects-Engineer---AnT_202604-110019"
   },
   "Roche::202604-110040": {
     "first_seen": "2026-06-18",
@@ -9929,6 +10114,16 @@
     "title": "Trainee Corporate Affairs & Communications",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/RM--Region-Metropolitana-de-Santiago/Trainee-Corporate-Affairs---Communications_202607-119188"
   },
+  "Roche::202607-119228": {
+    "first_seen": "2026-08-20",
+    "title": "Enterprise Operations Intern",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Mississauga/Enterprise-Operations-Intern_202607-119228"
+  },
+  "Roche::202607-119231": {
+    "first_seen": "2026-08-20",
+    "title": "Global Clinical Operations Intern",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Mississauga/Global-Clinical-Operations-Intern_202607-119231"
+  },
   "Roche::202607-119269": {
     "first_seen": "2026-07-25",
     "title": "Legal & Compliance Intern",
@@ -9958,6 +10153,11 @@
     "first_seen": "2026-08-01",
     "title": "Internship in MSAT Process Engineering - Digitalization & RAW2 Focus  (6-12 Months)",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Rotkreuz/Internship-in-MSAT-Process-Engineering---Digitalization---RAW2-Focus---6-12-Months-_202607-119317"
+  },
+  "Roche::202607-119335": {
+    "first_seen": "2026-08-20",
+    "title": "CMC Regulatory Affairs Intern",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Mississauga/CMC-Regulatory-Affairs-Intern_202607-119335-1"
   },
   "Roche::202607-119420": {
     "first_seen": "2026-07-30",
@@ -10039,6 +10239,11 @@
     "title": "Recruitment Intern",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Shanghai/Recruitment-Intern_202608-120224"
   },
+  "Roche::202608-120260": {
+    "first_seen": "2026-08-20",
+    "title": "Pharma Technical Regulatory Submission Intern",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Mississauga/Pharma-Technical-Regulatory-Submission-Intern_202608-120260"
+  },
   "Roche::202608-120310": {
     "first_seen": "2026-08-07",
     "title": "Software Test Engineer Intern",
@@ -10048,6 +10253,16 @@
     "first_seen": "2026-08-06",
     "title": "Supply Chain Quality Intern",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Casablanca/Supply-Chain-Quality-Intern_202608-120329"
+  },
+  "Roche::202608-120368": {
+    "first_seen": "2026-08-20",
+    "title": "Health Data Strategy Operations Intern",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Mississauga/Health-Data-Strategy-Operations-Intern_202608-120368"
+  },
+  "Roche::202608-120380": {
+    "first_seen": "2026-08-20",
+    "title": "Medical Strategy Intern",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Mississauga/Medical-Strategy-Intern_202608-120380"
   },
   "Roche::202608-120394": {
     "first_seen": "2026-08-07",
@@ -10118,6 +10333,11 @@
     "first_seen": "2026-08-19",
     "title": "Internship/Thesis in Global Engineering Automation",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-Thesis-in-Global-Engineering-Automation_202608-121014-2"
+  },
+  "Roche::202608-121021": {
+    "first_seen": "2026-08-20",
+    "title": "Internship in External Quality for Students in Life Sciences (12 months, Kaiseraugst)",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Kaiseraugst/Internship-in-External-Quality-for-Students-in-Life-Sciences--12-months--Kaiseraugst-_202608-121021"
   },
   "Roche::202608-121024": {
     "first_seen": "2026-08-14",
