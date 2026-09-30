@@ -99,6 +99,11 @@
     "title": "2027 Intern - Adobe Sales Academy BDR",
     "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Adobe-Sales-Academy-BDR_R170977"
   },
+  "Adobe::R171098": {
+    "first_seen": "2026-09-30",
+    "title": "Apprentice EFZ / Application Development",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Basel/Apprentice-EFZ---Application-Development_R171098"
+  },
   "Adobe::R171519": {
     "first_seen": "2026-09-01",
     "title": "2027 Intern - Machine Learning Engineer",
@@ -373,6 +378,11 @@
     "first_seen": "2026-09-25",
     "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
     "url": "https://www.amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa"
+  },
+  "Amazon::10563644": {
+    "first_seen": "2026-09-30",
+    "title": "Business Analyst Intern (6 months) - 2027",
+    "url": "https://www.amazon.jobs/en/jobs/10563644/business-analyst-intern-6-months-2027"
   },
   "Amazon::3063220": {
     "first_seen": "2026-07-09",
@@ -7564,6 +7574,61 @@
     "title": "Marketing Intern - Surabaya",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152355464"
   },
+  "Bosch::744000152384519": {
+    "first_seen": "2026-09-30",
+    "title": "Financial Performance – Curricular internship in Controlling (m/f/d)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152384519"
+  },
+  "Bosch::744000152408088": {
+    "first_seen": "2026-09-30",
+    "title": "Working Student Laboratory Support (Chemical Testing)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152408088"
+  },
+  "Bosch::744000152410109": {
+    "first_seen": "2026-09-30",
+    "title": "Working Student Laboratory Support (Electronics Testing)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152410109"
+  },
+  "Bosch::744000152463644": {
+    "first_seen": "2026-09-30",
+    "title": "2027 Spring Cost Analyst / Finance Support Co-Op",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152463644"
+  },
+  "Bosch::744000152524633": {
+    "first_seen": "2026-09-30",
+    "title": "Material Planning Intern - Summer 2027",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152524633"
+  },
+  "Bosch::744000152570991": {
+    "first_seen": "2026-09-30",
+    "title": "[Bosch R&D – Internship] Testing & Validation Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152570991"
+  },
+  "Bosch::744000152587636": {
+    "first_seen": "2026-09-30",
+    "title": "[Internship] Indirect Purchasing Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152587636"
+  },
+  "Bosch::744000152588369": {
+    "first_seen": "2026-09-30",
+    "title": "[Internship] Accounting Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152588369"
+  },
+  "Bosch::744000152605092": {
+    "first_seen": "2026-09-30",
+    "title": "Export and Import Controlling - Curricular Internship",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152605092"
+  },
+  "Bosch::744000152607979": {
+    "first_seen": "2026-09-30",
+    "title": "HSE - Curricular internship",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152607979"
+  },
+  "Bosch::744000152629560": {
+    "first_seen": "2026-09-30",
+    "title": "Working Student - Purchasing Project Management",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152629560"
+  },
   "CERN::744000085340717": {
     "first_seen": "2026-06-17",
     "title": "Short Term Internship 2026",
@@ -7673,6 +7738,11 @@
     "first_seen": "2026-06-17",
     "title": "Associate Technology Consultant - Galaxy Graduate Program",
     "url": "https://job-boards.greenhouse.io/celonis/jobs/7627681003?gh_jid=7627681003"
+  },
+  "Celonis::7627708003": {
+    "first_seen": "2026-09-30",
+    "title": "Associate Deployment Engineer - Galaxy Graduate Program",
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/7627708003?gh_jid=7627708003"
   },
   "Celonis::7627711003": {
     "first_seen": "2026-06-17",
@@ -9369,6 +9439,16 @@
     "title": "Systems Engineering Intern",
     "url": "https://job-boards.greenhouse.io/graphcore/jobs/8841978002"
   },
+  "Graphcore::8857640002": {
+    "first_seen": "2026-09-30",
+    "title": "Digital Twin Engineering Intern",
+    "url": "https://job-boards.greenhouse.io/graphcore/jobs/8857640002"
+  },
+  "Graphcore::8857642002": {
+    "first_seen": "2026-09-30",
+    "title": "Knowledge Management and Training Project Intern",
+    "url": "https://job-boards.greenhouse.io/graphcore/jobs/8857642002"
+  },
   "Helsing::4824087101": {
     "first_seen": "2026-06-17",
     "title": "Commercial Finance Intern/Working Student",
@@ -10609,6 +10689,11 @@
     "title": "Investment Risk 2027 Summer Internship",
     "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4988792101"
   },
+  "Man Group::4989438101": {
+    "first_seen": "2026-09-30",
+    "title": "Global Funds Treasury Summer 2027 Internship",
+    "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4989438101"
+  },
   "Meta::1027438186737957": {
     "first_seen": "2026-08-19",
     "title": "Research Scientist Intern, AI, Cyber Security, Safety — MSL Trust & Safety (PhD)",
@@ -10638,6 +10723,11 @@
     "first_seen": "2026-09-24",
     "title": "Production Engineering Intern",
     "url": "https://www.metacareers.com/profile/job_details/1609178343953401"
+  },
+  "Meta::1683903403071591": {
+    "first_seen": "2026-09-30",
+    "title": "DFX Engineering Intern",
+    "url": "https://www.metacareers.com/profile/job_details/1683903403071591"
   },
   "Meta::1710381673750348": {
     "first_seen": "2026-06-19",
@@ -13649,6 +13739,11 @@
     "title": "Commercial Intern",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Lima/Commercial-Intern_202607-118916"
   },
+  "Roche::202607-118952": {
+    "first_seen": "2026-09-30",
+    "title": "T&E Compliance Intern",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Petaling-Jaya/T-E-Compliance-Intern_202607-118952"
+  },
   "Roche::202607-118954": {
     "first_seen": "2026-07-23",
     "title": "Compliance Intern",
@@ -14229,6 +14324,11 @@
     "title": "Internship - Business Services & Events",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Subang-Jaya/Internship---Business-Services---Events_202609-123802"
   },
+  "Roche::202609-123865": {
+    "first_seen": "2026-09-30",
+    "title": "Intern in Systems and Requirements Engineering",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Rotkreuz/Intern-in-Systems-and-Requirements-Engineering_202609-123865-1"
+  },
   "Roche::202609-123906": {
     "first_seen": "2026-09-21",
     "title": "Early Talent Program Associate - APQR",
@@ -14283,6 +14383,16 @@
     "first_seen": "2026-09-24",
     "title": "Intern",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Taguig-City/Intern_202609-124373"
+  },
+  "Roche::202609-124784": {
+    "first_seen": "2026-09-30",
+    "title": "Risk & Governance Intern",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Sant-Cugat-del-Valls/Risk---Governance-Intern_202609-124784"
+  },
+  "Roche::202609-124786": {
+    "first_seen": "2026-09-30",
+    "title": "Strategy & Insights Intern",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Sant-Cugat-del-Valls/Strategy---Insights-Intern_202609-124786"
   },
   "Salesforce::JR249467": {
     "first_seen": "2026-07-24",
@@ -14598,6 +14708,16 @@
     "first_seen": "2026-09-22",
     "title": "2027 Emerging Markets and Delta One Investment Analyst Internship",
     "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8220506"
+  },
+  "Schonfeld::8238448": {
+    "first_seen": "2026-09-30",
+    "title": "2027 Quantitative Research Intern",
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8238448"
+  },
+  "Schonfeld::8238451": {
+    "first_seen": "2026-09-30",
+    "title": "2027 Quantitative C++ Developer Intern",
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8238451"
   },
   "Snowflake::1bad12df-f443-426f-9d09-e96fc780d698": {
     "first_seen": "2026-06-17",
@@ -14938,6 +15058,11 @@
     "first_seen": "2026-08-05",
     "title": "Product Engineer — Working Student",
     "url": "https://sumup.com/careers/positions/8671660002?gh_jid=8671660002"
+  },
+  "SumUp::8682458002": {
+    "first_seen": "2026-09-30",
+    "title": "FP&A  Strategy Intern",
+    "url": "https://sumup.com/careers/positions/8682458002?gh_jid=8682458002"
   },
   "SumUp::8690943002": {
     "first_seen": "2026-08-27",
