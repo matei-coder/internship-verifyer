@@ -149,6 +149,16 @@
     "title": "Werkstudent / Working student Sales",
     "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Munich/Werkstudent---Working-student-Sales_R172250-1"
   },
+  "Adobe::R172261": {
+    "first_seen": "2026-10-01",
+    "title": "2027 MBA Intern – Product Manager",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Manager_R172261"
+  },
+  "Adobe::R172262": {
+    "first_seen": "2026-10-01",
+    "title": "2027 MBA Intern – Product Marketing Manager",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Marketing-Manager_R172262"
+  },
   "Akuna Capital::8018847": {
     "first_seen": "2026-07-14",
     "title": "Software Engineer Intern - C++, Summer 2027",
@@ -383,6 +393,16 @@
     "first_seen": "2026-09-30",
     "title": "Business Analyst Intern (6 months) - 2027",
     "url": "https://www.amazon.jobs/en/jobs/10563644/business-analyst-intern-6-months-2027"
+  },
+  "Amazon::10565421": {
+    "first_seen": "2026-10-01",
+    "title": "Business Analyst Intern (3, 6 and 12 months) - 2027",
+    "url": "https://www.amazon.jobs/en/jobs/10565421/business-analyst-intern-3-6-and-12-months-2027"
+  },
+  "Amazon::10565667": {
+    "first_seen": "2026-10-01",
+    "title": "Software Development Engineer Intern, AWS Database - 2027 (US)",
+    "url": "https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us"
   },
   "Amazon::3063220": {
     "first_seen": "2026-07-09",
@@ -7634,6 +7654,81 @@
     "title": "Extracurricular Internship: Purchasing Quality Reporting (f/m/div.)",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152643219"
   },
+  "Bosch::744000152648289": {
+    "first_seen": "2026-10-01",
+    "title": "[BD] IT Project Operation Assistant Intern (6-Month Internship)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152648289"
+  },
+  "Bosch::744000152651219": {
+    "first_seen": "2026-10-01",
+    "title": "Export and Import Controlling - Curricular Internship",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152651219"
+  },
+  "Bosch::744000152656903": {
+    "first_seen": "2026-10-01",
+    "title": "Global E-mail Marketing Internship (1 Year)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152656903"
+  },
+  "Bosch::744000152667529": {
+    "first_seen": "2026-10-01",
+    "title": "Paid Internship in AI Application Team (f/m)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152667529"
+  },
+  "Bosch::744000152696909": {
+    "first_seen": "2026-10-01",
+    "title": "Internship in Logistics",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152696909"
+  },
+  "Bosch::744000152697754": {
+    "first_seen": "2026-10-01",
+    "title": "Brand & Content Management Internship (1 Year)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152697754"
+  },
+  "Bosch::744000152705426": {
+    "first_seen": "2026-10-01",
+    "title": "Material Planning Intern - Summer 2027",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152705426"
+  },
+  "Bosch::744000152706359": {
+    "first_seen": "2026-10-01",
+    "title": "Commercial Project Management & AI Innovation Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152706359"
+  },
+  "Bosch::744000152737589": {
+    "first_seen": "2026-10-01",
+    "title": "Data Analytics Intern - Engineering & SAP Operations",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152737589"
+  },
+  "Bosch::744000152833932": {
+    "first_seen": "2026-10-01",
+    "title": "[Bosch HcP - Internship] IT Admin Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152833932"
+  },
+  "Bosch::744000152838741": {
+    "first_seen": "2026-10-01",
+    "title": "Working Student - Purchasing Project Management",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152838741"
+  },
+  "Bosch::744000152844185": {
+    "first_seen": "2026-10-01",
+    "title": "[Bosch R&D – Internship] Software Testing Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152844185"
+  },
+  "Bosch::744000152844759": {
+    "first_seen": "2026-10-01",
+    "title": "[Bosch R&D - Internship] Data Engineering Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152844759"
+  },
+  "Bosch::744000152844829": {
+    "first_seen": "2026-10-01",
+    "title": "[Bosch HcP – Internship] Facility Management Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152844829"
+  },
+  "Bosch::744000152880739": {
+    "first_seen": "2026-10-01",
+    "title": "RPA Developer Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152880739"
+  },
   "CERN::744000085340717": {
     "first_seen": "2026-06-17",
     "title": "Short Term Internship 2026",
@@ -9379,6 +9474,11 @@
     "title": "Export Finance Paris Intern (f/m/x)",
     "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Paris/Structured-Trade-Export-Finance-Paris-Intern--f-m-x-_R0452722"
   },
+  "Deutsche Bank::R0453246": {
+    "first_seen": "2026-10-01",
+    "title": "Business Analysis Intern - YTP program",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Singapore-One-Raffles-Quay/Business-Analysis-Intern---YTP-program_R0453246"
+  },
   "Deutsche Bank::R0453247": {
     "first_seen": "2026-09-30",
     "title": "KYC Solutions & Change Intern  - YTP program",
@@ -9393,6 +9493,26 @@
     "first_seen": "2026-09-25",
     "title": "Technology intern - YTP",
     "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Singapore-One-Raffles-Quay/Technology-intern---YTP_R0453251"
+  },
+  "Deutsche Bank::R0453346": {
+    "first_seen": "2026-10-01",
+    "title": "O&A Benelux Coverage Seasonal Intern (f/m/x)",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Amsterdam/O-A-Benelux-Coverage-Seasonal-Intern--f-m-x-_R0453346"
+  },
+  "Deutsche Bank::R0453347": {
+    "first_seen": "2026-10-01",
+    "title": "O&A Benelux Coverage Seasonal Intern (f/m/x)",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Amsterdam/O-A-Benelux-Coverage-Seasonal-Intern--f-m-x-_R0453347"
+  },
+  "Deutsche Bank::R0453348": {
+    "first_seen": "2026-10-01",
+    "title": "O&A Benelux Coverage Seasonal Intern (f/m/x)",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Amsterdam/O-A-Benelux-Coverage-Seasonal-Intern--f-m-x-_R0453348"
+  },
+  "Deutsche Bank::R0453769": {
+    "first_seen": "2026-10-01",
+    "title": "Investment Banking intern - YTP program",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Singapore-One-Raffles-Quay/Investment-Banking-intern---YTP-program_R0453769"
   },
   "Five Rings::5139668008": {
     "first_seen": "2026-07-15",
@@ -9503,6 +9623,11 @@
     "first_seen": "2026-06-17",
     "title": "Trader Assistant (Working Student)",
     "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4753890101"
+  },
+  "IMC Trading::4796143101": {
+    "first_seen": "2026-10-01",
+    "title": "Software Engineer, Early Career",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4796143101"
   },
   "IMC Trading::4823923101": {
     "first_seen": "2026-07-02",
@@ -10419,6 +10544,21 @@
     "title": "Finance Intern",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Kulim/Finance-Intern_JR0287472"
   },
+  "Intel::JR0287525": {
+    "first_seen": "2026-10-01",
+    "title": "Research Scientist Intern - Graphics, ML",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525"
+  },
+  "Intel::JR0287532": {
+    "first_seen": "2026-10-01",
+    "title": "GPU Physical Design Engineer Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/GPU-Physical-Design-Engineer-Intern_JR0287532"
+  },
+  "Intel::JR0287583": {
+    "first_seen": "2026-10-01",
+    "title": "AI Software Engineering Undergraduate Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/AI-Software-Engineering-Undergraduate-Intern_JR0287583"
+  },
   "Jane Street::8151903002": {
     "first_seen": "2026-06-17",
     "title": "Campus Recruiter, Early Careers Partnerships & Initiatives",
@@ -10718,6 +10858,11 @@
     "first_seen": "2026-07-17",
     "title": "Research Scientist Intern, 3D Scene Understanding (PhD)",
     "url": "https://www.metacareers.com/profile/job_details/1029177790044680"
+  },
+  "Meta::1095054769939445": {
+    "first_seen": "2026-10-01",
+    "title": "DFX Engineering Intern",
+    "url": "https://www.metacareers.com/profile/job_details/1095054769939445"
   },
   "Meta::1373603594867455": {
     "first_seen": "2026-09-29",
@@ -14339,6 +14484,16 @@
     "title": "Internship - Business Services & Events",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Subang-Jaya/Internship---Business-Services---Events_202609-123802"
   },
+  "Roche::202609-123838": {
+    "first_seen": "2026-10-01",
+    "title": "Student Placement pRED Clinical Operations",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Student-Placement-pRED-Clinical-Operations_202609-123838"
+  },
+  "Roche::202609-123864": {
+    "first_seen": "2026-10-01",
+    "title": "Clinical Pharmacology Industrial Placement",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Clinical-Pharmacology-Industrial-Placement_202609-123864"
+  },
   "Roche::202609-123865": {
     "first_seen": "2026-09-30",
     "title": "Intern in Systems and Requirements Engineering",
@@ -14348,6 +14503,11 @@
     "first_seen": "2026-09-21",
     "title": "Early Talent Program Associate - APQR",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Mississauga/Early-Talent-Program-Associate---APQR_202609-123906"
+  },
+  "Roche::202609-123916": {
+    "first_seen": "2026-10-01",
+    "title": "Regulated Bioanalysis & Biosample Operations Placement Student",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Regulated-Bioanalysis---Biosample-Operations-Placement-Student_202609-123916"
   },
   "Roche::202609-123971": {
     "first_seen": "2026-09-19",
@@ -14598,6 +14758,11 @@
     "first_seen": "2026-09-22",
     "title": "LATAM Internship Program | Alliances & Channels [Mexico]",
     "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/LATAM-Internship-Program---Alliances---Channels--Mexico-_JR360862-1"
+  },
+  "Salesforce::JR361231": {
+    "first_seen": "2026-10-01",
+    "title": "LATAM Internship Program | Scale Program LATAM Intern [Colombia]",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Colombia---Bogota/LATAM-Internship-Program---Scale-Program-LATAM-Intern--Colombia-_JR361231-1"
   },
   "Schonfeld::7185553": {
     "first_seen": "2026-06-17",
@@ -15013,6 +15178,11 @@
     "first_seen": "2026-09-18",
     "title": "Software Engineer, Early Career — Immediate Start",
     "url": "https://stripe.com/jobs/search?gh_jid=8212517"
+  },
+  "Stripe::8241260": {
+    "first_seen": "2026-10-01",
+    "title": "High School Internship, Software Engineering (Summer 2027)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8241260"
   },
   "SumUp::8142115002": {
     "first_seen": "2026-08-01",
