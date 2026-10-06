@@ -149,6 +149,11 @@
     "title": "Senior Program Manager, Early Careers",
     "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/Senior-Program-Manager--Early-Careers_R172057-1"
   },
+  "Adobe::R172064": {
+    "first_seen": "2026-10-06",
+    "title": "2027 Intern - Applied and Research Scientist/Engineer",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Applied-and-Research-Scientist-Engineer_R172064"
+  },
   "Adobe::R172250": {
     "first_seen": "2026-09-29",
     "title": "Werkstudent / Working student Sales",
@@ -163,6 +168,11 @@
     "first_seen": "2026-10-01",
     "title": "2027 MBA Intern – Product Marketing Manager",
     "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Marketing-Manager_R172262"
+  },
+  "Adobe::R172310": {
+    "first_seen": "2026-10-06",
+    "title": "Working Student Adobe C&P Enterprise Sales",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Munich/Working-Student-Adobe-C-P-Enterprise-Sales_R172310"
   },
   "Akuna Capital::8018847": {
     "first_seen": "2026-07-14",
@@ -1154,10 +1164,20 @@
     "title": "2027 Risk Analyst Summer Internship Programme Glasgow",
     "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Risk-Analyst-Summer-Internship-Programme-Glasgow_JR-0000129109"
   },
+  "Barclays::JR-0000129111": {
+    "first_seen": "2026-10-06",
+    "title": "2027 Operations Analyst Summer Internship Programme Glasgow",
+    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Operations-Analyst-Summer-Internship-Programme-Glasgow_JR-0000129111"
+  },
   "Barclays::JR-0000129118": {
     "first_seen": "2026-09-10",
     "title": "2027 Operations Analyst Summer Internship Programme London",
     "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Operations-Analyst-Summer-Internship-Programme-London_JR-0000129118"
+  },
+  "Barclays::JR-0000129124": {
+    "first_seen": "2026-10-06",
+    "title": "2027 Operations Analyst Summer Internship Programme Knutsford",
+    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Operations-Analyst-Summer-Internship-Programme-Knutsford_JR-0000129124"
   },
   "Barclays::JR-0000129126": {
     "first_seen": "2026-09-10",
@@ -7919,6 +7939,56 @@
     "title": "Internship Digital and Internal Communications",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153453739"
   },
+  "Bosch::744000153500999": {
+    "first_seen": "2026-10-06",
+    "title": "Internship Agentic AI for Automated Code Generation in Safety-Critical Embedded Software",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153500999"
+  },
+  "Bosch::744000153516331": {
+    "first_seen": "2026-10-06",
+    "title": "Mandatory Internship Automotive Networking Innovation and Software-Defined Vehicle Technologies",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153516331"
+  },
+  "Bosch::744000153521190": {
+    "first_seen": "2026-10-06",
+    "title": "E-Commerce Marketing Internship (1 Year)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153521190"
+  },
+  "Bosch::744000153521249": {
+    "first_seen": "2026-10-06",
+    "title": "Digital Marketing Internship (1 Year)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153521249"
+  },
+  "Bosch::744000153601138": {
+    "first_seen": "2026-10-06",
+    "title": "2027 Spring Quality Engineering Co-op / QMM6 - 1st Shift",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153601138"
+  },
+  "Bosch::744000153646072": {
+    "first_seen": "2026-10-06",
+    "title": "[EOM] Admin Intern (Outsourcing Management)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153646072"
+  },
+  "Bosch::744000153647992": {
+    "first_seen": "2026-10-06",
+    "title": "[EAA] Embedded Test Engineer Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153647992"
+  },
+  "Bosch::744000153670897": {
+    "first_seen": "2026-10-06",
+    "title": "Motorsport Engineering Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153670897"
+  },
+  "Bosch::744000153673869": {
+    "first_seen": "2026-10-06",
+    "title": "Motorsport Business Development Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153673869"
+  },
+  "Bosch::744000153694749": {
+    "first_seen": "2026-10-06",
+    "title": "Automotive Engineering Placement",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153694749"
+  },
   "CERN::744000085340717": {
     "first_seen": "2026-06-17",
     "title": "Short Term Internship 2026",
@@ -8823,6 +8893,21 @@
     "first_seen": "2026-09-29",
     "title": "Software Engineer Intern (2027) - Austin, TX",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958"
+  },
+  "Cloudflare::8241790": {
+    "first_seen": "2026-10-06",
+    "title": "People Analytics Data Engineering Intern (Winter/Spring 2027)",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8241790?gh_jid=8241790"
+  },
+  "Cloudflare::8245197": {
+    "first_seen": "2026-10-06",
+    "title": "Software Engineer Intern (2027)",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197"
+  },
+  "Cloudflare::8245211": {
+    "first_seen": "2026-10-06",
+    "title": "Software Engineer Intern (2027)",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211"
   },
   "Cohere::36d1f52f-8270-4652-adf5-5303a0ff341b": {
     "first_seen": "2026-06-17",
@@ -10799,10 +10884,25 @@
     "title": "Finance Intern",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Kulim/Finance-Intern_JR0287472"
   },
+  "Intel::JR0287524": {
+    "first_seen": "2026-10-06",
+    "title": "AI Solution Architect - Graduate Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Solution-Architect---Graduate-Intern_JR0287524"
+  },
   "Intel::JR0287525": {
     "first_seen": "2026-10-01",
     "title": "Research Scientist Intern - Graphics, ML",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525"
+  },
+  "Intel::JR0287530": {
+    "first_seen": "2026-10-06",
+    "title": "AI Solution Architect Graduate Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Solution-Architect-Graduate-Intern_JR0287530"
+  },
+  "Intel::JR0287531": {
+    "first_seen": "2026-10-06",
+    "title": "AI Solution Architect - Undergraduate Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Solution-Architect---Graduate-Intern_JR0287531"
   },
   "Intel::JR0287532": {
     "first_seen": "2026-10-01",
@@ -10823,6 +10923,11 @@
     "first_seen": "2026-10-02",
     "title": "Platform Validation Intern",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Platform-Validation-Intern_JR0287673"
+  },
+  "Intel::JR0287683": {
+    "first_seen": "2026-10-06",
+    "title": "Module Engineering (PhD Intern)",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering--PhD-Intern-_JR0287683"
   },
   "Jane Street::8151903002": {
     "first_seen": "2026-06-17",
@@ -11129,6 +11234,11 @@
     "title": "DFX Engineering Intern",
     "url": "https://www.metacareers.com/profile/job_details/1095054769939445"
   },
+  "Meta::1105729655266553": {
+    "first_seen": "2026-10-06",
+    "title": "Electrical Engineering Intern",
+    "url": "https://www.metacareers.com/profile/job_details/1105729655266553"
+  },
   "Meta::1373603594867455": {
     "first_seen": "2026-09-29",
     "title": "Data Engineer Intern, Product Analytics (Summer 2027)",
@@ -11153,6 +11263,11 @@
     "first_seen": "2026-10-03",
     "title": "Product Design Engineering Intern",
     "url": "https://www.metacareers.com/profile/job_details/1613359540444032"
+  },
+  "Meta::1631077978652493": {
+    "first_seen": "2026-10-06",
+    "title": "ASIC Engineer Intern, DesignBangalore, IndiaData CenterInfrastructureHardware",
+    "url": "https://www.metacareers.com/profile/job_details/1631077978652493"
   },
   "Meta::1683903403071591": {
     "first_seen": "2026-09-30",
@@ -11258,6 +11373,11 @@
     "first_seen": "2026-06-18",
     "title": "Research Scientist Intern, Photorealistic Telepresence (PhD)",
     "url": "https://www.metacareers.com/profile/job_details/924149567345400"
+  },
+  "Meta::939474918844068": {
+    "first_seen": "2026-10-06",
+    "title": "ASIC Engineer Intern - Infra Silicon EnablementBangalore, IndiaData CenterInfrastructureHardware",
+    "url": "https://www.metacareers.com/profile/job_details/939474918844068"
   },
   "Microsoft::1970393556621503": {
     "first_seen": "2026-06-18",
@@ -12028,6 +12148,11 @@
     "first_seen": "2026-09-15",
     "title": "Intern",
     "url": "https://ms.wd5.myworkdayjobs.com/External/job/Kansas-City-Missouri-United-States-of-America/Intern_JR041354-1"
+  },
+  "Morgan Stanley::JR042272": {
+    "first_seen": "2026-10-06",
+    "title": "Intern",
+    "url": "https://ms.wd5.myworkdayjobs.com/External/job/San-Antonio-Texas-United-States-of-America/Intern_JR042272-1"
   },
   "Morgan Stanley::JR042337": {
     "first_seen": "2026-08-19",
@@ -14824,6 +14949,11 @@
     "title": "Technical Support Engineer Intern",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Sant-Cugat-del-Valls/Technical-Support-Engineer-Intern_202609-124103"
   },
+  "Roche::202609-124186": {
+    "first_seen": "2026-10-06",
+    "title": "Workforce Optimization / Strategies (Data Science) Intern",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Workforce-Optimization---Strategies--Data-Science--Intern_202609-124186"
+  },
   "Roche::202609-124195": {
     "first_seen": "2026-09-23",
     "title": "Marketing Intern",
@@ -16073,6 +16203,11 @@
     "first_seen": "2026-09-05",
     "title": "Senior Early Careers Recruiter",
     "url": "https://jobs.smartrecruiters.com/wise/744000147517379"
+  },
+  "Wise::744000153502789": {
+    "first_seen": "2026-10-06",
+    "title": "Analytics Intern",
+    "url": "https://jobs.smartrecruiters.com/wise/744000153502789"
   },
   "Wolt::7984486": {
     "first_seen": "2026-06-17",
