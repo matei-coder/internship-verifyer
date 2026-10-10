@@ -489,6 +489,16 @@
     "title": "Software Development Engineer (Embedded Systems) Intern, Amazon Leo - Summer 2027 (USA)",
     "url": "https://www.amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa"
   },
+  "Amazon::10574925": {
+    "first_seen": "2026-10-10",
+    "title": "Software Development Engineer Intern, Amazon University Talent Acquisition",
+    "url": "https://www.amazon.jobs/en/jobs/10574925/software-development-engineer-intern-amazon-university-talent-acquisition"
+  },
+  "Amazon::10575250": {
+    "first_seen": "2026-10-10",
+    "title": "Business Analyst Intern – Summer 2027",
+    "url": "https://www.amazon.jobs/en/jobs/10575250/business-analyst-intern-summer-2027"
+  },
   "Amazon::3063220": {
     "first_seen": "2026-07-09",
     "title": "Software Development Engineer Intern, Amazon University Talent Acquisition",
@@ -8314,6 +8324,46 @@
     "title": "AI & Data Quality Improvement Internship",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154627659"
   },
+  "Bosch::744000154658339": {
+    "first_seen": "2026-10-10",
+    "title": "Internship Printed Circuit Boards Material Characterization",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154658339"
+  },
+  "Bosch::744000154671460": {
+    "first_seen": "2026-10-10",
+    "title": "Product Management Co-op- Spring 2027",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154671460"
+  },
+  "Bosch::744000154673159": {
+    "first_seen": "2026-10-10",
+    "title": "HR Communications Co-Op - Spring 2027",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154673159"
+  },
+  "Bosch::744000154757409": {
+    "first_seen": "2026-10-10",
+    "title": "Information Security and Privacy Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154757409"
+  },
+  "Bosch::744000154759734": {
+    "first_seen": "2026-10-10",
+    "title": "Artificial Intelligence / Machine Learning: Foundation Models - Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154759734"
+  },
+  "Bosch::744000154762134": {
+    "first_seen": "2026-10-10",
+    "title": "Manufacturing Engineering Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154762134"
+  },
+  "Bosch::744000154765090": {
+    "first_seen": "2026-10-10",
+    "title": "Warranty and Repair Co-Op Spring 2027",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154765090"
+  },
+  "Bosch::744000154765539": {
+    "first_seen": "2026-10-10",
+    "title": "Mechanical Engineering Co-op Spring 2027",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154765539"
+  },
   "CERN::744000085340717": {
     "first_seen": "2026-06-17",
     "title": "Short Term Internship 2026",
@@ -9448,6 +9498,16 @@
     "first_seen": "2026-08-21",
     "title": "Software Engineering Intern (2027 Start) - Winter",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002"
+  },
+  "Databricks::8787352002": {
+    "first_seen": "2026-10-10",
+    "title": "Product Design Intern (2027 Start)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002"
+  },
+  "Databricks::8843577002": {
+    "first_seen": "2026-10-10",
+    "title": "Product Design New Grad (2027 Start)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8843577002"
   },
   "Databricks::8847738002": {
     "first_seen": "2026-10-03",
@@ -11609,6 +11669,11 @@
     "title": "Research Scientist Intern, 3D Scene Understanding (PhD)",
     "url": "https://www.metacareers.com/profile/job_details/1029177790044680"
   },
+  "Meta::1080292111664557": {
+    "first_seen": "2026-10-10",
+    "title": "Structural Design Engineer - FEA (Intern)",
+    "url": "https://www.metacareers.com/profile/job_details/1080292111664557"
+  },
   "Meta::1092606640401919": {
     "first_seen": "2026-10-08",
     "title": "Optical Engineering Intern - Camera, Depth & Cover Window OpticsSunnyvale, CAAR/VRFacebook Reality LabsInternship - Engineering, Tech & DesignEngineeringHardware",
@@ -11618,6 +11683,11 @@
     "first_seen": "2026-10-01",
     "title": "DFX Engineering Intern",
     "url": "https://www.metacareers.com/profile/job_details/1095054769939445"
+  },
+  "Meta::1096213456288397": {
+    "first_seen": "2026-10-10",
+    "title": "ASIC Engineer Intern, Architecture",
+    "url": "https://www.metacareers.com/profile/job_details/1096213456288397"
   },
   "Meta::1105729655266553": {
     "first_seen": "2026-10-06",
@@ -11663,6 +11733,11 @@
     "first_seen": "2026-10-07",
     "title": "Data Scientist Intern, Product Analytics (Summer 2027)",
     "url": "https://www.metacareers.com/profile/job_details/1633096478817942"
+  },
+  "Meta::1674394627579563": {
+    "first_seen": "2026-10-10",
+    "title": "Research Scientist Intern, Spatial Audio Capture and Reproduction (PhD)Redmond, WAInternship - PhDResearchComputer Vision",
+    "url": "https://www.metacareers.com/profile/job_details/1674394627579563"
   },
   "Meta::1683903403071591": {
     "first_seen": "2026-09-30",
@@ -15419,6 +15494,11 @@
     "title": "Data Science Intern / Master Thesis Student (Basel, 6 Monate)",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Data-Science-Intern---Master-Thesis-Student--Basel--6-Monate-_202609-124516"
   },
+  "Roche::202609-124543": {
+    "first_seen": "2026-10-10",
+    "title": "Finance Chapter Intern",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Burgess-Hill/Finance-Chapter-Intern_202609-124543"
+  },
   "Roche::202609-124621": {
     "first_seen": "2026-10-03",
     "title": "Student Internship in Lab Automation (Pharma Research & Early Development)",
@@ -15448,6 +15528,11 @@
     "first_seen": "2026-10-03",
     "title": "Internship – Agentic AI for Environmental Regulatory Compliance",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship---Agentic-AI-for-Environmental-Regulatory-Compliance_202609-124819"
+  },
+  "Roche::202609-124837": {
+    "first_seen": "2026-10-10",
+    "title": "Marketing Intern",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Mexico-City/Marketing-Intern_202609-124837"
   },
   "Roche::202609-124841": {
     "first_seen": "2026-10-08",
@@ -15824,6 +15909,11 @@
     "title": "2027 Systematic COO Intern",
     "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172059"
   },
+  "Schonfeld::8172062": {
+    "first_seen": "2026-10-10",
+    "title": "2027 DMFI COO Intern",
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172062"
+  },
   "Schonfeld::8172064": {
     "first_seen": "2026-09-05",
     "title": "2027 Corporate Strategy & Transformation Intern",
@@ -15883,6 +15973,16 @@
     "first_seen": "2026-09-30",
     "title": "2027 Quantitative C++ Developer Intern",
     "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8238451"
+  },
+  "Schonfeld::8267092": {
+    "first_seen": "2026-10-10",
+    "title": "2027 Quantitative Developer Intern",
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8267092"
+  },
+  "Schonfeld::8267120": {
+    "first_seen": "2026-10-10",
+    "title": "2027 Quantitative Research Intern",
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8267120"
   },
   "Snowflake::1bad12df-f443-426f-9d09-e96fc780d698": {
     "first_seen": "2026-06-17",
@@ -16303,6 +16403,11 @@
     "first_seen": "2026-08-29",
     "title": "Commercial Planning Intern",
     "url": "https://sumup.com/careers/positions/8759131002?gh_jid=8759131002"
+  },
+  "SumUp::8881395002": {
+    "first_seen": "2026-10-10",
+    "title": "Working Student - Executive Talent Sourcing",
+    "url": "https://sumup.com/careers/positions/8881395002?gh_jid=8881395002"
   },
   "Tower Research Capital::7011493": {
     "first_seen": "2026-09-02",
