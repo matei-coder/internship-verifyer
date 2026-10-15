@@ -454,6 +454,11 @@
     "title": "2027 Applied Scientist Intern – PhD, Amazon University Talent Acquisition",
     "url": "https://www.amazon.jobs/en/jobs/10567690/2027-applied-scientist-intern-phd-amazon-university-talent-acquisition"
   },
+  "Amazon::10567694": {
+    "first_seen": "2026-10-15",
+    "title": "2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition",
+    "url": "https://www.amazon.jobs/en/jobs/10567694/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition"
+  },
   "Amazon::10567709": {
     "first_seen": "2026-10-03",
     "title": "Business Analyst Intern (6 months) - 2027",
@@ -463,6 +468,11 @@
     "first_seen": "2026-10-03",
     "title": "Business Analyst Intern (6 months) - 2027",
     "url": "https://www.amazon.jobs/en/jobs/10567734/business-analyst-intern-6-months-2027"
+  },
+  "Amazon::10567744": {
+    "first_seen": "2026-10-15",
+    "title": "2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition",
+    "url": "https://www.amazon.jobs/en/jobs/10567744/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition"
   },
   "Amazon::10567780": {
     "first_seen": "2026-10-03",
@@ -488,6 +498,11 @@
     "first_seen": "2026-10-07",
     "title": "Software Development Engineer (Embedded Systems) Intern, Amazon Leo - Summer 2027 (USA)",
     "url": "https://www.amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa"
+  },
+  "Amazon::10574920": {
+    "first_seen": "2026-10-15",
+    "title": "2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition",
+    "url": "https://www.amazon.jobs/en/jobs/10574920/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition"
   },
   "Amazon::10574925": {
     "first_seen": "2026-10-10",
@@ -8739,6 +8754,41 @@
     "title": "[FCM] Admin & Reception Intern",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155440301"
   },
+  "Bosch::744000155452020": {
+    "first_seen": "2026-10-15",
+    "title": "HR Internship (Administration, Training & Organization)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155452020"
+  },
+  "Bosch::744000155461040": {
+    "first_seen": "2026-10-15",
+    "title": "Internship in Project Management",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155461040"
+  },
+  "Bosch::744000155476967": {
+    "first_seen": "2026-10-15",
+    "title": "Working Student in Software Development – Python (f/m/div.)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155476967"
+  },
+  "Bosch::744000155485820": {
+    "first_seen": "2026-10-15",
+    "title": "HR Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155485820"
+  },
+  "Bosch::744000155628819": {
+    "first_seen": "2026-10-15",
+    "title": "Internship in Marketing",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155628819"
+  },
+  "Bosch::744000155663798": {
+    "first_seen": "2026-10-15",
+    "title": "Internship 2026, Human Resources - Expat Management (C/PJ-HRSTH)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155663798"
+  },
+  "Bosch::744000155688019": {
+    "first_seen": "2026-10-15",
+    "title": "[FCM] Receptionist/Admin Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155688019"
+  },
   "CERN::744000085340717": {
     "first_seen": "2026-06-17",
     "title": "Short Term Internship 2026",
@@ -10544,6 +10594,11 @@
     "title": "Trade Finance Sales Intern",
     "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Sao-Paulo-Edificio-Pedro-Mariz/Trade-Finance-Sales-Intern_R0447998"
   },
+  "Deutsche Bank::R0448350": {
+    "first_seen": "2026-10-15",
+    "title": "Trade Finance and Lending Intern",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Sao-Paulo-Edificio-Pedro-Mariz/Trade-Finance-and-Lending-Intern_R0448350"
+  },
   "Deutsche Bank::R0448780": {
     "first_seen": "2026-09-16",
     "title": "Intern Lending Switzerland (f/m/x)",
@@ -11789,6 +11844,11 @@
     "title": "AI Frameworks Intern",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/AI-Frameworks-Intern_JR0287895"
   },
+  "Intel::JR0287897": {
+    "first_seen": "2026-10-15",
+    "title": "Compiler Engineering Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Compiler-Engineering-Intern_JR0287897"
+  },
   "Intel::JR0287917": {
     "first_seen": "2026-10-09",
     "title": "AI Software Engineering Graduate Intern",
@@ -11813,6 +11873,11 @@
     "first_seen": "2026-10-14",
     "title": "Silicon Architecture Undergraduate Intern",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Ireland-Leixlip/Silicon-Architecture-Undergraduate-Intern_JR0287998"
+  },
+  "Intel::JR0288217": {
+    "first_seen": "2026-10-15",
+    "title": "AI Frameworks Engineer - Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/AI-Frameworks-Engineer---Intern_JR0288217"
   },
   "Jane Street::8151903002": {
     "first_seen": "2026-06-17",
@@ -12124,6 +12189,11 @@
     "title": "ASIC Engineer Intern, ImplementationBangalore, IndiaData CenterInfrastructureHardware",
     "url": "https://www.metacareers.com/profile/job_details/1046140895105013"
   },
+  "Meta::1079763448023260": {
+    "first_seen": "2026-10-15",
+    "title": "ASIC Engineering Intern, Design Verification (Silicon Engineering)Sunnyvale, CAAR/VRInternship - Engineering, Tech & DesignHardwareEngineering",
+    "url": "https://www.metacareers.com/profile/job_details/1079763448023260"
+  },
   "Meta::1080292111664557": {
     "first_seen": "2026-10-10",
     "title": "Structural Design Engineer - FEA (Intern)",
@@ -12199,6 +12269,11 @@
     "title": "Data Scientist Intern, Product Analytics (Summer 2027)",
     "url": "https://www.metacareers.com/profile/job_details/1633096478817942"
   },
+  "Meta::1658187582680157": {
+    "first_seen": "2026-10-15",
+    "title": "Research Scientist Intern, Robotics Foundation Models Mid-Training (PhD)Menlo Park, CAAI ResearchInternship - PhDResearchArtificial IntelligenceComputer VisionMachine Learning",
+    "url": "https://www.metacareers.com/profile/job_details/1658187582680157"
+  },
   "Meta::1674394627579563": {
     "first_seen": "2026-10-10",
     "title": "Research Scientist Intern, Spatial Audio Capture and Reproduction (PhD)Redmond, WAInternship - PhDResearchComputer Vision",
@@ -12214,10 +12289,20 @@
     "title": "Research Scientist Intern, Optical System Design (PhD)",
     "url": "https://www.metacareers.com/profile/job_details/1710381673750348"
   },
+  "Meta::1758435721926913": {
+    "first_seen": "2026-10-15",
+    "title": "Computer Vision Engineer Intern, Advanced Manufacturing (Reality Labs)Sunnyvale, CAInternship - Engineering, Tech & DesignFacebook Reality LabsHardware",
+    "url": "https://www.metacareers.com/profile/job_details/1758435721926913"
+  },
   "Meta::1760132191666571": {
     "first_seen": "2026-06-18",
     "title": "Research Scientist Intern, Audio Quality with AI (PhD)",
     "url": "https://www.metacareers.com/profile/job_details/1760132191666571"
+  },
+  "Meta::1763344164969127": {
+    "first_seen": "2026-10-15",
+    "title": "Structural Design Engineer - FEA (Intern)",
+    "url": "https://www.metacareers.com/profile/job_details/1763344164969127"
   },
   "Meta::1782902493113620": {
     "first_seen": "2026-06-23",
@@ -12268,6 +12353,16 @@
     "first_seen": "2026-10-08",
     "title": "Data Center Technician, Intern",
     "url": "https://www.metacareers.com/profile/job_details/2185283202380208"
+  },
+  "Meta::2237519230439134": {
+    "first_seen": "2026-10-15",
+    "title": "Research Scientist Intern, Audio, Numerical Acoustics (PhD)Redmond, WAResearchInternship - PhD",
+    "url": "https://www.metacareers.com/profile/job_details/2237519230439134"
+  },
+  "Meta::2271558583687956": {
+    "first_seen": "2026-10-15",
+    "title": "Optical Engineering Intern - Camera, Depth & Cover Window OpticsSunnyvale, CAAR/VRFacebook Reality LabsInternship - Engineering, Tech & DesignHardwareEngineering",
+    "url": "https://www.metacareers.com/profile/job_details/2271558583687956"
   },
   "Meta::2281218542616482": {
     "first_seen": "2026-07-11",
@@ -13198,6 +13293,11 @@
     "first_seen": "2026-09-26",
     "title": "Intern",
     "url": "https://ms.wd5.myworkdayjobs.com/External/job/Tulsa-Oklahoma-United-States-of-America/Intern_JR044842"
+  },
+  "Morgan Stanley::JR045320": {
+    "first_seen": "2026-10-15",
+    "title": "Intern - Bilingual English/Mandarin",
+    "url": "https://ms.wd5.myworkdayjobs.com/External/job/Beverly-Hills-California-United-States-of-America/Intern---Bilingual-English-Mandarin_JR045320"
   },
   "N26::7981887": {
     "first_seen": "2026-06-29",
@@ -14273,6 +14373,26 @@
     "first_seen": "2026-09-19",
     "title": "2027 Investment Services Internship - PIPELINE",
     "url": "https://boards.greenhouse.io/point72/jobs/8811167002?gh_jid=8811167002"
+  },
+  "Point72::8885299002": {
+    "first_seen": "2026-10-15",
+    "title": "2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research",
+    "url": "https://boards.greenhouse.io/point72/jobs/8885299002?gh_jid=8885299002"
+  },
+  "Point72::8885693002": {
+    "first_seen": "2026-10-15",
+    "title": "2027 Summer Internship - Fundamental Researcher, Canvas",
+    "url": "https://boards.greenhouse.io/point72/jobs/8885693002?gh_jid=8885693002"
+  },
+  "Point72::8885715002": {
+    "first_seen": "2026-10-15",
+    "title": "2027 Summer Internship - Sector Analyst, Proprietary Research",
+    "url": "https://boards.greenhouse.io/point72/jobs/8885715002?gh_jid=8885715002"
+  },
+  "Point72::8885733002": {
+    "first_seen": "2026-10-15",
+    "title": "2027 Summer Internship – Software Engineer",
+    "url": "https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002"
   },
   "Quadrature Capital::4255974": {
     "first_seen": "2026-06-17",
@@ -16383,6 +16503,16 @@
     "first_seen": "2026-10-13",
     "title": "Summer 2027 Intern - UI/UX Designer",
     "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Summer-2027-Intern---UI-UX-Designer_JR363342"
+  },
+  "Salesforce::JR364075": {
+    "first_seen": "2026-10-15",
+    "title": "LATAM Internship Program - Alliances & Channels Intern (Argentina)",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Argentina---Buenos-Aires/LATAM-Internship-Program---Alliances---Channels-Intern--Argentina-_JR364075-1"
+  },
+  "Salesforce::JR364363": {
+    "first_seen": "2026-10-15",
+    "title": "Summer 2027 Intern - Solution Engineer",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---Solution-Engineer_JR364363-1"
   },
   "Schonfeld::7185553": {
     "first_seen": "2026-06-17",
