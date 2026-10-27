@@ -184,6 +184,11 @@
     "title": "2027 Intern - Technical Support Engineer",
     "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/XMLNAME-2027-Intern---Technical-Support-Engineer_R172702-1"
   },
+  "Adobe::R172745": {
+    "first_seen": "2026-10-27",
+    "title": "2027 MBA Intern - Corporate Development",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-MBA-Intern---Corporate-Development_R172745"
+  },
   "Adobe::R172922": {
     "first_seen": "2026-10-22",
     "title": "2027 MBA Intern - Digital Strategy Associate, Strategic Advisory",
@@ -628,6 +633,11 @@
     "first_seen": "2026-10-24",
     "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
     "url": "https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa"
+  },
+  "Amazon::10588762": {
+    "first_seen": "2026-10-27",
+    "title": "2027 Software Dev Engineer Intern (Machine Learning) - UK",
+    "url": "https://www.amazon.jobs/en/jobs/10588762/2027-software-dev-engineer-intern-machine-learning-uk"
   },
   "Amazon::3063220": {
     "first_seen": "2026-07-09",
@@ -9404,6 +9414,21 @@
     "title": "[Bosch HcP – Internship] Lean Manufacturing Intern",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157721129"
   },
+  "Bosch::744000157805495": {
+    "first_seen": "2026-10-27",
+    "title": "Working Student in Sales Planning",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157805495"
+  },
+  "Bosch::744000157836419": {
+    "first_seen": "2026-10-27",
+    "title": "Undergraduate Placement Year 2027 – Design Intern in R&D",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157836419"
+  },
+  "Bosch::744000157957589": {
+    "first_seen": "2026-10-27",
+    "title": "[BD] JavaScript Developer Intern (6-month fulltime internship)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157957589"
+  },
   "CERN::744000085340717": {
     "first_seen": "2026-06-17",
     "title": "Short Term Internship 2026",
@@ -10383,6 +10408,11 @@
     "first_seen": "2026-06-17",
     "title": "Sales Development Intern (Summer, Fall 2026)",
     "url": "https://jobs.ashbyhq.com/cohere/c73a21dd-167b-48f1-ad59-beb08db37858"
+  },
+  "Cohere::f3290fb2-66f1-44c7-9824-3f416f44af5a": {
+    "first_seen": "2026-10-27",
+    "title": "Revenue Operations Intern (Winter, 2027)",
+    "url": "https://jobs.ashbyhq.com/cohere/f3290fb2-66f1-44c7-9824-3f416f44af5a"
   },
   "DRW::7668776": {
     "first_seen": "2026-07-14",
@@ -13104,6 +13134,11 @@
     "title": "Research Scientist Intern, Applied Vision and Image Quality (PhD)",
     "url": "https://www.metacareers.com/profile/job_details/1422892385992613"
   },
+  "Meta::1435245618154892": {
+    "first_seen": "2026-10-27",
+    "title": "Research Scientist Intern, Foundation Model Optimization (PhD)",
+    "url": "https://www.metacareers.com/profile/job_details/1435245618154892"
+  },
   "Meta::1510576574212840": {
     "first_seen": "2026-10-21",
     "title": "Research Scientist Intern, PhD — Meta Superintelligence LabsMenlo Park, CAAI ResearchArtificial IntelligenceUniversity Grad - PhD & PostdocResearchEngineering",
@@ -13138,6 +13173,11 @@
     "first_seen": "2026-10-21",
     "title": "Research Scientist Intern, Audio, Numerical Acoustics (PhD)Cambridge, UKAI ResearchUniversity Grad - PhD & PostdocResearch",
     "url": "https://www.metacareers.com/profile/job_details/1642811797633951"
+  },
+  "Meta::1649069223327170": {
+    "first_seen": "2026-10-27",
+    "title": "Technical Program Manager Intern, Reality Labs — 2027",
+    "url": "https://www.metacareers.com/profile/job_details/1649069223327170"
   },
   "Meta::1656954472496223": {
     "first_seen": "2026-10-22",
@@ -14253,6 +14293,11 @@
     "first_seen": "2026-10-16",
     "title": "Intern",
     "url": "https://ms.wd5.myworkdayjobs.com/External/job/Long-Beach-California-United-States-of-America/Intern_JR045559"
+  },
+  "Morgan Stanley::JR045578": {
+    "first_seen": "2026-10-27",
+    "title": "Intern",
+    "url": "https://ms.wd5.myworkdayjobs.com/External/job/Westport-Connecticut-United-States-of-America/Intern_JR045578"
   },
   "Morgan Stanley::JR045780": {
     "first_seen": "2026-10-20",
@@ -17399,6 +17444,31 @@
     "title": "Packaging Intern",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Shanghai/Packaging-Intern_202610-127213"
   },
+  "Roche::202610-127306": {
+    "first_seen": "2026-10-27",
+    "title": "Commercial Intern",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Lima/Commercial-Intern_202610-127306"
+  },
+  "Roche::202610-127493": {
+    "first_seen": "2026-10-27",
+    "title": "Regulatory Affairs Intern",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Sant-Cugat-del-Valls/Regulatory-Affairs-Intern_202610-127493"
+  },
+  "Roche::202610-127498": {
+    "first_seen": "2026-10-27",
+    "title": "Internship in Business Solution Management - Digital Health Products (as of 1 January 2027; Rotkreuz; 12 months)",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Rotkreuz/Internship-in-Business-Solution-Management---Digital-Health-Products--as-of-1-January-2027--Rotkreuz--12-months-_202610-127498-1"
+  },
+  "Roche::202610-127501": {
+    "first_seen": "2026-10-27",
+    "title": "Internship - Software and Data Engineer (for 12 months in Rotkreuz)",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Rotkreuz/Internship---Software-and-Data-Engineer--for-12-months-in-Rotkreuz-_202610-127501"
+  },
+  "Roche::202610-127533": {
+    "first_seen": "2026-10-27",
+    "title": "Industrial Placement Student - Data Expert, Compliance by Design, Data Capability, DDC, Computational Sciences Center of Excellence",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Industrial-Placement-Student---Data-Expert--Compliance-by-Design--Data-Capability--DDC--Computational-Sciences-Center-of-Excellence_202610-127533"
+  },
   "Salesforce::JR249467": {
     "first_seen": "2026-07-24",
     "title": "LATAM Internship Program | Sales Intern [Brazil]",
@@ -18753,6 +18823,11 @@
     "first_seen": "2026-10-20",
     "title": "Analytics Intern",
     "url": "https://jobs.smartrecruiters.com/wise/744000156355109"
+  },
+  "Wise::744000157850139": {
+    "first_seen": "2026-10-27",
+    "title": "People Operations Intern (12 month fixed-term)",
+    "url": "https://jobs.smartrecruiters.com/wise/744000157850139"
   },
   "Wolt::7984486": {
     "first_seen": "2026-06-17",
