@@ -649,6 +649,11 @@
     "title": "2027 Software Dev Engineer Intern (Machine Learning) - UK",
     "url": "https://www.amazon.jobs/en/jobs/10588762/2027-software-dev-engineer-intern-machine-learning-uk"
   },
+  "Amazon::10591833": {
+    "first_seen": "2026-10-29",
+    "title": "2027 Applied Science Internship - Robotics - United States",
+    "url": "https://www.amazon.jobs/en/jobs/10591833/2027-applied-science-internship-robotics-united-states"
+  },
   "Amazon::3063220": {
     "first_seen": "2026-07-09",
     "title": "Software Development Engineer Intern, Amazon University Talent Acquisition",
@@ -9564,6 +9569,46 @@
     "title": "[SX/BSV-VN] Embedded Test Engineer Intern",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158244934"
   },
+  "Bosch::744000158265839": {
+    "first_seen": "2026-10-29",
+    "title": "Technical Sales & Project Management Internship",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158265839"
+  },
+  "Bosch::744000158270689": {
+    "first_seen": "2026-10-29",
+    "title": "Intern, HVAC AI Research",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158270689"
+  },
+  "Bosch::744000158308459": {
+    "first_seen": "2026-10-29",
+    "title": "ETAS Agile Product Delivery Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158308459"
+  },
+  "Bosch::744000158326335": {
+    "first_seen": "2026-10-29",
+    "title": "Mandatory Internship in Organizational Development and Communication in an International Team",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158326335"
+  },
+  "Bosch::744000158334694": {
+    "first_seen": "2026-10-29",
+    "title": "Internship in Characterization of Optical Sensors",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158334694"
+  },
+  "Bosch::744000158334825": {
+    "first_seen": "2026-10-29",
+    "title": "Intern in the Finance Department",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158334825"
+  },
+  "Bosch::744000158348849": {
+    "first_seen": "2026-10-29",
+    "title": "AI Engineering Automation Intern (f/m/div.)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158348849"
+  },
+  "Bosch::744000158429749": {
+    "first_seen": "2026-10-29",
+    "title": "Intern, Software Development",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158429749"
+  },
   "CERN::744000085340717": {
     "first_seen": "2026-06-17",
     "title": "Short Term Internship 2026",
@@ -9693,6 +9738,11 @@
     "first_seen": "2026-07-30",
     "title": "Intern Payroll & HR Administration (EMEA & APJ)",
     "url": "https://job-boards.greenhouse.io/celonis/jobs/7643399003?gh_jid=7643399003"
+  },
+  "Celonis::7665962003": {
+    "first_seen": "2026-10-29",
+    "title": "Associate Deployment Engineer - Galaxy Graduate Program",
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/7665962003?gh_jid=7665962003"
   },
   "Celonis::7667306003": {
     "first_seen": "2026-08-13",
@@ -10028,6 +10078,11 @@
     "first_seen": "2026-10-24",
     "title": "Intern Technology Consultant - Data & AI",
     "url": "https://job-boards.greenhouse.io/celonis/jobs/8042925003?gh_jid=8042925003"
+  },
+  "Celonis::8046331003": {
+    "first_seen": "2026-10-29",
+    "title": "Strategy & Operations Graduated Internship (12 months)",
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/8046331003?gh_jid=8046331003"
   },
   "Check24::744000105586044": {
     "first_seen": "2026-06-17",
@@ -13554,6 +13609,11 @@
     "title": "Research Scientist Intern, VLM and Omni Model Post-Training (PhD)Sunnyvale, CAAI ResearchInternship - PhDResearchComputer VisionMachine Learning",
     "url": "https://www.metacareers.com/profile/job_details/2988199118196184"
   },
+  "Meta::3333103890230916": {
+    "first_seen": "2026-10-29",
+    "title": "Technical Program Manager Intern, Global Supply Management — Reality Labs (2027)Sunnyvale, CAUniversity Grad - BusinessUniversity Grad - Engineering, Tech & DesignProgram Management",
+    "url": "https://www.metacareers.com/profile/job_details/3333103890230916"
+  },
   "Meta::4556622427930384": {
     "first_seen": "2026-10-21",
     "title": "Research Scientist Intern, Audio Quality with AICambridge, UKAI ResearchUniversity Grad - PhD & PostdocResearch",
@@ -15038,6 +15098,16 @@
     "first_seen": "2026-10-12",
     "title": "Accelerated Computing Research Intern",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Sweden-Remote/Accelerated-Computing-Research-Intern_JR2027378"
+  },
+  "NVIDIA::JR2027711": {
+    "first_seen": "2026-10-29",
+    "title": "Performance Engineering Intern - 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Performance-Engineering-Intern---2027_JR2027711"
+  },
+  "NVIDIA::JR2028384": {
+    "first_seen": "2026-10-29",
+    "title": "Perf Engineering Intern - 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Perf-Engineering-Intern---2027_JR2028384"
   },
   "NVIDIA::JR2028499": {
     "first_seen": "2026-10-24",
@@ -17624,10 +17694,20 @@
     "title": "Strategic Talent Acquisition Intern - Hungarian speaking, German advantage",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Budapest/Strategic-Talent-Acquisition-Intern---Hungarian-speaking--German-advantage_202610-127252-1"
   },
+  "Roche::202610-127268": {
+    "first_seen": "2026-10-29",
+    "title": "Internship in PD Medical Affairs Compliance and Process Excellence – Non-Interventional Studies (NIS) Optimization & Digital Workspace (12 Months, Basel)",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-in-PD-Medical-Affairs-Compliance-and-Process-Excellence---Non-Interventional-Studies--NIS--Optimization---Digital-Workspace--12-Months--Basel-_202610-127268"
+  },
   "Roche::202610-127306": {
     "first_seen": "2026-10-27",
     "title": "Commercial Intern",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Lima/Commercial-Intern_202610-127306"
+  },
+  "Roche::202610-127323": {
+    "first_seen": "2026-10-29",
+    "title": "QA Intern",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Shanghai/QA-Intern_202610-127323"
   },
   "Roche::202610-127471": {
     "first_seen": "2026-10-28",
@@ -17658,6 +17738,11 @@
     "first_seen": "2026-10-28",
     "title": "Working Student Digital Roadmap and Proces Improvements (m/f/d)",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Working-Student-Digital-Roadmap-and-Proces-Improvements--m-f-d-_202610-127591"
+  },
+  "Roche::202610-127800": {
+    "first_seen": "2026-10-29",
+    "title": "Internship in PD Medical Affairs Compliance and Process Excellence – Project Management & Business Operations (12 Months, Basel)",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-in-PD-Medical-Affairs-Compliance-and-Process-Excellence---Project-Management---Business-Operations--12-Months--Basel-_202610-127800"
   },
   "Salesforce::JR249467": {
     "first_seen": "2026-07-24",
@@ -17984,6 +18069,11 @@
     "title": "2027 Data Science Intern",
     "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171692"
   },
+  "Schonfeld::8171694": {
+    "first_seen": "2026-10-29",
+    "title": "2027 Enterprise AI Intern",
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171694"
+  },
   "Schonfeld::8171696": {
     "first_seen": "2026-09-05",
     "title": "2027 Cybersecurity Operations Intern",
@@ -18113,6 +18203,11 @@
     "first_seen": "2026-10-23",
     "title": "2027 Index Rebalancing Quantitative Research Intern",
     "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8311597"
+  },
+  "Schonfeld::8324611": {
+    "first_seen": "2026-10-29",
+    "title": "2027 DMFI Intern",
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8324611"
   },
   "Snowflake::1bad12df-f443-426f-9d09-e96fc780d698": {
     "first_seen": "2026-06-17",
