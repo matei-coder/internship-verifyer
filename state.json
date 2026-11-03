@@ -599,6 +599,11 @@
     "title": "Business Intelligence Intern Italy",
     "url": "https://www.amazon.jobs/en/jobs/10579728/business-intelligence-intern-italy"
   },
+  "Amazon::10581053": {
+    "first_seen": "2026-11-03",
+    "title": "Applied Scientist Intern",
+    "url": "https://www.amazon.jobs/en/jobs/10581053/applied-scientist-intern"
+  },
   "Amazon::10581054": {
     "first_seen": "2026-10-28",
     "title": "Applied Scientist Intern",
@@ -1588,6 +1593,11 @@
     "first_seen": "2026-10-31",
     "title": "Chief Client Office - Client Data & Engineering Group Summer Internship Program 2027 New York City",
     "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Chief-Client-Office---Client-Data---Engineering-Group-Summer-Internship-Program-2027-New-York-City_JR-0000137731"
+  },
+  "Barclays::JR-0000137789": {
+    "first_seen": "2026-11-03",
+    "title": "Banking Analyst Summer Internship Program 2028 Houston",
+    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Houston-609-Main-Street/Banking-Analyst-Summer-Internship-Program-2028-Houston_JR-0000137789"
   },
   "BlaBlaCar::0e45b8e7-514d-415a-ba63-7c2f6ac9f8da": {
     "first_seen": "2026-07-16",
@@ -9834,6 +9844,76 @@
     "title": "Intern, HR (Employer Branding & Talent Engagement)",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159108155"
   },
+  "Bosch::744000159155779": {
+    "first_seen": "2026-11-03",
+    "title": "Internship in Digital & Integrated Production Solutions",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159155779"
+  },
+  "Bosch::744000159287159": {
+    "first_seen": "2026-11-03",
+    "title": "Internship in Foreign Worker Management",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159287159"
+  },
+  "Bosch::744000159287619": {
+    "first_seen": "2026-11-03",
+    "title": "[Bosch HcP – Internship] Production Engineering Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159287619"
+  },
+  "Bosch::744000159306909": {
+    "first_seen": "2026-11-03",
+    "title": "Intern, Quality Management Mobility Aftermarket East Asia",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159306909"
+  },
+  "Bosch::744000159311345": {
+    "first_seen": "2026-11-03",
+    "title": "Mandatory Internship in Organizational Development and Strategy in an International Team",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159311345"
+  },
+  "Bosch::744000159323700": {
+    "first_seen": "2026-11-03",
+    "title": "HRIT Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159323700"
+  },
+  "Bosch::744000159327431": {
+    "first_seen": "2026-11-03",
+    "title": "[Internship Program Q1 2027] Embedded Software Engineer Intern (C/C++/Linux)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159327431"
+  },
+  "Bosch::744000159327500": {
+    "first_seen": "2026-11-03",
+    "title": "[Internship Program Q1 2027] DevOps Engineer Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159327500"
+  },
+  "Bosch::744000159328650": {
+    "first_seen": "2026-11-03",
+    "title": "[Internship Program Q1 2027] Fullstack Engineer Intern (Java/NodeJS/Python/Django/React/.NET)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159328650"
+  },
+  "Bosch::744000159329040": {
+    "first_seen": "2026-11-03",
+    "title": "[Internship Program Q1 2027] AI Engineer Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159329040"
+  },
+  "Bosch::744000159329649": {
+    "first_seen": "2026-11-03",
+    "title": "[Internship Program Q1 2027] Automation Test Engineer Intern (Selenium)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159329649"
+  },
+  "Bosch::744000159333431": {
+    "first_seen": "2026-11-03",
+    "title": "Working Student in Automotive Security (f/m/div.)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159333431"
+  },
+  "Bosch::744000159340712": {
+    "first_seen": "2026-11-03",
+    "title": "[Internship] Sales Planning Support Intern (Japanese speaking)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159340712"
+  },
+  "Bosch::744000159348179": {
+    "first_seen": "2026-11-03",
+    "title": "[Internship] Billing Support and Order Management Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159348179"
+  },
   "CERN::744000085340717": {
     "first_seen": "2026-06-17",
     "title": "Short Term Internship 2026",
@@ -10994,10 +11074,20 @@
     "title": "Data Science Intern (2027 Start)",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002"
   },
+  "Databricks::6866549002": {
+    "first_seen": "2026-11-03",
+    "title": "Software Engineer - New Grad (2027 Start) - Amsterdam",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866549002"
+  },
   "Databricks::6883068002": {
     "first_seen": "2026-07-17",
     "title": "Product Management Intern (Summer 2027)",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002"
+  },
+  "Databricks::6886281002": {
+    "first_seen": "2026-11-03",
+    "title": "Software Engineer - New Grad (2027 Start) - Berlin",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6886281002"
   },
   "Databricks::7011263002": {
     "first_seen": "2026-06-17",
@@ -11013,6 +11103,16 @@
     "first_seen": "2026-10-03",
     "title": "Software Engineering Intern (2027 Start) - Belgrade",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7640764002"
+  },
+  "Databricks::7640776002": {
+    "first_seen": "2026-11-03",
+    "title": "Software Engineer - New Grad (2027 Start) - Belgrade",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7640776002"
+  },
+  "Databricks::8133691002": {
+    "first_seen": "2026-11-03",
+    "title": "Software Engineer - New Grad (2027 Start) - Aarhus",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133691002"
   },
   "Databricks::8133710002": {
     "first_seen": "2026-10-03",
@@ -11058,6 +11158,11 @@
     "first_seen": "2026-10-03",
     "title": "Software Engineering Intern (2027 Start) - London",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002"
+  },
+  "Databricks::8847747002": {
+    "first_seen": "2026-11-03",
+    "title": "Software Engineer - New Grad (2027 Start) - London",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8847747002"
   },
   "Databricks::8863326002": {
     "first_seen": "2026-10-03",
@@ -13194,6 +13299,11 @@
     "title": "Signal Integrity Intern",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Signal-Integrity-Intern_JR0288518"
   },
+  "Intel::JR0288633": {
+    "first_seen": "2026-11-03",
+    "title": "DevOps Software Engineering Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/DevOps-Software-Engineering-Intern_JR0288633"
+  },
   "Intel::JR0288692": {
     "first_seen": "2026-10-28",
     "title": "AI Software Engineer Intern",
@@ -13509,6 +13619,11 @@
     "title": "Systematic Quant Intern",
     "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/5012806101"
   },
+  "Man Group::5012811101": {
+    "first_seen": "2026-11-03",
+    "title": "Systematic Quant Intern - PhD",
+    "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/5012811101"
+  },
   "Marshall Wace::8879188002": {
     "first_seen": "2026-10-09",
     "title": "2027 Summer Operations Intern",
@@ -13738,6 +13853,11 @@
     "first_seen": "2026-10-09",
     "title": "Manufacturing Test Engineering Intern, AISunnyvale, CAAR/VRFacebook Reality LabsInternship - Engineering, Tech & DesignEngineeringHardware",
     "url": "https://www.metacareers.com/profile/job_details/1866862250969693"
+  },
+  "Meta::1872420890835857": {
+    "first_seen": "2026-11-03",
+    "title": "Research Scientist Intern, Robotic Control Policy (PhD)Redmond, WAInternship - PhDInternship - Engineering, Tech & DesignResearch",
+    "url": "https://www.metacareers.com/profile/job_details/1872420890835857"
   },
   "Meta::1940312740718917": {
     "first_seen": "2026-10-02",
@@ -14659,6 +14779,11 @@
     "title": "2027 - Summer Software Engineer Intern, Dublin",
     "url": "https://www.mongodb.com/careers/job/?gh_jid=8267099"
   },
+  "MongoDB::8328316": {
+    "first_seen": "2026-11-03",
+    "title": "Early Talent Recruiter",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=8328316"
+  },
   "Monzo::8156261": {
     "first_seen": "2026-09-28",
     "title": "Associate Software Engineer - Intern",
@@ -15383,6 +15508,11 @@
     "first_seen": "2026-10-24",
     "title": "Research Intern, Robotics - 2027",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Singapore-Pasir-Panjang/Research-Intern--Robotics---2027_JR2028499"
+  },
+  "NVIDIA::JR2029184": {
+    "first_seen": "2026-11-03",
+    "title": "Software Engineering Intern - 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184"
   },
   "Palantir::09846827-b931-4a9f-bd64-c3bb8860187b": {
     "first_seen": "2026-06-30",
@@ -17824,6 +17954,11 @@
     "title": "Finance and Accounting Intern - Hungarian speaking",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Budapest/Finance-and-Accounting-Intern---Hungarian-speaking_202610-125072-1"
   },
+  "Roche::202610-125082": {
+    "first_seen": "2026-11-03",
+    "title": "PEC LATAM Analyst (Intern)",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/San-Jose-Costa-Rica/PEC-LATAM-Analyst--Intern-_202610-125082"
+  },
   "Roche::202610-125165": {
     "first_seen": "2026-10-07",
     "title": "HR & Administrative Support Intern",
@@ -17894,6 +18029,11 @@
     "title": "Accounts Payable Intern - German speaking",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Budapest/Accounts-Payable-Intern---German-speaking_202610-125900-1"
   },
+  "Roche::202610-126011": {
+    "first_seen": "2026-11-03",
+    "title": "Intern - Asuntos Regulatorios",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/San-Jose-Costa-Rica/Intern---Asuntos-Regulatorios_202610-126011"
+  },
   "Roche::202610-126054": {
     "first_seen": "2026-10-22",
     "title": "Student Internship in Device Development and Verification Engineering (Basel, 9-12 months)",
@@ -17913,6 +18053,11 @@
     "first_seen": "2026-10-23",
     "title": "Intern Soluciones Pacientes",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Mexico-City/Intern-Soluciones-Pacientes_202610-126485"
+  },
+  "Roche::202610-126493": {
+    "first_seen": "2026-11-03",
+    "title": "Intern- [Site Services/Admin assistant/ Event Management]",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/San-Jose-Costa-Rica/Intern---Site-Services-Admin-assistant--Event-Management-_202610-126493"
   },
   "Roche::202610-126497": {
     "first_seen": "2026-10-20",
@@ -18034,6 +18179,11 @@
     "title": "2027 Summer Intern - Systems & Hardware Development",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Tucson/XMLNAME-2027-Summer-Intern---Systems---Hardware-Development_202610-127540"
   },
+  "Roche::202610-127551": {
+    "first_seen": "2026-11-03",
+    "title": "IT Training & Transition Intern",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Petaling-Jaya/IT-Training---Transition-Intern_202610-127551-1"
+  },
   "Roche::202610-127591": {
     "first_seen": "2026-10-28",
     "title": "Working Student Digital Roadmap and Proces Improvements (m/f/d)",
@@ -18049,6 +18199,11 @@
     "title": "Internship: Generative AI Designer (as of January 2027 for 12 months in Rotkreuz)",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Rotkreuz/Internship--Generative-AI-Designer--as-of-January-2027-for-12-months-in-Rotkreuz-_202610-127757"
   },
+  "Roche::202610-127766": {
+    "first_seen": "2026-11-03",
+    "title": "2027 Summer Intern - Systems Engineer - Instrument Development",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Tucson/XMLNAME-2027-Summer-Intern---Systems-Engineer---Instrument-Development_202610-127766"
+  },
   "Roche::202610-127800": {
     "first_seen": "2026-10-29",
     "title": "Internship in PD Medical Affairs Compliance and Process Excellence – Project Management & Business Operations (12 Months, Basel)",
@@ -18058,6 +18213,26 @@
     "first_seen": "2026-10-30",
     "title": "Intern : Data & Analytics Specialist",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Petaling-Jaya/Intern---Data---Analytics-Specialist_202610-127835"
+  },
+  "Roche::202610-127920": {
+    "first_seen": "2026-11-03",
+    "title": "Pharmacy Intern",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Singapore/Pharmacy-Intern_202610-127920"
+  },
+  "Roche::202610-127937": {
+    "first_seen": "2026-11-03",
+    "title": "Digital Marketing Intern",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Subang-Jaya/Digital-Marketing-Intern_202610-127937"
+  },
+  "Roche::202611-128183": {
+    "first_seen": "2026-11-03",
+    "title": "Pharmacovigilance Intern",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/San-Jose-Costa-Rica/Pharmacovigilance-Intern_202611-128183"
+  },
+  "Roche::202611-128187": {
+    "first_seen": "2026-11-03",
+    "title": "Marketing Intern",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Shanghai/Marketing-Intern_202611-128187"
   },
   "Salesforce::JR249467": {
     "first_seen": "2026-07-24",
