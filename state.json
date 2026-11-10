@@ -729,6 +729,11 @@
     "title": "2027 Applied Scientist Internship – Masters, Amazon University Talent Acquisition",
     "url": "https://www.amazon.jobs/en/jobs/10596377/2027-applied-scientist-internship-masters-amazon-university-talent-acquisition"
   },
+  "Amazon::10597379": {
+    "first_seen": "2026-11-10",
+    "title": "Software Development Engineer Intern - Summer 2027",
+    "url": "https://www.amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027"
+  },
   "Amazon::10598501": {
     "first_seen": "2026-11-06",
     "title": "Cloud Hardware Dev Engineer Intern",
@@ -743,6 +748,16 @@
     "first_seen": "2026-11-09",
     "title": "Robotics - Applied Scientist II Intern / Co-op - 2027 (Robotics, Perception, Manipulation, Locomotion, Planning, HRI and more), Amazon Development Center Taiwan",
     "url": "https://www.amazon.jobs/en/jobs/10599510/robotics-applied-scientist-ii-intern-co-op-2027-robotics-perception-manipulation-locomotion-planning-hri-and-more-amazon-development-center-taiwan"
+  },
+  "Amazon::10600781": {
+    "first_seen": "2026-11-10",
+    "title": "Account Mgr Intern",
+    "url": "https://www.amazon.jobs/en/jobs/10600781/account-mgr-intern"
+  },
+  "Amazon::10600919": {
+    "first_seen": "2026-11-10",
+    "title": "Applied Scientist Intern - VLA and DATA, RIVR",
+    "url": "https://www.amazon.jobs/en/jobs/10600919/applied-scientist-intern-vla-and-data-rivr"
   },
   "Amazon::3063220": {
     "first_seen": "2026-07-09",
@@ -10279,6 +10294,46 @@
     "title": "Undergraduate Placement Year 2027 – HR Intern",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160584059"
   },
+  "Bosch::744000160596939": {
+    "first_seen": "2026-11-10",
+    "title": "Undergraduate Placement Year 2027 – HR Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160596939"
+  },
+  "Bosch::744000160598089": {
+    "first_seen": "2026-11-10",
+    "title": "Extracurricular Internship: Data Engineering - Cloud Platform (f/m/div.)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160598089"
+  },
+  "Bosch::744000160633969": {
+    "first_seen": "2026-11-10",
+    "title": "Sales Support Curricular Internship",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160633969"
+  },
+  "Bosch::744000160644192": {
+    "first_seen": "2026-11-10",
+    "title": "Software Function Developer intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160644192"
+  },
+  "Bosch::744000160732909": {
+    "first_seen": "2026-11-10",
+    "title": "HR Service Intern (Year Round)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160732909"
+  },
+  "Bosch::744000160787218": {
+    "first_seen": "2026-11-10",
+    "title": "Plant Trainee (数字化/AI方向)_PT",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160787218"
+  },
+  "Bosch::744000160791919": {
+    "first_seen": "2026-11-10",
+    "title": "[Bosch HcP – Internship] Digital Quality Management System Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160791919"
+  },
+  "Bosch::744000160793209": {
+    "first_seen": "2026-11-10",
+    "title": "Internship 2026, Technical Engineering in Industrial Engineering, Chassis System (RBTY/BPS)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160793209"
+  },
   "CERN::744000085340717": {
     "first_seen": "2026-06-17",
     "title": "Short Term Internship 2026",
@@ -10863,6 +10918,16 @@
     "first_seen": "2026-11-04",
     "title": "Intern Strategic Program Management",
     "url": "https://job-boards.greenhouse.io/celonis/jobs/8156996003?gh_jid=8156996003"
+  },
+  "Celonis::8198760003": {
+    "first_seen": "2026-11-10",
+    "title": "Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern",
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/8198760003?gh_jid=8198760003"
+  },
+  "Celonis::8200179003": {
+    "first_seen": "2026-11-10",
+    "title": "Associate Deployment Engineer - Galaxy Graduate Program (Spanish/Portuguese speaking)",
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/8200179003?gh_jid=8200179003"
   },
   "Check24::744000105586044": {
     "first_seen": "2026-06-17",
@@ -14498,6 +14563,11 @@
     "first_seen": "2026-11-04",
     "title": "Research Scientist Intern, Computer Vision - Video Intelligence (PhD)SingaporeAI ResearchInternship - PhDResearch",
     "url": "https://www.metacareers.com/profile/job_details/2302997017210194"
+  },
+  "Meta::2432079507324778": {
+    "first_seen": "2026-11-10",
+    "title": "Research Scientist Intern,  AI Core Machine Learning (PhD)",
+    "url": "https://www.metacareers.com/profile/job_details/2432079507324778"
   },
   "Meta::24536664159369645": {
     "first_seen": "2026-06-18",
@@ -18904,6 +18974,11 @@
     "title": "Business Partner Master Data Intern",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Budapest/Business-Partner-Master-Data-Intern_202611-128280"
   },
+  "Roche::202611-128313": {
+    "first_seen": "2026-11-10",
+    "title": "Indirect Procurement Trainee",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Lima/Indirect-Procurement-Trainee_202611-128313"
+  },
   "Roche::202611-128361": {
     "first_seen": "2026-11-06",
     "title": "Office Executive Intern - Hungarian speaking",
@@ -18919,10 +18994,20 @@
     "title": "Accounting Intern",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/San-Jose-Costa-Rica/Accounting-Intern_202611-128401"
   },
+  "Roche::202611-128546": {
+    "first_seen": "2026-11-10",
+    "title": "2027 Summer Intern - CSI-Assay Bioinformatics",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Pleasanton/XMLNAME-2027-Summer-Intern---CSI-Assay-Bioinformatics_202611-128546-1"
+  },
   "Roche::202611-128573": {
     "first_seen": "2026-11-06",
     "title": "Internship in Manufacturing Science and Technology (12 months)",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-in-Manufacturing-Science-and-Technology--12-months-_202611-128573"
+  },
+  "Roche::202611-128725": {
+    "first_seen": "2026-11-10",
+    "title": "AI Business Development Intern",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Sant-Cugat-del-Valls/AI-Business-Development-Intern_202611-128725"
   },
   "Salesforce::JR249467": {
     "first_seen": "2026-07-24",
@@ -20254,6 +20339,11 @@
     "title": "Presales & Solution Engineering Intern",
     "url": "https://jobs.ashbyhq.com/uipath/2f0694c3-0a32-43db-8cba-783d8b4632f6"
   },
+  "UiPath::4983eab7-099d-4c77-9a5a-8dde72084c04": {
+    "first_seen": "2026-11-10",
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04"
+  },
   "UiPath::b262761e-ae68-48ab-b82c-8b41ad647a6f": {
     "first_seen": "2026-06-17",
     "title": "Front-End Software Engineer Intern",
@@ -20263,6 +20353,11 @@
     "first_seen": "2026-06-17",
     "title": "Social Media & Content Working Student",
     "url": "https://jobs.ashbyhq.com/uipath/c0dd9f18-27d0-499f-b8b8-1993ce68cda2"
+  },
+  "UiPath::f6857594-645c-4833-aa5b-763e9759b555": {
+    "first_seen": "2026-11-10",
+    "title": "AI Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/uipath/f6857594-645c-4833-aa5b-763e9759b555"
   },
   "Virtu Financial::5208637002": {
     "first_seen": "2026-07-31",
