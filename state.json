@@ -279,6 +279,11 @@
     "title": "2027 Intern - Solutions Consulting",
     "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Paris/XMLNAME-2027-Intern---Solutions-Consulting_R173322"
   },
+  "Adobe::R173345": {
+    "first_seen": "2026-11-13",
+    "title": "2027 Intern - Research Scientist",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345"
+  },
   "Adobe::R173411": {
     "first_seen": "2026-11-05",
     "title": "2027 Intern - Brand Creative",
@@ -288,6 +293,11 @@
     "first_seen": "2026-11-07",
     "title": "2027 Intern — Employee Communications",
     "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Employee-Communications_R173412"
+  },
+  "Adobe::R173413": {
+    "first_seen": "2026-11-13",
+    "title": "2027 Intern - Communications",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-Intern---Communications_R173413"
   },
   "Adobe::R173414": {
     "first_seen": "2026-11-05",
@@ -10584,6 +10594,31 @@
     "title": "Internship in GenAI Knowledge Assistant for Engineering",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161271789"
   },
+  "Bosch::744000161339309": {
+    "first_seen": "2026-11-13",
+    "title": "AI Research Intern – Time Series Foundation Models",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161339309"
+  },
+  "Bosch::744000161349759": {
+    "first_seen": "2026-11-13",
+    "title": "Facilities Management Co-op Student (8 - 12 Months)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161349759"
+  },
+  "Bosch::744000161409674": {
+    "first_seen": "2026-11-13",
+    "title": "[Bosch HcP - Internship] General Affairs Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161409674"
+  },
+  "Bosch::744000161437030": {
+    "first_seen": "2026-11-13",
+    "title": "Working student Deep Learning & Data Science",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161437030"
+  },
+  "Bosch::744000161438539": {
+    "first_seen": "2026-11-13",
+    "title": "Working Student Embedded ADAS Software",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161438539"
+  },
   "CERN::744000085340717": {
     "first_seen": "2026-06-17",
     "title": "Short Term Internship 2026",
@@ -10708,6 +10743,11 @@
     "first_seen": "2026-11-05",
     "title": "Short Term Internship 2027 - Technology Transfer & Innovation",
     "url": "https://jobs.smartrecruiters.com/cern/744000159643168"
+  },
+  "CERN::744000161308760": {
+    "first_seen": "2026-11-13",
+    "title": "Short Term Internship 2027 - LEGAL",
+    "url": "https://jobs.smartrecruiters.com/cern/744000161308760"
   },
   "Canva::6000000001289889": {
     "first_seen": "2026-08-06",
@@ -11178,6 +11218,16 @@
     "first_seen": "2026-11-10",
     "title": "Associate Deployment Engineer - Galaxy Graduate Program (Spanish/Portuguese speaking)",
     "url": "https://job-boards.greenhouse.io/celonis/jobs/8200179003?gh_jid=8200179003"
+  },
+  "Celonis::8202446003": {
+    "first_seen": "2026-11-13",
+    "title": "Associate Technology Consultant - Galaxy Graduate Program",
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/8202446003?gh_jid=8202446003"
+  },
+  "Celonis::8202449003": {
+    "first_seen": "2026-11-13",
+    "title": "Associate Technology Consultant - Galaxy Graduate Program",
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/8202449003?gh_jid=8202449003"
   },
   "Check24::744000105586044": {
     "first_seen": "2026-06-17",
@@ -12774,6 +12824,11 @@
     "title": "O&A Benelux Coverage Seasonal Intern (f/m/x)",
     "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Amsterdam/O-A-Benelux-Coverage-Seasonal-Intern--f-m-x-_R0453348"
   },
+  "Deutsche Bank::R0453350": {
+    "first_seen": "2026-11-13",
+    "title": "BeNeLux Seasonal 2027 Interns",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Amsterdam/BeNeLux-Seasonal-2027-Interns_R0453350"
+  },
   "Deutsche Bank::R0453418": {
     "first_seen": "2026-11-06",
     "title": "O&A Swiss Coverage Intern (f/m/x)",
@@ -12993,6 +13048,16 @@
     "first_seen": "2026-10-11",
     "title": "Communications Intern",
     "url": "https://helsing.ai/jobs/5002061101?gh_jid=5002061101"
+  },
+  "Helsing::5035173101": {
+    "first_seen": "2026-11-13",
+    "title": "Early Careers - Aerospace and Aeronautical Engineering",
+    "url": "https://helsing.ai/jobs/5035173101?gh_jid=5035173101"
+  },
+  "Helsing::5035194101": {
+    "first_seen": "2026-11-13",
+    "title": "Early Careers - Electronics and RF Engineering",
+    "url": "https://helsing.ai/jobs/5035194101?gh_jid=5035194101"
   },
   "Hudson River Trading::4576493": {
     "first_seen": "2026-06-17",
@@ -13703,6 +13768,11 @@
     "first_seen": "2026-09-11",
     "title": "Parametric Test Module Intern",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Parametric-Test-Module-Intern_JR0286719"
+  },
+  "Intel::JR0286720": {
+    "first_seen": "2026-11-13",
+    "title": "SLT Mechanical Design Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/SLT-Mechanical-Design-Intern_JR0286720"
   },
   "Intel::JR0286728": {
     "first_seen": "2026-08-28",
@@ -19343,6 +19413,16 @@
     "first_seen": "2026-11-12",
     "title": "Safety, Health & Environment (SHE) Internship",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Central-Singapore/Safety--Health---Environment--SHE--Internship_202611-128922-2"
+  },
+  "Roche::202611-128979": {
+    "first_seen": "2026-11-13",
+    "title": "Cybersecurity & Digital Solution Assistant Engineer Intern (12 months)",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Kuwait/Cybersecurity---Digital-Solution-Assistant-Engineer-Intern--12-months-_202611-128979"
+  },
+  "Roche::202611-129122": {
+    "first_seen": "2026-11-13",
+    "title": "Trilingual University/ Campus Program Intern (Spanish, English & Portuguese)",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/San-Jose-Costa-Rica/Trilingual-University--Campus-Program-Intern--Spanish--English---Portuguese-_202611-129122"
   },
   "Salesforce::JR249467": {
     "first_seen": "2026-07-24",
